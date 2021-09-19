@@ -11,3 +11,14 @@ ORG_LOGO="https://www.eastellar.com/images/eastellar.png"
 ORG_OFFICIAL_EMAIL="mail@eastellar.com"
 ORG_TWITTER="eastellar"
 ORG_DESCRIPTION="eastellar.com is a Stellar Assets Marketplace"
+
+[[CURRENCIES]]
+code="MOBI"
+issuer="GASPHHE2ZUYTYZCXBK24LRXBGJIMS3TEL27Q7JPYAL322VYOKXGHBFWZ"
+status="live"
+display_decimals=4
+name="MOBI"
+fixed_number=25000000000
+desc="MOBI is issued by SupremeStellar Team."
+conditions="Maximum supply of MOBI is 25B tokens only"
+image="https://supremestellar.com/images/MOBI.png"
