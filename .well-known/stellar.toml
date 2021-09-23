@@ -44,3 +44,14 @@ fixed_number=25000000000
 desc="BTC is issued by Eastellar Team."
 conditions="Maximum supply of BTC is 25B tokens only"
 image="https://eastellar.com/images/BTC.png"
+
+[[CURRENCIES]]
+code="USDT"
+issuer="GB4KYMYHJZ4JLKBRMD7UFOIFQKGXB67CUE2SV2YUVGUTQ3NE2JCEA5JD"
+status="live"
+display_decimals=4
+name="USDT"
+fixed_number=25000000000
+desc="USDT is issued by Eastellar Team."
+conditions="Maximum supply of USDT is 25B tokens only"
+image="https://eastellar.com/images/USDT.png"
