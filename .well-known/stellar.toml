@@ -55,3 +55,14 @@ fixed_number=25000000000
 desc="USDT is issued by Eastellar Team."
 conditions="Maximum supply of USDT is 25B tokens only"
 image="https://eastellar.com/images/USDT.png"
+
+[[CURRENCIES]]
+code="XRP"
+issuer="GAFMMGOZ4WEO36D2RDZLJCBR563YPC4TRBAZAWLN3SAZKMZM2IJO7MP7"
+status="live"
+display_decimals=4
+name="XRP"
+fixed_number=25000000000
+desc="XRP is issued by Eastellar Team."
+conditions="Maximum supply of XRP is 25B tokens only"
+image="https://eastellar.com/images/XRP.png"
