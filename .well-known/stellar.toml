@@ -66,3 +66,14 @@ fixed_number=25000000000
 desc="XRP is issued by Eastellar Team."
 conditions="Maximum supply of XRP is 25B tokens only"
 image="https://eastellar.com/images/XRP.png"
+
+[[CURRENCIES]]
+code="USDC"
+issuer="GDIQVO2M33IJUNUOI4QHFKKLAYLNGT5QKPM5ZK77GRI5UT553PSPUPRK"
+status="live"
+display_decimals=4
+name="USDC"
+fixed_number=25000000000
+desc="USDC is issued by Eastellar Team."
+conditions="Maximum supply of USDC is 25B tokens only"
+image="https://eastellar.com/images/USDC.png"
