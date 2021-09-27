@@ -77,3 +77,14 @@ fixed_number=25000000000
 desc="USDC is issued by Eastellar Team."
 conditions="Maximum supply of USDC is 25B tokens only"
 image="https://eastellar.com/images/USDC.png"
+
+[[CURRENCIES]]
+code="LIGHTHOUSE"
+issuer="GAWYEFUBF2ECZGMU4TP22IQXMGRBJAMRZEBSHBB6O3PP7VQC7DLVKDUU"
+status="live"
+display_decimals=4
+name="LIGHTHOUSE"
+fixed_number=25000000000
+desc="LIGHTHOUSE is issued by Eastellar Team."
+conditions="Maximum supply of LIGHTHOUSE is 25B tokens only"
+image="https://eastellar.com/images/LIGHTHOUSE.png"
