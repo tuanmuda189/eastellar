@@ -88,3 +88,14 @@ fixed_number=25000000000
 desc="LIGHTHOUSE is issued by Eastellar Team."
 conditions="Maximum supply of LIGHTHOUSE is 25B tokens only"
 image="https://eastellar.com/images/LIGHTHOUSE.png"
+
+[[CURRENCIES]]
+code="HORSE"
+issuer="GBNXX3KZDY6QZTCP5QLN6NE33WMDVZHL4G3S5NUW2OMAD67KION6GEES"
+status="live"
+display_decimals=4
+name="HORSE"
+fixed_number=25000000000
+desc="HORSE is issued by Eastellar Team."
+conditions="Maximum supply of HORSE is 25B tokens only"
+image="https://eastellar.com/images/HORSE.png"
