@@ -99,3 +99,14 @@ fixed_number=25000000000
 desc="HORSE is issued by Eastellar Team."
 conditions="Maximum supply of HORSE is 25B tokens only"
 image="https://eastellar.com/images/HORSE.png"
+
+[[CURRENCIES]]
+code="WIFI"
+issuer="GABVF5DRC4VZQQASPZFSJE4MG3WBQPVKVKWUPLHQ4HTK3EOR7FDX7T6F"
+status="live"
+display_decimals=4
+name="WIFI"
+fixed_number=50000000000
+desc="WIFI is issued by Eastellar Team."
+conditions="Maximum supply of WIFI is 50B tokens only"
+image="https://eastellar.com/images/WIFI.png"
