@@ -132,3 +132,14 @@ fixed_number=50000000000
 desc="MAP is issued by Eastellar Team."
 conditions="Maximum supply of MAP is 50B tokens only"
 image="https://eastellar.com/images/MAP.png"
+
+[[CURRENCIES]]
+code="CIRCLE"
+issuer="GBMD4K6MCHJ7LQDVB4WXXNUAJS5APTKXZE3UNYYWGLQBJAEAE6PAKRHL"
+status="live"
+display_decimals=4
+name="CIRCLE"
+fixed_number=50000000000
+desc="CIRCLE is issued by Eastellar Team."
+conditions="Maximum supply of CIRCLE is 50B tokens only"
+image="https://eastellar.com/images/CIRCLE.png"
