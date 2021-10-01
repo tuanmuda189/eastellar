@@ -121,3 +121,14 @@ fixed_number=50000000000
 desc="COSMIC is issued by Eastellar Team."
 conditions="Maximum supply of COSMIC is 50B tokens only"
 image="https://eastellar.com/images/COSMIC.png"
+
+[[CURRENCIES]]
+code="MAP"
+issuer="GBMD4K6MCHJ7LQDVB4WXXNUAJS5APTKXZE3UNYYWGLQBJAEAE6PAKRHL"
+status="live"
+display_decimals=4
+name="MAP"
+fixed_number=50000000000
+desc="MAP is issued by Eastellar Team."
+conditions="Maximum supply of MAP is 50B tokens only"
+image="https://eastellar.com/images/MAP.png"
