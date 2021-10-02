@@ -143,3 +143,14 @@ fixed_number=50000000000
 desc="CIRCLE is issued by Eastellar Team."
 conditions="Maximum supply of CIRCLE is 50B tokens only"
 image="https://eastellar.com/images/CIRCLE.png"
+
+[[CURRENCIES]]
+code="PIXEL"
+issuer="GCOHRHDM6M5CCJ46UPQ4XWU3T7ZQ223UNGDSVSUORAIHSI5BYHV5K7MS"
+status="live"
+display_decimals=4
+name="PIXEL"
+fixed_number=25000000000
+desc="PIXEL is issued by Eastellar Team."
+conditions="Maximum supply of PIXEL is 25B tokens only"
+image="https://eastellar.com/images/PIXEL.png"
