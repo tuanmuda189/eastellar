@@ -154,3 +154,14 @@ fixed_number=25000000000
 desc="PIXEL is issued by Eastellar Team."
 conditions="Maximum supply of PIXEL is 25B tokens only"
 image="https://eastellar.com/images/PIXEL.png"
+
+[[CURRENCIES]]
+code="ONE"
+issuer="GB7ZDXTZXIQSB2CHT4QR4EGJXNOLLOWFPFHAJOH3FWQCT4GIWZ2YXID4"
+status="live"
+display_decimals=4
+name="ONE"
+fixed_number=25000000000
+desc="ONE is issued by Eastellar Team."
+conditions="Maximum supply of ONE is 25B tokens only"
+image="https://eastellar.com/images/ONE.png"
