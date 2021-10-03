@@ -176,3 +176,14 @@ fixed_number=25000000000
 desc="TELESCOPE is issued by Eastellar Team."
 conditions="Maximum supply of TELESCOPE is 25B tokens only"
 image="https://eastellar.com/images/TELESCOPE.png"
+
+[[CURRENCIES]]
+code="TWO"
+issuer="GBQDV6JQOYDZ3CZTRWR4F4V56Z2X64AB54D4WLZ5R56M3ZP5XQ3ABVW2"
+status="live"
+display_decimals=4
+name="TWO"
+fixed_number=25000000000
+desc="TWO is issued by Eastellar Team."
+conditions="Maximum supply of TWO is 25B tokens only"
+image="https://eastellar.com/images/TWO.png"
