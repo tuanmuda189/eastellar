@@ -165,3 +165,14 @@ fixed_number=25000000000
 desc="ONE is issued by Eastellar Team."
 conditions="Maximum supply of ONE is 25B tokens only"
 image="https://eastellar.com/images/ONE.png"
+
+[[CURRENCIES]]
+code="TELESCOPE"
+issuer="GDQ7AA2LCQAFH7S46OD4WPM6WMX5PUXMD533VSQMP2AS6ZPGTRQLWBFX"
+status="live"
+display_decimals=4
+name="TELESCOPE"
+fixed_number=25000000000
+desc="TELESCOPE is issued by Eastellar Team."
+conditions="Maximum supply of TELESCOPE is 25B tokens only"
+image="https://eastellar.com/images/TELESCOPE.png"
