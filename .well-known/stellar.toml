@@ -209,3 +209,15 @@ fixed_number=25000000000
 desc="THREE is issued by Eastellar Team."
 conditions="Maximum supply of THREE is 25B tokens only"
 image="https://eastellar.com/images/THREE.png"
+
+[[CURRENCIES]]
+code="CROWN"
+issuer="GAVEFSSCCHWQYZZEKLFGBOKVQUGVO26XEAWNDWH53XH24U6576PK3TUG"
+status="live"
+display_decimals=4
+name="CROWN"
+fixed_number=25000000000
+desc="CROWN is issued by Eastellar Team."
+conditions="Maximum supply of CROWN is 25B tokens only"
+image="https://eastellar.com/images/CROWN.png"
+
