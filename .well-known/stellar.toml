@@ -221,3 +221,13 @@ desc="CROWN is issued by Eastellar Team."
 conditions="Maximum supply of CROWN is 25B tokens only"
 image="https://eastellar.com/images/CROWN.png"
 
+[[CURRENCIES]]
+code="FOUR"
+issuer="GCODENLNW6SQREVH3QTVN3EF6RJ5Q6C2RVBXQBATBCUG36YDNFZPNWZN"
+status="live"
+display_decimals=4
+name="FOUR"
+fixed_number=25000000000
+desc="FOUR is issued by Eastellar Team."
+conditions="Maximum supply of FOUR is 25B tokens only"
+image="https://eastellar.com/images/FOUR.png"
