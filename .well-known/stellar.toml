@@ -253,3 +253,15 @@ fixed_number=25000000000
 desc="KOALA is issued by Eastellar Team."
 conditions="Maximum supply of KOALA is 25B tokens only"
 image="https://eastellar.com/images/KOALA.png"
+
+[[CURRENCIES]]
+code="FIVE"
+issuer="GB2KAGTNNUYMHEFPVNZIRCM45XTM3GH3LRKYYW5BWQ2E6ZIDW3BS6ZBF"
+status="live"
+display_decimals=4
+name="FIVE"
+fixed_number=25000000000
+desc="FIVE is issued by Eastellar Team."
+conditions="Maximum supply of FIVE is 25B tokens only"
+image="https://eastellar.com/images/FIVE.png"
+
