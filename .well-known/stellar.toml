@@ -242,3 +242,14 @@ fixed_number=25000000000
 desc="CAPTAIN is issued by Eastellar Team."
 conditions="Maximum supply of CAPTAIN is 25B tokens only"
 image="https://eastellar.com/images/CAPTAIN.png"
+
+[[CURRENCIES]]
+code="KOALA"
+issuer="GA54TNIEJTWQN7QH5N7NESV3XSTMXZBUBFUAFJPCZQBXYBGLZKKKFYHC"
+status="live"
+display_decimals=4
+name="KOALA"
+fixed_number=25000000000
+desc="KOALA is issued by Eastellar Team."
+conditions="Maximum supply of KOALA is 25B tokens only"
+image="https://eastellar.com/images/KOALA.png"
