@@ -231,3 +231,14 @@ fixed_number=25000000000
 desc="FOUR is issued by Eastellar Team."
 conditions="Maximum supply of FOUR is 25B tokens only"
 image="https://eastellar.com/images/FOUR.png"
+
+[[CURRENCIES]]
+code="CAPTAIN"
+issuer="GCUMCUR6OOWWYC3JJFIWAITYJF3TNEKRENKYRW2VT4X5ST7L7VAKUY3Y"
+status="live"
+display_decimals=4
+name="CAPTAIN"
+fixed_number=25000000000
+desc="CAPTAIN is issued by Eastellar Team."
+conditions="Maximum supply of CAPTAIN is 25B tokens only"
+image="https://eastellar.com/images/CAPTAIN.png"
