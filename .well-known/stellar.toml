@@ -276,3 +276,13 @@ desc="ARROW is issued by Eastellar Team."
 conditions="Maximum supply of ARROW is 25B tokens only"
 image="https://eastellar.com/images/ARROW.png"
 
+[[CURRENCIES]]
+code="TULIPEPE"
+issuer="GDLW73H2BLCNKXWSYZKJ5MYCPZYRA7I3PUB64IWWR4PJVXGIJGTDJECK"
+status="live"
+display_decimals=4
+name="TULIPEPE"
+fixed_number=25000000000
+desc="TULIPEPE is issued by Eastellar Team."
+conditions="Maximum supply of TULIPEPE is 25B tokens only"
+image="https://eastellar.com/images/TULIPEPE.png"
