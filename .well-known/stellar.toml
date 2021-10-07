@@ -265,3 +265,14 @@ desc="FIVE is issued by Eastellar Team."
 conditions="Maximum supply of FIVE is 25B tokens only"
 image="https://eastellar.com/images/FIVE.png"
 
+[[CURRENCIES]]
+code="ARROW"
+issuer="GA6IBKNWVN7KTEIZR2Z3WCUOUQEUUI6B4LCPXO6KOV266LP3Q6SJLJY3"
+status="live"
+display_decimals=4
+name="ARROW"
+fixed_number=25000000000
+desc="ARROW is issued by Eastellar Team."
+conditions="Maximum supply of ARROW is 25B tokens only"
+image="https://eastellar.com/images/ARROW.png"
+
