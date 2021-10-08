@@ -298,3 +298,13 @@ desc="SWOT is issued by Eastellar Team."
 conditions="Maximum supply of SWOT is 25B tokens only"
 image="https://eastellar.com/images/SWOT.png"
 
+[[CURRENCIES]]
+code="RAPEPE"
+issuer="GAO3TQIBXFZRPVGH2PUX24BQYFIJ466THV6OLC3AEQSNWYFHDPBEBOXM"
+status="live"
+display_decimals=4
+name="RAPEPE"
+fixed_number=25000000000
+desc="RAPEPE is issued by Eastellar Team."
+conditions="Maximum supply of RAPEPE is 25B tokens only"
+image="https://eastellar.com/images/RAPEPE.png"
