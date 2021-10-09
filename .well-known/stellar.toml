@@ -308,3 +308,14 @@ fixed_number=25000000000
 desc="RAPEPE is issued by Eastellar Team."
 conditions="Maximum supply of RAPEPE is 25B tokens only"
 image="https://eastellar.com/images/RAPEPE.png"
+
+[[CURRENCIES]]
+code="SIGNAL"
+issuer="GCB4MYKQJL2RIHQAIW52LMIQONJ7AZ44GPDY6UUQLS2GN2GNLW3IIIHH"
+status="live"
+display_decimals=4
+name="SIGNAL"
+fixed_number=25000000000
+desc="SIGNAL is issued by Eastellar Team."
+conditions="Maximum supply of SIGNAL is 25B tokens only"
+image="https://eastellar.com/images/SIGNAL.png"
