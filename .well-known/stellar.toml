@@ -341,3 +341,14 @@ fixed_number=25000000000
 desc="BICEPEPE is issued by Eastellar Team."
 conditions="Maximum supply of BICEPEPE is 25B tokens only"
 image="https://eastellar.com/images/BICEPEPE.png"
+
+[[CURRENCIES]]
+code="BLEEPEPE"
+issuer="GDA3EAUYMGS4A67MEMFGHST7D47QAILSEPZLBYCZPWRFWHUZJ55JO5HY"
+status="live"
+display_decimals=4
+name="BLEEPEPE"
+fixed_number=25000000000
+desc="BLEEPEPE is issued by Eastellar Team."
+conditions="Maximum supply of BLEEPEPE is 25B tokens only"
+image="https://eastellar.com/images/BLEEPEPE.png"
