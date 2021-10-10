@@ -321,13 +321,13 @@ conditions="Maximum supply of SIGNAL is 25B tokens only"
 image="https://eastellar.com/images/SIGNAL.png"
 
 [[CURRENCIES]]
-code="BICEPEPE"
-issuer="GB7XBL4MLFPFLKVESFE4GAN7W2LTEUKKHFIVZ4V3BZDHK4BN4FQYDPOQ"
+code="HAND"
+issuer="GCBKYCR6O4A5BRFM6O6F4D7FJHUNYRKQGVTLQZIVUKJIHHJXM5TJMC2Z"
 status="live"
 display_decimals=4
-name="BICEPEPE"
+name="HAND"
 fixed_number=25000000000
-desc="BICEPEPE is issued by Eastellar Team."
-conditions="Maximum supply of BICEPEPE is 25B tokens only"
-image="https://eastellar.com/images/BICEPEPE.png"
+desc="HAND is issued by Eastellar Team."
+conditions="Maximum supply of HAND is 25B tokens only"
+image="https://eastellar.com/images/HAND.png"
 
