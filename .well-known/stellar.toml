@@ -363,3 +363,14 @@ fixed_number=25000000000
 desc="COOKIES is issued by Eastellar Team."
 conditions="Maximum supply of COOKIES is 25B tokens only"
 image="https://eastellar.com/images/COOKIES.png"
+
+[[CURRENCIES]]
+code="BEEPEPE"
+issuer="GB2TC4OHPHFTKNXSHTZ24OCCROGJLY53K6IMBTWWMSYZRVZKAWFXMDFT"
+status="live"
+display_decimals=4
+name="BEEPEPE"
+fixed_number=25000000000
+desc="BEEPEPE is issued by Eastellar Team."
+conditions="Maximum supply of BEEPEPE is 25B tokens only"
+image="https://eastellar.com/images/BEEPEPE.png"
