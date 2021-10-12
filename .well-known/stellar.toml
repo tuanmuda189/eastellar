@@ -374,3 +374,15 @@ fixed_number=25000000000
 desc="BEEPEPE is issued by Eastellar Team."
 conditions="Maximum supply of BEEPEPE is 25B tokens only"
 image="https://eastellar.com/images/BEEPEPE.png"
+
+[[CURRENCIES]]
+code="POSITIVE"
+issuer="GDQWVLD3EE5KU4XSCFBHF6WQ7EB7W67QHOWPBDTCXTEJHPUDEUCLDUKH"
+status="live"
+display_decimals=4
+name="POSITIVEE"
+fixed_number=25000000000
+desc="POSITIVE is issued by Eastellar Team."
+conditions="Maximum supply of POSITIVE is 25B tokens only"
+image="https://eastellar.com/images/POSITIVE.png"
+
