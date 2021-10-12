@@ -386,3 +386,13 @@ desc="POSITIVE is issued by Eastellar Team."
 conditions="Maximum supply of POSITIVE is 25B tokens only"
 image="https://eastellar.com/images/POSITIVE.png"
 
+[[CURRENCIES]]
+code="zXLM"
+issuer="GABVRXHJTDBMDKSOFBDOKEZFFDMR7K6DQPMRLSNY2GHZH52B7N3LEQCM"
+status="live"
+display_decimals=4
+name="zXLM"
+fixed_number=25000000000
+desc="zXLM is issued by Eastellar Team."
+conditions="Maximum supply of zXLM is 25B tokens only"
+image="https://eastellar.com/images/zXLM.png"
