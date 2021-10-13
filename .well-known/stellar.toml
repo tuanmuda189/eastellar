@@ -396,3 +396,14 @@ fixed_number=25000000000
 desc="zXLM is issued by Eastellar Team."
 conditions="Maximum supply of zXLM is 25B tokens only"
 image="https://eastellar.com/images/zXLM.png"
+
+[[CURRENCIES]]
+code="AUTUMN"
+issuer="GC4UIWMGYKUYHSI25NI5OQ2OVNQ6D6S53FKYNELBUPTBHCWIXVQDUBKW"
+status="live"
+display_decimals=4
+name="AUTUMN"
+fixed_number=25000000000
+desc="AUTUMN is issued by Eastellar Team."
+conditions="Maximum supply of AUTUMN is 25B tokens only"
+image="https://eastellar.com/images/AUTUMN.png"
