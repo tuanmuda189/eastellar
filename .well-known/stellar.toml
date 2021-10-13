@@ -407,3 +407,14 @@ fixed_number=25000000000
 desc="AUTUMN is issued by Eastellar Team."
 conditions="Maximum supply of AUTUMN is 25B tokens only"
 image="https://eastellar.com/images/AUTUMN.png"
+
+[[CURRENCIES]]
+code="zBTC"
+issuer="GCBAIA7NGAJO5U46P5BTHRHXA45VI3TMZZ225Y44GJRFKZXLZCFHBYJO"
+status="live"
+display_decimals=4
+name="zBTC"
+fixed_number=25000000000
+desc="zBTC is issued by Eastellar Team."
+conditions="Maximum supply of zBTC is 25B tokens only"
+image="https://eastellar.com/images/zBTC.png"
