@@ -430,3 +430,13 @@ desc="LILAC is issued by Eastellar Team."
 conditions="Maximum supply of LILAC is 25B tokens only"
 image="https://eastellar.com/images/LILAC.png"
 
+[[CURRENCIES]]
+code="zXRP"
+issuer="GC3RNJFIFBRGNQEOO3GISX2KLBHQAJ7T74J4JX2IFCQR3JNYSMEGOJK4"
+status="live"
+display_decimals=4
+name="zXRP"
+fixed_number=25000000000
+desc="zXRP is issued by Eastellar Team."
+conditions="Maximum supply of zXRP is 25B tokens only"
+image="https://eastellar.com/images/zXRP.png"
