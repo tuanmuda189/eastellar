@@ -418,3 +418,15 @@ fixed_number=25000000000
 desc="zBTC is issued by Eastellar Team."
 conditions="Maximum supply of zBTC is 25B tokens only"
 image="https://eastellar.com/images/zBTC.png"
+
+[[CURRENCIES]]
+code="LILAC"
+issuer="GCYOYYYJ4SDJFNNG3PGRLFWVRZADPMWJASGYDG6DAIWVAWT535JQN5Q5"
+status="live"
+display_decimals=4
+name="LILAC"
+fixed_number=25000000000
+desc="LILAC is issued by Eastellar Team."
+conditions="Maximum supply of LILAC is 25B tokens only"
+image="https://eastellar.com/images/LILAC.png"
+
