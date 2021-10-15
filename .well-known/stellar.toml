@@ -440,3 +440,14 @@ fixed_number=25000000000
 desc="zXRP is issued by Eastellar Team."
 conditions="Maximum supply of zXRP is 25B tokens only"
 image="https://eastellar.com/images/zXRP.png"
+
+[[CURRENCIES]]
+code="RAIN"
+issuer="GDJ74KLQCYAIQKXHBKZEDCPBVW2BXGU7AAK6DO2WRKRJR3XSBJMKG2LA"
+status="live"
+display_decimals=4
+name="RAIN"
+fixed_number=25000000000
+desc="RAIN is issued by Eastellar Team."
+conditions="Maximum supply of RAIN is 25B tokens only"
+image="https://eastellar.com/images/RAIN.png"
