@@ -451,3 +451,14 @@ fixed_number=25000000000
 desc="RAIN is issued by Eastellar Team."
 conditions="Maximum supply of RAIN is 25B tokens only"
 image="https://eastellar.com/images/RAIN.png"
+
+[[CURRENCIES]]
+code="zETH"
+issuer="GCICJLJYSRMO7VLKIA7KL5T253JNZORPGU7AXTE2XIGNYFVFDZY3JAHT"
+status="live"
+display_decimals=4
+name="zETH"
+fixed_number=25000000000
+desc="zETH is issued by Eastellar Team."
+conditions="Maximum supply of zETH is 25B tokens only"
+image="https://eastellar.com/images/zETH.png"
