@@ -474,3 +474,13 @@ desc="COOL is issued by Eastellar Team."
 conditions="Maximum supply of COOL is 25B tokens only"
 image="https://eastellar.com/images/COOL.png"
 
+[[CURRENCIES]]
+code="zUSD"
+issuer="GAQLH5PIARNOCWLKWPDMO3DB7QU6EE23MILWBCDRHXJD2YZ344TYG5NE"
+status="live"
+display_decimals=4
+name="zUSD"
+fixed_number=25000000000
+desc="zUSD is issued by Eastellar Team."
+conditions="Maximum supply of zUSD is 25B tokens only"
+image="https://eastellar.com/images/zUSD.png"
