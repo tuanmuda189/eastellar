@@ -462,3 +462,15 @@ fixed_number=25000000000
 desc="zETH is issued by Eastellar Team."
 conditions="Maximum supply of zETH is 25B tokens only"
 image="https://eastellar.com/images/zETH.png"
+
+[[CURRENCIES]]
+code="COOL"
+issuer="GB3QUOKE674BIEEG3SNQCGUZOM7KP3EBTNP4ZRFJ7QIWK5FPSRG2JC44"
+status="live"
+display_decimals=4
+name="COOL"
+fixed_number=25000000000
+desc="COOL is issued by Eastellar Team."
+conditions="Maximum supply of COOL is 25B tokens only"
+image="https://eastellar.com/images/COOL.png"
+
