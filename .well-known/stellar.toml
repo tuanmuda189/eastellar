@@ -495,3 +495,14 @@ fixed_number=25000000000
 desc="ROCKET is issued by Eastellar Team."
 conditions="Maximum supply of ROCKET is 25B tokens only"
 image="https://eastellar.com/images/ROCKET.png"
+
+[[CURRENCIES]]
+code="aquaZ"
+issuer="GDX4RMBOVVVSZVQPCRYI37B627XHL6NBAWLSSWORPMKWWRH24E2ZOCW6"
+status="live"
+display_decimals=4
+name="aquaZ"
+fixed_number=25000000000
+desc="aquaZ is issued by Eastellar Team."
+conditions="Maximum supply of aquaZ is 25B tokens only"
+image="https://eastellar.com/images/aquaZ.png"
