@@ -484,3 +484,14 @@ fixed_number=25000000000
 desc="zUSD is issued by Eastellar Team."
 conditions="Maximum supply of zUSD is 25B tokens only"
 image="https://eastellar.com/images/zUSD.png"
+
+[[CURRENCIES]]
+code="ROCKET"
+issuer="GBSKMLIQD5COX76T6TVDDWYVQE2EXR4DLMWQFYOKIO7NQGRRLR7NRXUB"
+status="live"
+display_decimals=4
+name="ROCKET"
+fixed_number=25000000000
+desc="ROCKET is issued by Eastellar Team."
+conditions="Maximum supply of ROCKET is 25B tokens only"
+image="https://eastellar.com/images/ROCKET.png"
