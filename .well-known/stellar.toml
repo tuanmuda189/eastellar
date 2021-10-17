@@ -10,7 +10,9 @@ ORG_URL="https://www.eastellar.com/"
 ORG_LOGO="https://www.eastellar.com/images/eastellar.png"
 ORG_OFFICIAL_EMAIL="mail@eastellar.com"
 ORG_TWITTER="eastellar"
-ORG_DESCRIPTION="eastellar.com is a Stellar Fun Token Marketplace"
+ORG_DESCRIPTION="eastellar.com Minting Materials from The East. Eastellar utilize the stellar blockchain technology to mint some of the rarest token and one of many that you have been familiar with. 
+We improve collecting and trade experience with automated and digitalization all operations cycle with ease.
+Before you begin trading foreign exchange, cryptocurrencies, or any other assets. Please consider your investment capital experience in trading, and risk tolerance"
 
 [[CURRENCIES]]
 code="MOBI"
