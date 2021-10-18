@@ -506,3 +506,14 @@ fixed_number=25000000000
 desc="aquaZ is issued by Eastellar Team."
 conditions="Maximum supply of aquaZ is 25B tokens only"
 image="https://eastellar.com/images/aquaZ.png"
+
+[[CURRENCIES]]
+code="SHARK"
+issuer="GATAV6OGQRFXDGH6O62NMD3Z4J2AD7ZGCTBZYK6BACBIPZGVAAM5NW46"
+status="live"
+display_decimals=4
+name="SHARK"
+fixed_number=25000000000
+desc="SHARK is issued by Eastellar Team."
+conditions="Maximum supply of SHARK is 25B tokens only"
+image="https://eastellar.com/images/SHARK.png"
