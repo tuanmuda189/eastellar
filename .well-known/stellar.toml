@@ -528,3 +528,15 @@ fixed_number=25000000000
 desc="USDz is issued by Eastellar Team."
 conditions="Maximum supply of USDz is 25B tokens only"
 image="https://eastellar.com/images/USDz.png"
+
+[[CURRENCIES]]
+code="ANT"
+issuer="GDDYHU7WVC2TK7LKIZJPAOL5C5H2VBKTQP5Y4ZOKQ3A7FIGBKIJD7EDJ"
+status="live"
+display_decimals=4
+name="ANT"
+fixed_number=25000000000
+desc="ANT is issued by Eastellar Team."
+conditions="Maximum supply of ANT is 25B tokens only"
+image="https://eastellar.com/images/ANT.png"
+
