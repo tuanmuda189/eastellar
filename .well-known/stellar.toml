@@ -540,3 +540,13 @@ desc="ANT is issued by Eastellar Team."
 conditions="Maximum supply of ANT is 25B tokens only"
 image="https://eastellar.com/images/ANT.png"
 
+[[CURRENCIES]]
+code="SHXz"
+issuer="GDJEBKV4QUUFZNZ4DE53RZANU5P7XJZVGA6EY5DIU67M37TBXWOEJHMC"
+status="live"
+display_decimals=4
+name="SHXz"
+fixed_number=25000000000
+desc="SHXz is issued by Eastellar Team."
+conditions="Maximum supply of SHXz is 25B tokens only"
+image="https://eastellar.com/images/SHXz.png"
