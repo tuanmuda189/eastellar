@@ -550,3 +550,14 @@ fixed_number=25000000000
 desc="SHXz is issued by Eastellar Team."
 conditions="Maximum supply of SHXz is 25B tokens only"
 image="https://eastellar.com/images/SHXz.png"
+
+[[CURRENCIES]]
+code="FAIRY"
+issuer="GDU4ALGUCDMZONB7TSIN63UE3ETGV6UX34WSJJFVP4QVOQHRDLWXONK3"
+status="live"
+display_decimals=4
+name="FAIRY"
+fixed_number=25000000000
+desc="FAIRY is issued by Eastellar Team."
+conditions="Maximum supply of FAIRY is 25B tokens only"
+image="https://eastellar.com/images/FAIRY.png"
