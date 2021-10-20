@@ -561,3 +561,14 @@ fixed_number=25000000000
 desc="FAIRY is issued by Eastellar Team."
 conditions="Maximum supply of FAIRY is 25B tokens only"
 image="https://eastellar.com/images/FAIRY.png"
+
+[[CURRENCIES]]
+code="zADA"
+issuer="GBMSFRYP7ZQI4B5ENJI4AM3OTFSCWAOVTFGW3T2PE4VMVNV4MMAFWLT2"
+status="live"
+display_decimals=4
+name="zADA"
+fixed_number=25000000000
+desc="zADA is issued by Eastellar Team."
+conditions="Maximum supply of zADA is 25B tokens only"
+image="https://eastellar.com/images/zADA.png"
