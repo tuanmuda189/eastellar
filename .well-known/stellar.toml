@@ -584,3 +584,13 @@ desc="TURTLE is issued by Eastellar Team."
 conditions="Maximum supply of TURTLE is 25B tokens only"
 image="https://eastellar.com/images/TURTLE.png"
 
+[[CURRENCIES]]
+code="OREGANO"
+issuer="GBE5DGXKL37G5YTD5LXAN5I4XBBOPIID7LGK5JLI6Q7XY2FFLACCP6G3"
+status="live"
+display_decimals=4
+name="OREGANO"
+fixed_number=25000000000
+desc="OREGANO is issued by Eastellar Team."
+conditions="Maximum supply of OREGANO is 25B tokens only"
+image="https://eastellar.com/images/OREGANO.png"
