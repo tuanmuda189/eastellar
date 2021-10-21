@@ -572,3 +572,15 @@ fixed_number=25000000000
 desc="zADA is issued by Eastellar Team."
 conditions="Maximum supply of zADA is 25B tokens only"
 image="https://eastellar.com/images/zADA.png"
+
+[[CURRENCIES]]
+code="TURTLE"
+issuer="GALQKHMP4OARIMILCCNS5D6GWQRQZVFJB7SYOLFCMBBOSX2MAYEM3O75"
+status="live"
+display_decimals=4
+name="TURTLE"
+fixed_number=25000000000
+desc="TURTLE is issued by Eastellar Team."
+conditions="Maximum supply of TURTLE is 25B tokens only"
+image="https://eastellar.com/images/TURTLE.png"
+
