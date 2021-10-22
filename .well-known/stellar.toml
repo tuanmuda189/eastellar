@@ -606,3 +606,13 @@ desc="RESIDENCE is issued by Eastellar Team."
 conditions="Maximum supply of RESIDENCE is 25B tokens only"
 image="https://eastellar.com/images/RESIDENCE.png"
 
+[[CURRENCIES]]
+code="MINT"
+issuer="GCRECF3X3YNUJKLCGZNDU7QWZQEYLNWWWNP2YNECLBC2XXQH23GDO6TT"
+status="live"
+display_decimals=4
+name="MINT"
+fixed_number=25000000000
+desc="MINT is issued by Eastellar Team."
+conditions="Maximum supply of MINT is 25B tokens only"
+image="https://eastellar.com/images/MINT.png"
