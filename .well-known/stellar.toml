@@ -594,3 +594,15 @@ fixed_number=25000000000
 desc="OREGANO is issued by Eastellar Team."
 conditions="Maximum supply of OREGANO is 25B tokens only"
 image="https://eastellar.com/images/OREGANO.png"
+
+[[CURRENCIES]]
+code="RESIDENCE"
+issuer="GCVUEL2ROI7NKMQ7FBAHXRFG73MVHSTHPRBGUJQBVICXPUZS7YMJOXI5"
+status="live"
+display_decimals=4
+name="RESIDENCE"
+fixed_number=25000000000
+desc="RESIDENCE is issued by Eastellar Team."
+conditions="Maximum supply of RESIDENCE is 25B tokens only"
+image="https://eastellar.com/images/RESIDENCE.png"
+
