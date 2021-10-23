@@ -627,3 +627,14 @@ fixed_number=25000000000
 desc="MAPLE is issued by Eastellar Team."
 conditions="Maximum supply of MAPLE is 25B tokens only"
 image="https://eastellar.com/images/MAPLE.png"
+
+[[CURRENCIES]]
+code="BATz"
+issuer="GC5QRGC3DBDVMQCXJ2XB4FDVXURG6S76536V36LXH6YEGRXEU2PH3XH6"
+status="live"
+display_decimals=4
+name="BATz"
+fixed_number=25000000000
+desc="BATz is issued by Eastellar Team."
+conditions="Maximum supply of BATz is 25B tokens only"
+image="https://eastellar.com/images/BATz.png"
