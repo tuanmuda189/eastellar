@@ -616,3 +616,14 @@ fixed_number=25000000000
 desc="MINT is issued by Eastellar Team."
 conditions="Maximum supply of MINT is 25B tokens only"
 image="https://eastellar.com/images/MINT.png"
+
+[[CURRENCIES]]
+code="MAPLE"
+issuer="GDKBXCWYC22TBGB2UU2S2KNHEI3YGNNAAO5XQGYQ7FHPKG2EKN7ASJG4"
+status="live"
+display_decimals=4
+name="MAPLE"
+fixed_number=25000000000
+desc="MAPLE is issued by Eastellar Team."
+conditions="Maximum supply of MAPLE is 25B tokens only"
+image="https://eastellar.com/images/MAPLE.png"
