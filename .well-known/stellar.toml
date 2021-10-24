@@ -649,3 +649,15 @@ fixed_number=25000000000
 desc="PALM is issued by Eastellar Team."
 conditions="Maximum supply of PALM is 25B tokens only"
 image="https://eastellar.com/images/PALM.png"
+
+[[CURRENCIES]]
+code="SHIBAz"
+issuer="GDBF5ZNEXKSYQU72PP6AIJY5R4ZU7SLUNZBTD4QI2TJBJJGXWHS56KUK"
+status="live"
+display_decimals=4
+name="SHIBAz"
+fixed_number=25000000000
+desc="SHIBAz is issued by Eastellar Team."
+conditions="Maximum supply of SHIBAz is 25B tokens only"
+image="https://eastellar.com/images/SHIBAz.png"
+
