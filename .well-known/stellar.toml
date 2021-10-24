@@ -638,3 +638,14 @@ fixed_number=25000000000
 desc="BATz is issued by Eastellar Team."
 conditions="Maximum supply of BATz is 25B tokens only"
 image="https://eastellar.com/images/BATz.png"
+
+[[CURRENCIES]]
+code="PALM"
+issuer="GAOPVBGJLVQ5CBCXFWMVHHSY4QZS45QSSZ6HMWDGFKMA4ZX3OBGTVRBA"
+status="live"
+display_decimals=4
+name="PALM"
+fixed_number=25000000000
+desc="PALM is issued by Eastellar Team."
+conditions="Maximum supply of PALM is 25B tokens only"
+image="https://eastellar.com/images/PALM.png"
