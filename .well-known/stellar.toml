@@ -661,3 +661,15 @@ desc="SHIBAz is issued by Eastellar Team."
 conditions="Maximum supply of SHIBAz is 25B tokens only"
 image="https://eastellar.com/images/SHIBAz.png"
 
+[[CURRENCIES]]
+code="SPINACH"
+issuer="GAAFCN2WWWEUEPIO4AN3JXWRAPRTRXWMFMIHKWADDMGZ3Y3C6AFJ6CKB"
+status="live"
+display_decimals=4
+name="SPINACH"
+fixed_number=25000000000
+desc="SPINACH is issued by Eastellar Team."
+conditions="Maximum supply of SPINACH is 25B tokens only"
+image="https://eastellar.com/images/SPINACH.png"
+
+
