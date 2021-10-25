@@ -672,4 +672,13 @@ desc="SPINACH is issued by Eastellar Team."
 conditions="Maximum supply of SPINACH is 25B tokens only"
 image="https://eastellar.com/images/SPINACH.png"
 
-
+[[CURRENCIES]]
+code="TERRAz"
+issuer="GBIVA6FBAJKPDICHQWZK2JPLDLWLL2ZX7ZDYBL4KW2CUHFDADPD5BGJD"
+status="live"
+display_decimals=4
+name="TERRAz"
+fixed_number=25000000000
+desc="TERRAz is issued by Eastellar Team."
+conditions="Maximum supply of TERRAz is 25B tokens only"
+image="https://eastellar.com/images/TERRAz.png"
