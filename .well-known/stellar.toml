@@ -682,3 +682,14 @@ fixed_number=25000000000
 desc="TERRAz is issued by Eastellar Team."
 conditions="Maximum supply of TERRAz is 25B tokens only"
 image="https://eastellar.com/images/TERRAz.png"
+
+[[CURRENCIES]]
+code="DAISY"
+issuer="GBQM2SDU4SOOXFRLVB3GPBROZ5GB6UM5OM7GDMAXSTWZRDHZFZ7TBZ57"
+status="live"
+display_decimals=4
+name="DAISY"
+fixed_number=25000000000
+desc="DAISY is issued by Eastellar Team."
+conditions="Maximum supply of DAISY is 25B tokens only"
+image="https://eastellar.com/images/DAISY.png"
