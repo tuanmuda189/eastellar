@@ -693,3 +693,14 @@ fixed_number=25000000000
 desc="DAISY is issued by Eastellar Team."
 conditions="Maximum supply of DAISY is 25B tokens only"
 image="https://eastellar.com/images/DAISY.png"
+
+[[CURRENCIES]]
+code="SUSHI"
+issuer="GDTKJRRXIYTGWHD6YTRCLHQZDAVFIX5CDVC5HTWPKTM2SZDXRZGWZKRQ"
+status="live"
+display_decimals=4
+name="SUSHI"
+fixed_number=25000000000
+desc="SUSHI is issued by Eastellar Team."
+conditions="Maximum supply of SUSHI is 25B tokens only"
+image="https://eastellar.com/images/SUSHI.png"
