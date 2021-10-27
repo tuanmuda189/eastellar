@@ -704,3 +704,14 @@ fixed_number=25000000000
 desc="SUSHI is issued by Eastellar Team."
 conditions="Maximum supply of SUSHI is 25B tokens only"
 image="https://eastellar.com/images/SUSHI.png"
+
+[[CURRENCIES]]
+code="CHAMOMILE"
+issuer="GCPQHUX3L6S2Y2GNP4RYCPHLJYN5OFIZBQO2634FGGIQQL5SNCG7YIBW"
+status="live"
+display_decimals=4
+name="CHAMOMILE"
+fixed_number=25000000000
+desc="CHAMOMILE is issued by Eastellar Team."
+conditions="Maximum supply of CHAMOMILE is 25B tokens only"
+image="https://eastellar.com/images/CHAMOMILE.png"
