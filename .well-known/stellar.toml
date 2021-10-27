@@ -715,3 +715,14 @@ fixed_number=25000000000
 desc="CHAMOMILE is issued by Eastellar Team."
 conditions="Maximum supply of CHAMOMILE is 25B tokens only"
 image="https://eastellar.com/images/CHAMOMILE.png"
+
+[[CURRENCIES]]
+code="UNIz"
+issuer="GDVN3XIU3HYK462FCQPYYFFA5BLRKJHOBGDQD2BPRY34IP2ZBDCTPXS4"
+status="live"
+display_decimals=4
+name="UNIz"
+fixed_number=25000000000
+desc="UNIz is issued by Eastellar Team."
+conditions="Maximum supply of UNIz is 25B tokens only"
+image="https://eastellar.com/images/UNIz.png"
