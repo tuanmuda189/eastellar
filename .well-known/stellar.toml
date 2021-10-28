@@ -726,3 +726,15 @@ fixed_number=25000000000
 desc="UNIz is issued by Eastellar Team."
 conditions="Maximum supply of UNIz is 25B tokens only"
 image="https://eastellar.com/images/UNIz.png"
+
+[[CURRENCIES]]
+code="PINNATELY"
+issuer="GBYLIOP5VWY4ALELU6VAVKV2GXHFGPAZ4TUB2BQDB5PX5QZOZV7GQTWJ"
+status="live"
+display_decimals=4
+name="PINNATELY"
+fixed_number=25000000000
+desc="PINNATELY is issued by Eastellar Team."
+conditions="Maximum supply of PINNATELY is 25B tokens only"
+image="https://eastellar.com/images/PINNATELY.png"
+
