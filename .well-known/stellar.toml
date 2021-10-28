@@ -738,3 +738,13 @@ desc="PINNATELY is issued by Eastellar Team."
 conditions="Maximum supply of PINNATELY is 25B tokens only"
 image="https://eastellar.com/images/PINNATELY.png"
 
+[[CURRENCIES]]
+code="RUNEz"
+issuer="GCKTNXUIHUY24DARJW6AVHWO3PCTZBN2BGSHHD7QPNNRCVAXGZKY6WUH"
+status="live"
+display_decimals=4
+name="RUNEz"
+fixed_number=25000000000
+desc="RUNEz is issued by Eastellar Team."
+conditions="Maximum supply of RUNEz is 25B tokens only"
+image="https://eastellar.com/images/RUNEz.png"
