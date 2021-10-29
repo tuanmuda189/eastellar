@@ -759,3 +759,14 @@ fixed_number=25000000000
 desc="OVATE is issued by Eastellar Team."
 conditions="Maximum supply of OVATE is 25B tokens only"
 image="https://eastellar.com/images/OVATE.png"
+
+[[CURRENCIES]]
+code="DOTz"
+issuer="GCPAWW26MSCO6NFD7Z6IEFEGA2YBV6D5H547DOUFDSCBHDPTX6MUB6Q7"
+status="live"
+display_decimals=4
+name="DOTz"
+fixed_number=25000000000
+desc="DOTz is issued by Eastellar Team."
+conditions="Maximum supply of DOTz is 25B tokens only"
+image="https://eastellar.com/images/DOTz.png"
