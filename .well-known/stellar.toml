@@ -781,3 +781,14 @@ fixed_number=25000000000
 desc="ARTICHOKE is issued by Eastellar Team."
 conditions="Maximum supply of ARTICHOKE is 25B tokens only"
 image="https://eastellar.com/images/ARTICHOKE.png"
+
+[[CURRENCIES]]
+code="LUNAz"
+issuer="GBVWXJ6VKVAY2EOELDVSSDUGIU7WBVB7DMWNG5OCAEVWQD7YMPBCA5SL"
+status="live"
+display_decimals=4
+name="LUNAz"
+fixed_number=25000000000
+desc="LUNAz is issued by Eastellar Team."
+conditions="Maximum supply of LUNAz is 25B tokens only"
+image="https://eastellar.com/images/LUNAz.png"
