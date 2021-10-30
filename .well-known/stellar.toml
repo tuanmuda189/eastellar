@@ -770,3 +770,14 @@ fixed_number=25000000000
 desc="DOTz is issued by Eastellar Team."
 conditions="Maximum supply of DOTz is 25B tokens only"
 image="https://eastellar.com/images/DOTz.png"
+
+[[CURRENCIES]]
+code="ARTICHOKE"
+issuer="GDKHZWXDYSJQWWDUSUR5K2EYOY4YJ6LHTQFYQGCOCOIO5A74PZCDGLRD"
+status="live"
+display_decimals=4
+name="ARTICHOKE"
+fixed_number=25000000000
+desc="ARTICHOKE is issued by Eastellar Team."
+conditions="Maximum supply of ARTICHOKE is 25B tokens only"
+image="https://eastellar.com/images/ARTICHOKE.png"
