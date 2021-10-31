@@ -792,3 +792,15 @@ fixed_number=25000000000
 desc="LUNAz is issued by Eastellar Team."
 conditions="Maximum supply of LUNAz is 25B tokens only"
 image="https://eastellar.com/images/LUNAz.png"
+
+[[CURRENCIES]]
+code="CABBAGE"
+issuer="GBW3LXXHUHXETXDABALDWL7WA7CTXIHI3GCYNY7WTI5B4W4ZGHT2YUDC"
+status="live"
+display_decimals=4
+name="CABBAGE"
+fixed_number=25000000000
+desc="CABBAGEz is issued by Eastellar Team."
+conditions="Maximum supply of CABBAGE is 25B tokens only"
+image="https://eastellar.com/images/CABBAGE.png"
+
