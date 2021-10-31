@@ -800,7 +800,17 @@ status="live"
 display_decimals=4
 name="CABBAGE"
 fixed_number=25000000000
-desc="CABBAGEz is issued by Eastellar Team."
+desc="CABBAGE is issued by Eastellar Team."
 conditions="Maximum supply of CABBAGE is 25B tokens only"
 image="https://eastellar.com/images/CABBAGE.png"
 
+[[CURRENCIES]]
+code="SANDz"
+issuer="GBVIIUNXCZ76WKRCLVIGQ6G2U5XAF25GUWKNTAUDGQFNPJZHOWIL7C7P"
+status="live"
+display_decimals=4
+name="SANDz"
+fixed_number=25000000000
+desc="SANDz is issued by Eastellar Team."
+conditions="Maximum supply of SANDz is 25B tokens only"
+image="https://eastellar.com/images/SANDz.png"
