@@ -825,3 +825,14 @@ fixed_number=25000000000
 desc="ALTERNATE is issued by Eastellar Team."
 conditions="Maximum supply of ALTERNATE is 25B tokens only"
 image="https://eastellar.com/images/ALTERNATE.png"
+
+[[CURRENCIES]]
+code="TRXz"
+issuer="GCRTSJIKOAZDVK4BRQVKC2HLGFBG7WZO7DLW64GLJQQQFRWESRCDQSDL"
+status="live"
+display_decimals=4
+name="TRXz"
+fixed_number=25000000000
+desc="TRXz is issued by Eastellar Team."
+conditions="Maximum supply of TRXz is 25B tokens only"
+image="https://eastellar.com/images/TRXz.png"
