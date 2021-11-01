@@ -814,3 +814,14 @@ fixed_number=25000000000
 desc="SANDz is issued by Eastellar Team."
 conditions="Maximum supply of SANDz is 25B tokens only"
 image="https://eastellar.com/images/SANDz.png"
+
+[[CURRENCIES]]
+code="ALTERNATE"
+issuer="GDFG2I2QB573ABFM2ADMMJNVW7UIILBA7WWXCHP6VYWELXL2ZBCCML3R"
+status="live"
+display_decimals=4
+name="ALTERNATE"
+fixed_number=25000000000
+desc="ALTERNATE is issued by Eastellar Team."
+conditions="Maximum supply of ALTERNATE is 25B tokens only"
+image="https://eastellar.com/images/ALTERNATE.png"
