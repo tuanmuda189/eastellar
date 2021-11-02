@@ -836,3 +836,15 @@ fixed_number=25000000000
 desc="TRXz is issued by Eastellar Team."
 conditions="Maximum supply of TRXz is 25B tokens only"
 image="https://eastellar.com/images/TRXz.png"
+
+[[CURRENCIES]]
+code="OPPOSITE"
+issuer="GAVUZKQ6PD5AT7NIKZZ43LXIYIU4UBKFNFNEA3U2LXJUDKH4Y3FVKOTZ"
+status="live"
+display_decimals=4
+name="OPPOSITE"
+fixed_number=25000000000
+desc="OPPOSITE is issued by Eastellar Team."
+conditions="Maximum supply of OPPOSITE is 25B tokens only"
+image="https://eastellar.com/images/OPPOSITE.png"
+
