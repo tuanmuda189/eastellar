@@ -848,3 +848,13 @@ desc="OPPOSITE is issued by Eastellar Team."
 conditions="Maximum supply of OPPOSITE is 25B tokens only"
 image="https://eastellar.com/images/OPPOSITE.png"
 
+[[CURRENCIES]]
+code="CAKEz"
+issuer="GDX47BIEHPKY5GWSN7TRGQZBO54DVVZU4OO6GF3RJHYGUHSWJBPA4RP6"
+status="live"
+display_decimals=4
+name="CAKEz"
+fixed_number=25000000000
+desc="CAKEz is issued by Eastellar Team."
+conditions="Maximum supply of CAKEz is 25B tokens only"
+image="https://eastellar.com/images/CAKEz.png"
