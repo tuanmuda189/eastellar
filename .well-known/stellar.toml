@@ -858,3 +858,14 @@ fixed_number=25000000000
 desc="CAKEz is issued by Eastellar Team."
 conditions="Maximum supply of CAKEz is 25B tokens only"
 image="https://eastellar.com/images/CAKEz.png"
+
+[[CURRENCIES]]
+code="WHORLED"
+issuer="GC7JOWE5AURQ7BGGOTYVL4QJZV62MY76D33UWCXHT2GWRJRUAL4FHPTJ"
+status="live"
+display_decimals=4
+name="WHORLED"
+fixed_number=25000000000
+desc="WHORLED is issued by Eastellar Team."
+conditions="Maximum supply of WHORLED is 25B tokens only"
+image="https://eastellar.com/images/WHORLED.png"
