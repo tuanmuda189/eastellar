@@ -869,3 +869,14 @@ fixed_number=25000000000
 desc="WHORLED is issued by Eastellar Team."
 conditions="Maximum supply of WHORLED is 25B tokens only"
 image="https://eastellar.com/images/WHORLED.png"
+
+[[CURRENCIES]]
+code="DOGEz"
+issuer="GCE6XK3VR3Q2TMZJPJWIIX6277WQIPQXCR2KY5D65JTFVC5VJQYLKTNT"
+status="live"
+display_decimals=4
+name="DOGEz"
+fixed_number=25000000000
+desc="DOGEz is issued by Eastellar Team."
+conditions="Maximum supply of DOGEz is 25B tokens only"
+image="https://eastellar.com/images/DOGEz.png"
