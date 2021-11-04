@@ -891,3 +891,14 @@ fixed_number=25000000000
 desc="BIPARTITE is issued by Eastellar Team."
 conditions="Maximum supply of BIPARTITE is 25B tokens only"
 image="https://eastellar.com/images/BIPARTITE.png"
+
+[[CURRENCIES]]
+code="EVERGREEN"
+issuer="GCM3NHN6UDLBVONWAJWLS44O6BNRGVI7CFQL4TGVV4ZUPPUQM5D7NZRZ"
+status="live"
+display_decimals=4
+name="EVERGREEN"
+fixed_number=25000000000
+desc="EVERGREEN is issued by Eastellar Team."
+conditions="Maximum supply of EVERGREEN is 25B tokens only"
+image="https://eastellar.com/images/EVERGREEN.png"
