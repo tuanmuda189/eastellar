@@ -880,3 +880,14 @@ fixed_number=25000000000
 desc="DOGEz is issued by Eastellar Team."
 conditions="Maximum supply of DOGEz is 25B tokens only"
 image="https://eastellar.com/images/DOGEz.png"
+
+[[CURRENCIES]]
+code="BIPARTITE"
+issuer="GB2CFJWXG3BSZQNGRYJV5BEV6RKWWRFYMRSBTWICM4JTCILRYX7ZAAQB"
+status="live"
+display_decimals=4
+name="BIPARTITE"
+fixed_number=25000000000
+desc="BIPARTITE is issued by Eastellar Team."
+conditions="Maximum supply of BIPARTITE is 25B tokens only"
+image="https://eastellar.com/images/BIPARTITE.png"
