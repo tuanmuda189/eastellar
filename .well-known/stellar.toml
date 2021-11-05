@@ -902,3 +902,14 @@ fixed_number=25000000000
 desc="EVERGREEN is issued by Eastellar Team."
 conditions="Maximum supply of EVERGREEN is 25B tokens only"
 image="https://eastellar.com/images/EVERGREEN.png"
+
+[[CURRENCIES]]
+code="CACTUS"
+issuer="GB53JCFBVOIDWWRUVBPBWSH6YUZFIIWG5CPCMZZ4TLTZQHFNSASKK4WW"
+status="live"
+display_decimals=4
+name="CACTUS"
+fixed_number=25000000000
+desc="CACTUS is issued by Eastellar Team."
+conditions="Maximum supply of CACTUS is 25B tokens only"
+image="https://eastellar.com/images/CACTUS.png"
