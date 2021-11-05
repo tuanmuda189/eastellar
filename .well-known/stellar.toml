@@ -913,3 +913,14 @@ fixed_number=25000000000
 desc="CACTUS is issued by Eastellar Team."
 conditions="Maximum supply of CACTUS is 25B tokens only"
 image="https://eastellar.com/images/CACTUS.png"
+
+[[CURRENCIES]]
+code="JADE"
+issuer="GBJHJZHGRZZYS74NO3GIHCQGTU2LAUAHKVJ2WQ5WFH2TBZBVTAB36ZKN"
+status="live"
+display_decimals=4
+name="JADE"
+fixed_number=25000000000
+desc="JADE is issued by Eastellar Team."
+conditions="Maximum supply of JADE is 25B tokens only"
+image="https://eastellar.com/images/JADE.png"
