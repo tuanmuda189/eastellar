@@ -922,3 +922,15 @@ fixed_number=25000000000
 desc="JADE is issued by Eastellar Team."
 conditions="Maximum supply of JADE is 25B tokens only"
 image="https://eastellar.com/images/JADE.png"
+
+[[CURRENCIES]]
+code="AGAVE"
+issuer="GAL5LQB23Y3SX5GJ3S4FZ7XN675CM5ABATDRKDEXX65SEKNCXRVUMCP7"
+status="live"
+display_decimals=4
+name="AGAVE"
+fixed_number=25000000000
+desc="AGAVE is issued by Eastellar Team."
+conditions="Maximum supply of AGAVE is 25B tokens only"
+image="https://eastellar.com/images/AGAVE.png"
+
