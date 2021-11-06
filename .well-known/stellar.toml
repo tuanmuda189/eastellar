@@ -934,3 +934,13 @@ desc="AGAVE is issued by Eastellar Team."
 conditions="Maximum supply of AGAVE is 25B tokens only"
 image="https://eastellar.com/images/AGAVE.png"
 
+[[CURRENCIES]]
+code="THIRTEEN"
+issuer="GDTYECENHS3VDFL3J2ZTBTS3DAFHYB6X6GZDMSDR4LLZ765Q5IMCPXEZ"
+status="live"
+display_decimals=4
+name="THIRTEEN"
+fixed_number=25000000000
+desc="THIRTEEN is issued by Eastellar Team."
+conditions="Maximum supply of THIRTEEN is 25B tokens only"
+image="https://eastellar.com/images/THIRTEEN.png"
