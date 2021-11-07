@@ -955,3 +955,14 @@ fixed_number=25000000000
 desc="ALOCASIA is issued by Eastellar Team."
 conditions="Maximum supply of ALOCASIA is 25B tokens only"
 image="https://eastellar.com/images/ALOCASIA.png"
+
+[[CURRENCIES]]
+code="BNBz"
+issuer="GDGKCWJG2SQ2TKZLUMGCLFZ47AJMOPUXX7EZHJM5WXCOAXWY7FLRD7ME"
+status="live"
+display_decimals=4
+name="BNBz"
+fixed_number=25000000000
+desc="BNBz is issued by Eastellar Team."
+conditions="Maximum supply of BNBz is 25B tokens only"
+image="https://eastellar.com/images/BNBz.png"
