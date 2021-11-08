@@ -977,3 +977,14 @@ fixed_number=25000000000
 desc="CALATHEA is issued by Eastellar Team."
 conditions="Maximum supply of CALATHEA is 25B tokens only"
 image="https://eastellar.com/images/CALATHEA.png"
+
+[[CURRENCIES]]
+code="FOURTEEN"
+issuer="GBURLIG4KJRC6D32J5XIY27LN4EFYQNB7T4ILRZ2RBZEP6YARBCXWWFR"
+status="live"
+display_decimals=4
+name="FOURTEEN"
+fixed_number=25000000000
+desc="FOURTEEN is issued by Eastellar Team."
+conditions="Maximum supply of FOURTEEN is 25B tokens only"
+image="https://eastellar.com/images/FOURTEEN.png"
