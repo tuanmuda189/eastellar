@@ -966,3 +966,14 @@ fixed_number=25000000000
 desc="BNBz is issued by Eastellar Team."
 conditions="Maximum supply of BNBz is 25B tokens only"
 image="https://eastellar.com/images/BNBz.png"
+
+[[CURRENCIES]]
+code="CALATHEA"
+issuer="GCILHWHU2ZHGXR4HTRS46LLSKQM2UU5HWLVXDSSCKJFX3JC4FHT4W32Q"
+status="live"
+display_decimals=4
+name="CALATHEA"
+fixed_number=25000000000
+desc="CALATHEA is issued by Eastellar Team."
+conditions="Maximum supply of CALATHEA is 25B tokens only"
+image="https://eastellar.com/images/CALATHEA.png"
