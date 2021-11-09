@@ -999,3 +999,14 @@ fixed_number=25000000000
 desc="SPIDERPLANT is issued by Eastellar Team."
 conditions="Maximum supply of SPIDERPLANT is 25B tokens only"
 image="https://eastellar.com/images/SPIDERPLANT.png"
+
+[[CURRENCIES]]
+code="METAz"
+issuer="GAITPT3CRFXD2OR3ZACTW7K3D3IVFEHHG2QTZT24ILMQ2Y54PYBNGHAO"
+status="live"
+display_decimals=4
+name="METAz"
+fixed_number=25000000000
+desc="METAz is issued by Eastellar Team."
+conditions="Maximum supply of METAz is 25B tokens only"
+image="https://eastellar.com/images/METAz.png"
