@@ -988,3 +988,14 @@ fixed_number=25000000000
 desc="FOURTEEN is issued by Eastellar Team."
 conditions="Maximum supply of FOURTEEN is 25B tokens only"
 image="https://eastellar.com/images/FOURTEEN.png"
+
+[[CURRENCIES]]
+code="SPIDERPLANT"
+issuer="GCJUULYTCWQIOAQ6TG6PVXELR2CBLANF5LM2ZVHKZMQP6QJ6KXFLECEA"
+status="live"
+display_decimals=4
+name="SPIDERPLANT"
+fixed_number=25000000000
+desc="SPIDERPLANT is issued by Eastellar Team."
+conditions="Maximum supply of SPIDERPLANT is 25B tokens only"
+image="https://eastellar.com/images/SPIDERPLANT.png"
