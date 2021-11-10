@@ -1021,3 +1021,14 @@ fixed_number=25000000000
 desc="ANTHURIUM is issued by Eastellar Team."
 conditions="Maximum supply of ANTHURIUM is 25B tokens only"
 image="https://eastellar.com/images/ANTHURIUM.png"
+
+[[CURRENCIES]]
+code="FIFTEEN"
+issuer="GCFSNO6A3SLXVT72S72CYPBTCIAKVWLXAYS6Z77QER5MD7URYA2SCMY6"
+status="live"
+display_decimals=4
+name="FIFTEEN"
+fixed_number=25000000000
+desc="FIFTEEN is issued by Eastellar Team."
+conditions="Maximum supply of FIFTEEN is 25B tokens only"
+image="https://eastellar.com/images/FIFTEEN.png"
