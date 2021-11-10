@@ -1010,3 +1010,14 @@ fixed_number=25000000000
 desc="METAz is issued by Eastellar Team."
 conditions="Maximum supply of METAz is 25B tokens only"
 image="https://eastellar.com/images/METAz.png"
+
+[[CURRENCIES]]
+code="ANTHURIUM"
+issuer="GCLE7SCPZ2BIVP72ZT4AREKK6RVTKECZFIHSOCRPPNTKEHKU6YWSIKOJ"
+status="live"
+display_decimals=4
+name="ANTHURIUM"
+fixed_number=25000000000
+desc="ANTHURIUM is issued by Eastellar Team."
+conditions="Maximum supply of ANTHURIUM is 25B tokens only"
+image="https://eastellar.com/images/ANTHURIUM.png"
