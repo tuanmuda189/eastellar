@@ -1032,3 +1032,14 @@ fixed_number=25000000000
 desc="FIFTEEN is issued by Eastellar Team."
 conditions="Maximum supply of FIFTEEN is 25B tokens only"
 image="https://eastellar.com/images/FIFTEEN.png"
+
+[[CURRENCIES]]
+code="ASPARAGUS"
+issuer="GBSNSTIVYK7H4XHIFXX6T6WMRJZEAU6DV2VZER3NAFZILQFCNA3L2FVZ"
+status="live"
+display_decimals=4
+name="ASPARAGUS"
+fixed_number=25000000000
+desc="ASPARAGUS is issued by Eastellar Team."
+conditions="Maximum supply of ASPARAGUS is 25B tokens only"
+image="https://eastellar.com/images/ASPARAGUS.png"
