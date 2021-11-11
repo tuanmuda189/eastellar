@@ -1043,3 +1043,14 @@ fixed_number=25000000000
 desc="ASPARAGUS is issued by Eastellar Team."
 conditions="Maximum supply of ASPARAGUS is 25B tokens only"
 image="https://eastellar.com/images/ASPARAGUS.png"
+
+[[CURRENCIES]]
+code="AVAXz"
+issuer="GCXHANUDY4KDNN55QPMV36LH73EEINKQWIFVHMA4EIJCZZVMMRIFENTQ"
+status="live"
+display_decimals=4
+name="AVAXz"
+fixed_number=25000000000
+desc="AVAXz is issued by Eastellar Team."
+conditions="Maximum supply of AVAXz is 25B tokens only"
+image="https://eastellar.com/images/AVAXz.png"
