@@ -1066,3 +1066,13 @@ desc="TADz is issued by Eastellar Team."
 conditions="Maximum supply of TADz is 25B tokens only"
 image="https://eastellar.com/images/TADz.png"
 
+[[CURRENCIES]]
+code="SIXTEEN"
+issuer="GAM4IIJQP6BE3GRTXXDITH7SYUTA3JLN733JBQ2HRUTOQOKTNJW6JNRB"
+status="live"
+display_decimals=4
+name="SIXTEEN"
+fixed_number=25000000000
+desc="SIXTEEN is issued by Eastellar Team."
+conditions="Maximum supply of SIXTEEN is 25B tokens only"
+image="https://eastellar.com/images/SIXTEEN.png"
