@@ -1054,3 +1054,15 @@ fixed_number=25000000000
 desc="AVAXz is issued by Eastellar Team."
 conditions="Maximum supply of AVAXz is 25B tokens only"
 image="https://eastellar.com/images/AVAXz.png"
+
+[[CURRENCIES]]
+code="TADz"
+issuer="GAX4USSCE4RFPJBBR23EOS5M7J74G6KCCM5OIK72J6XXPFJZAYAQAXZL"
+status="live"
+display_decimals=4
+name="TADz"
+fixed_number=25000000000
+desc="TADz is issued by Eastellar Team."
+conditions="Maximum supply of TADz is 25B tokens only"
+image="https://eastellar.com/images/TADz.png"
+
