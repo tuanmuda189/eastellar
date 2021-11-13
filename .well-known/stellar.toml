@@ -1076,3 +1076,15 @@ fixed_number=25000000000
 desc="SIXTEEN is issued by Eastellar Team."
 conditions="Maximum supply of SIXTEEN is 25B tokens only"
 image="https://eastellar.com/images/SIXTEEN.png"
+
+[[CURRENCIES]]
+code="LIGUSTRUM"
+issuer="GDJJBBFBFZCODUY3KCZE2SLBHJSZH3Q67BRHUHGYJ53L5R3WAK4VHWOH"
+status="live"
+display_decimals=4
+name="LIGUSTRUM"
+fixed_number=25000000000
+desc="LIGUSTRUM is issued by Eastellar Team."
+conditions="Maximum supply of LIGUSTRUM is 25B tokens only"
+image="https://eastellar.com/images/LIGUSTRUM.png"
+
