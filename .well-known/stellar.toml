@@ -1088,3 +1088,13 @@ desc="LIGUSTRUM is issued by Eastellar Team."
 conditions="Maximum supply of LIGUSTRUM is 25B tokens only"
 image="https://eastellar.com/images/LIGUSTRUM.png"
 
+[[CURRENCIES]]
+code="BITz"
+issuer="GDAQQGR4DSDT3RYNKB3OWC7S5PYRIJ6UT4OHWETDD6XQZ64K7GXCNZ4A"
+status="live"
+display_decimals=4
+name="BITz"
+fixed_number=25000000000
+desc="BITz is issued by Eastellar Team."
+conditions="Maximum supply of BITz is 25B tokens only"
+image="https://eastellar.com/images/BITz.png"
