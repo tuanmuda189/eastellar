@@ -1098,3 +1098,15 @@ fixed_number=25000000000
 desc="BITz is issued by Eastellar Team."
 conditions="Maximum supply of BITz is 25B tokens only"
 image="https://eastellar.com/images/BITz.png"
+
+[[CURRENCIES]]
+code="PEPEROMIA"
+issuer="GASIY223KUGKAAQNDV4PZAY77GC4GMMRK6KWWJ5RWZPV5QXN3QGQNB7J"
+status="live"
+display_decimals=4
+name="PEPEROMIA"
+fixed_number=25000000000
+desc="PEPEROMIA is issued by Eastellar Team."
+conditions="Maximum supply of PEPEROMIA is 25B tokens only"
+image="https://eastellar.com/images/PEPEROMIA.png"
+
