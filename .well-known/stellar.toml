@@ -1110,3 +1110,13 @@ desc="PEPEROMIA is issued by Eastellar Team."
 conditions="Maximum supply of PEPEROMIA is 25B tokens only"
 image="https://eastellar.com/images/PEPEROMIA.png"
 
+[[CURRENCIES]]
+code="SEVENTEEN"
+issuer="GBJIK6BX7ILXPHEXMVPI4GSZEPMLLKJHWLGMNQL4LUHFFRBQ5PHIEDVS"
+status="live"
+display_decimals=4
+name="SEVENTEEN"
+fixed_number=25000000000
+desc="SEVENTEEN is issued by Eastellar Team."
+conditions="Maximum supply of SEVENTEEN is 25B tokens only"
+image="https://eastellar.com/images/SEVENTEEN.png"
