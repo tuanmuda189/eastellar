@@ -1131,3 +1131,14 @@ fixed_number=25000000000
 desc="SEVENTEEN is issued by Eastellar Team."
 conditions="Maximum supply of SEVENTEEN is 25B tokens only"
 image="https://eastellar.com/images/SEVENTEEN.png"
+
+[[CURRENCIES]]
+code="MANAz"
+issuer="GA4DXBDNA3OZSWSJLGM2OTL7ANJ7WWQRO7O5V45B4OCOCXYO6FMWOGMZ"
+status="live"
+display_decimals=4
+name="MANAz"
+fixed_number=25000000000
+desc="MANAz is issued by Eastellar Team."
+conditions="Maximum supply of MANAz is 25B tokens only"
+image="https://eastellar.com/images/MANAz.png"
