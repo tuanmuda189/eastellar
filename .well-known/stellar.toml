@@ -1111,12 +1111,12 @@ conditions="Maximum supply of PEPEROMIA is 25B tokens only"
 image="https://eastellar.com/images/PEPEROMIA.png"
 
 [[CURRENCIES]]
-code="SEVENTEEN"
-issuer="GBJIK6BX7ILXPHEXMVPI4GSZEPMLLKJHWLGMNQL4LUHFFRBQ5PHIEDVS"
+code="COLEUS"
+issuer="GCM3LTJQE3YKOKOG4G7D2LB2ICHPJ7ISOVHNN7ZVSY23DVR736UJKXYO"
 status="live"
 display_decimals=4
-name="SEVENTEEN"
+name="COLEUS"
 fixed_number=25000000000
-desc="SEVENTEEN is issued by Eastellar Team."
-conditions="Maximum supply of SEVENTEEN is 25B tokens only"
-image="https://eastellar.com/images/SEVENTEEN.png"
+desc="COLEUS is issued by Eastellar Team."
+conditions="Maximum supply of COLEUS is 25B tokens only"
+image="https://eastellar.com/images/COLEUS.png"
