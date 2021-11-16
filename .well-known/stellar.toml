@@ -1142,3 +1142,14 @@ fixed_number=25000000000
 desc="MANAz is issued by Eastellar Team."
 conditions="Maximum supply of MANAz is 25B tokens only"
 image="https://eastellar.com/images/MANAz.png"
+
+[[CURRENCIES]]
+code="PLATYCERIUM"
+issuer="GBFMG2YIXXDFNZ5MBP532KCURJUL45K7O4UL4TK5SMVCJOGIAV3INRSZ"
+status="live"
+display_decimals=4
+name="PLATYCERIUM"
+fixed_number=25000000000
+desc="PLATYCERIUM is issued by Eastellar Team."
+conditions="Maximum supply of PLATYCERIUM is 25B tokens only"
+image="https://eastellar.com/images/PLATYCERIUM.png"
