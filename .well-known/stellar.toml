@@ -1175,3 +1175,14 @@ fixed_number=25000000000
 desc="AGLAONEMA is issued by Eastellar Team."
 conditions="Maximum supply of AGLAONEMA is 25B tokens only"
 image="https://eastellar.com/images/AGLAONEMA.png"
+
+[[CURRENCIES]]
+code="TWENTYONE"
+issuer="GCHNLSD3YACI2R6Z5DQNVL7Y526ANNMD43NWOJ3ORYRHKTMXDJSHZVWZ"
+status="live"
+display_decimals=4
+name="TWENTYONE"
+fixed_number=25000000000
+desc="TWENTYONE is issued by Eastellar Team."
+conditions="Maximum supply of TWENTYONE is 25B tokens only"
+image="https://eastellar.com/images/TWENTYONE.png"
