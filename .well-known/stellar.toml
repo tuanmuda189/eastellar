@@ -1164,3 +1164,14 @@ fixed_number=25000000000
 desc="EOSz is issued by Eastellar Team."
 conditions="Maximum supply of EOSz is 25B tokens only"
 image="https://eastellar.com/images/EOSz.png"
+
+[[CURRENCIES]]
+code="AGLAONEMA"
+issuer="GBUIKBOHIQJDS374RRB32X2JGLWHOD4CFCLMGTWY7WFJWG4XD53XUAAA"
+status="live"
+display_decimals=4
+name="AGLAONEMA"
+fixed_number=25000000000
+desc="AGLAONEMA is issued by Eastellar Team."
+conditions="Maximum supply of AGLAONEMA is 25B tokens only"
+image="https://eastellar.com/images/AGLAONEMA.png"
