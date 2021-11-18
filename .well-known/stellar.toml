@@ -1186,3 +1186,14 @@ fixed_number=25000000000
 desc="TWENTYONE is issued by Eastellar Team."
 conditions="Maximum supply of TWENTYONE is 25B tokens only"
 image="https://eastellar.com/images/TWENTYONE.png"
+
+[[CURRENCIES]]
+code="LETTUCE"
+issuer="GAHRRWIK2P66G4XBJYVRH6P2HZH2F6FECDC64QSUABAUHUPPLOURZBH7"
+status="live"
+display_decimals=4
+name="LETTUCE"
+fixed_number=25000000000
+desc="LETTUCE is issued by Eastellar Team."
+conditions="Maximum supply of LETTUCE is 25B tokens only"
+image="https://eastellar.com/images/LETTUCE.png"
