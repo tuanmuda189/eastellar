@@ -1197,3 +1197,14 @@ fixed_number=25000000000
 desc="LETTUCE is issued by Eastellar Team."
 conditions="Maximum supply of LETTUCE is 25B tokens only"
 image="https://eastellar.com/images/LETTUCE.png"
+
+[[CURRENCIES]]
+code="VELOz"
+issuer="GDYWK4PCM23GFDISI6A52I6IGXNLSTPTCTIU3IH7AJP7DXCSXSVROU7U"
+status="live"
+display_decimals=4
+name="VELOz"
+fixed_number=25000000000
+desc="VELOz is issued by Eastellar Team."
+conditions="Maximum supply of VELOz is 25B tokens only"
+image="https://eastellar.com/images/VELOz.png"
