@@ -1208,3 +1208,14 @@ fixed_number=25000000000
 desc="VELOz is issued by Eastellar Team."
 conditions="Maximum supply of VELOz is 25B tokens only"
 image="https://eastellar.com/images/VELOz.png"
+
+[[CURRENCIES]]
+code="ELEPHANTOPUS"
+issuer="GD5OUR4QBBA7R3R7BJXIPERDVOKFPFRVRIGIEHW3AYI4LYJJNS7KVSOZ"
+status="live"
+display_decimals=4
+name="ELEPHANTOPUS"
+fixed_number=25000000000
+desc="ELEPHANTOPUS is issued by Eastellar Team."
+conditions="Maximum supply of ELEPHANTOPUS is 25B tokens only"
+image="https://eastellar.com/images/ELEPHANTOPUS.png"
