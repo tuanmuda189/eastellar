@@ -1219,3 +1219,14 @@ fixed_number=25000000000
 desc="ELEPHANTOPUS is issued by Eastellar Team."
 conditions="Maximum supply of ELEPHANTOPUS is 25B tokens only"
 image="https://eastellar.com/images/ELEPHANTOPUS.png"
+
+[[CURRENCIES]]
+code="SCOPz"
+issuer="GCWKIYA3SVW6EINT47NUEOG7ODMX4U5AS7PKB7AJ5PBAMONWPIAK3Y7Y"
+status="live"
+display_decimals=4
+name="SCOPz"
+fixed_number=25000000000
+desc="SCOPz is issued by Eastellar Team."
+conditions="Maximum supply of SCOPz is 25B tokens only"
+image="https://eastellar.com/images/SCOPz.png"
