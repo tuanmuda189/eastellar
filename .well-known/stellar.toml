@@ -1230,3 +1230,14 @@ fixed_number=25000000000
 desc="SCOPz is issued by Eastellar Team."
 conditions="Maximum supply of SCOPz is 25B tokens only"
 image="https://eastellar.com/images/SCOPz.png"
+
+[[CURRENCIES]]
+code="PIPERBETLE"
+issuer="GD4EITG7WQOH3LWIH3KXJHLQ4H7HLJDFVZY6BVE57LRQCP4B4B3VJV5Y"
+status="live"
+display_decimals=4
+name="PIPERBETLE"
+fixed_number=25000000000
+desc="PIPERBETLE is issued by Eastellar Team."
+conditions="Maximum supply of PIPERBETLE is 25B tokens only"
+image="https://eastellar.com/images/PIPERBETLE.png"
