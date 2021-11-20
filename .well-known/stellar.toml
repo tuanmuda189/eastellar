@@ -1241,3 +1241,14 @@ fixed_number=25000000000
 desc="PIPERBETLE is issued by Eastellar Team."
 conditions="Maximum supply of PIPERBETLE is 25B tokens only"
 image="https://eastellar.com/images/PIPERBETLE.png"
+
+[[CURRENCIES]]
+code="YBXz"
+issuer="GBL5YRQQ5TYXTGUUO52K46FMKLSXWQ3NSSC77V5HMKEN257OKF2BJEZT"
+status="live"
+display_decimals=4
+name="YBXz"
+fixed_number=25000000000
+desc="YBXz is issued by Eastellar Team."
+conditions="Maximum supply of YBXz is 25B tokens only"
+image="https://eastellar.com/images/YBXz.png"
