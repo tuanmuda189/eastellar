@@ -1252,3 +1252,15 @@ fixed_number=25000000000
 desc="YBXz is issued by Eastellar Team."
 conditions="Maximum supply of YBXz is 25B tokens only"
 image="https://eastellar.com/images/YBXz.png"
+
+[[CURRENCIES]]
+code="MONSTERA"
+issuer="GAV72IKOE2SMUT5FGYOTTAIVWYGSTY6TQ2WWXY7ZT6TNWMYH3RUWM75I"
+status="live"
+display_decimals=4
+name="MONSTERA"
+fixed_number=25000000000
+desc="MONSTERA is issued by Eastellar Team."
+conditions="Maximum supply of MONSTERA is 25B tokens only"
+image="https://eastellar.com/images/MONSTERA.png"
+
