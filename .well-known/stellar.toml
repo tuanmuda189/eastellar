@@ -1264,3 +1264,13 @@ desc="MONSTERA is issued by Eastellar Team."
 conditions="Maximum supply of MONSTERA is 25B tokens only"
 image="https://eastellar.com/images/MONSTERA.png"
 
+[[CURRENCIES]]
+code="DOGETz"
+issuer="GCJB756AFZXAYTXGEUHOI24WMIX5FDZ3BGZDSDTJSF5H3IN4RSLRGZUT"
+status="live"
+display_decimals=4
+name="DOGETz"
+fixed_number=25000000000
+desc="DOGETz is issued by Eastellar Team."
+conditions="Maximum supply of DOGETz is 25B tokens only"
+image="https://eastellar.com/images/DOGETz.png"
