@@ -1274,3 +1274,14 @@ fixed_number=25000000000
 desc="DOGETz is issued by Eastellar Team."
 conditions="Maximum supply of DOGETz is 25B tokens only"
 image="https://eastellar.com/images/DOGETz.png"
+
+[[CURRENCIES]]
+code="CORAL"
+issuer="GCMQV2HAZKGYUJOUDEXM7P7DY5FMWZBXPWQBNPWDF6K3V3ABFTXLYNO5"
+status="live"
+display_decimals=4
+name="CORAL"
+fixed_number=25000000000
+desc="CORAL is issued by Eastellar Team."
+conditions="Maximum supply of CORAL is 25B tokens only"
+image="https://eastellar.com/images/CORAL.png"
