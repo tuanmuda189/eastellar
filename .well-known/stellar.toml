@@ -1285,3 +1285,14 @@ fixed_number=25000000000
 desc="CORAL is issued by Eastellar Team."
 conditions="Maximum supply of CORAL is 25B tokens only"
 image="https://eastellar.com/images/CORAL.png"
+
+[[CURRENCIES]]
+code="TWENTYFOUR"
+issuer="GBSLTWN5LWHWF6S54HJ365DDRSZO52RBEMQZOIXCI6V3FJAOQM2TL24D"
+status="live"
+display_decimals=4
+name="TWENTYFOUR"
+fixed_number=25000000000
+desc="TWENTYFOUR is issued by Eastellar Team."
+conditions="Maximum supply of TWENTYFOUR is 25B tokens only"
+image="https://eastellar.com/images/TWENTYFOUR.png"
