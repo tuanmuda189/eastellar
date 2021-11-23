@@ -1308,3 +1308,13 @@ desc="HAWORTHIA is issued by Eastellar Team."
 conditions="Maximum supply of HAWORTHIA is 25B tokens only"
 image="https://eastellar.com/images/HAWORTHIA.png"
 
+[[CURRENCIES]]
+code="GOLDz"
+issuer="GAMX4SK7XF7NPMZ3YSLCSCGPBIR3FRSLKNIX3U4IXPL6YGGH4PEU64U3"
+status="live"
+display_decimals=4
+name="GOLDz"
+fixed_number=25000000000
+desc="GOLDz is issued by Eastellar Team."
+conditions="Maximum supply of GOLDz is 25B tokens only"
+image="https://eastellar.com/images/GOLDz.png"
