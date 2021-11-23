@@ -1296,3 +1296,15 @@ fixed_number=25000000000
 desc="TWENTYFOUR is issued by Eastellar Team."
 conditions="Maximum supply of TWENTYFOUR is 25B tokens only"
 image="https://eastellar.com/images/TWENTYFOUR.png"
+
+[[CURRENCIES]]
+code="HAWORTHIA"
+issuer="GB4LQORGCIUHRQLKP3JJS7NSCXRZRLQB4VWTWULOPZD6PHCVGGUJHNZH"
+status="live"
+display_decimals=4
+name="HAWORTHIA"
+fixed_number=25000000000
+desc="HAWORTHIA is issued by Eastellar Team."
+conditions="Maximum supply of HAWORTHIA is 25B tokens only"
+image="https://eastellar.com/images/HAWORTHIA.png"
+
