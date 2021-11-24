@@ -1329,3 +1329,14 @@ fixed_number=25000000000
 desc="BOTXz is issued by Eastellar Team."
 conditions="Maximum supply of BOTXz is 25B tokens only"
 image="https://eastellar.com/images/BOTXz.png"
+
+[[CURRENCIES]]
+code="TOPAZ"
+issuer="GADUCC456MDODP34QSWN7WTKO3LYZKIWL4YX7Q72ZUAJIKWTWYDLZ326"
+status="live"
+display_decimals=4
+name="TOPAZ"
+fixed_number=25000000000
+desc="TOPAZ is issued by Eastellar Team."
+conditions="Maximum supply of TOPAZ is 25B tokens only"
+image="https://eastellar.com/images/TOPAZ.png"
