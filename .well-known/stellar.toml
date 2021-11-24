@@ -1318,3 +1318,14 @@ fixed_number=25000000000
 desc="GOLDz is issued by Eastellar Team."
 conditions="Maximum supply of GOLDz is 25B tokens only"
 image="https://eastellar.com/images/GOLDz.png"
+
+[[CURRENCIES]]
+code="BOTXz"
+issuer="GACW3FHGQOMUJBUEPUM7FYHBGNSAVIGKT3ZT5O5GSISFE6KKYHHAQBQX"
+status="live"
+display_decimals=4
+name="BOTXz"
+fixed_number=25000000000
+desc="BOTXz is issued by Eastellar Team."
+conditions="Maximum supply of BOTXz is 25B tokens only"
+image="https://eastellar.com/images/BOTXz.png"
