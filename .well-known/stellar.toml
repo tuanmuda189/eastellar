@@ -1340,3 +1340,14 @@ fixed_number=25000000000
 desc="TOPAZ is issued by Eastellar Team."
 conditions="Maximum supply of TOPAZ is 25B tokens only"
 image="https://eastellar.com/images/TOPAZ.png"
+
+[[CURRENCIES]]
+code="PHILODENDRON"
+issuer="GA6AOUXRVDRIBAKST7ZDH5FAVXANYZAAQFDNR5NNTU74XXW4CELBWTNN"
+status="live"
+display_decimals=4
+name="PHILODENDRON"
+fixed_number=25000000000
+desc="PHILODENDRON is issued by Eastellar Team."
+conditions="Maximum supply of PHILODENDRON is 25B tokens only"
+image="https://eastellar.com/images/PHILODENDRON.png"
