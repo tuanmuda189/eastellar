@@ -1351,3 +1351,14 @@ fixed_number=25000000000
 desc="PHILODENDRON is issued by Eastellar Team."
 conditions="Maximum supply of PHILODENDRON is 25B tokens only"
 image="https://eastellar.com/images/PHILODENDRON.png"
+
+[[CURRENCIES]]
+code="EMERALD"
+issuer="GDV7AOOPLDZ3ZDBM22UPLHNBMA7GFJY7WWIV2H32HQMZE55MTIJ6QJCH"
+status="live"
+display_decimals=4
+name="EMERALD"
+fixed_number=25000000000
+desc="EMERALD is issued by Eastellar Team."
+conditions="Maximum supply of EMERALD is 25B tokens only"
+image="https://eastellar.com/images/EMERALD.png"
