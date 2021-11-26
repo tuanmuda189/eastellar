@@ -1362,3 +1362,15 @@ fixed_number=25000000000
 desc="EMERALD is issued by Eastellar Team."
 conditions="Maximum supply of EMERALD is 25B tokens only"
 image="https://eastellar.com/images/EMERALD.png"
+
+[[CURRENCIES]]
+code="IRIS"
+issuer="GDQSIYPEZT7GRP6K23UFJ4VKIBCDFUZQMOGNNK6JB4PLD2ZEVVGYW47D"
+status="live"
+display_decimals=4
+name="IRIS"
+fixed_number=25000000000
+desc="IRIS is issued by Eastellar Team."
+conditions="Maximum supply of IRIS is 25B tokens only"
+image="https://eastellar.com/images/IRIS.png"
+
