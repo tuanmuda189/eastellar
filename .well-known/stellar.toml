@@ -1374,3 +1374,13 @@ desc="IRIS is issued by Eastellar Team."
 conditions="Maximum supply of IRIS is 25B tokens only"
 image="https://eastellar.com/images/IRIS.png"
 
+[[CURRENCIES]]
+code="WOOz"
+issuer="GBPU3HJNRLTPUA3FUGLDYDBWFRGQYP2N7WJBMV2MEEDCWD3AU2JG26KS"
+status="live"
+display_decimals=4
+name="WOOz"
+fixed_number=25000000000
+desc="WOOz is issued by Eastellar Team."
+conditions="Maximum supply of WOOz is 25B tokens only"
+image="https://eastellar.com/images/WOOz.png"
