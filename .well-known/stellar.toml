@@ -1384,3 +1384,14 @@ fixed_number=25000000000
 desc="WOOz is issued by Eastellar Team."
 conditions="Maximum supply of WOOz is 25B tokens only"
 image="https://eastellar.com/images/WOOz.png"
+
+[[CURRENCIES]]
+code="BROMELIA"
+issuer="GDUA7PHMFODI6N5HUI4Y7S2NKXNWKNEPJQMCR7F3OBTDSFRKIDALIICU"
+status="live"
+display_decimals=4
+name="BROMELIA"
+fixed_number=25000000000
+desc="BROMELIA is issued by Eastellar Team."
+conditions="Maximum supply of BROMELIA is 25B tokens only"
+image="https://eastellar.com/images/BROMELIA.png"
