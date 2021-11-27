@@ -1395,3 +1395,14 @@ fixed_number=25000000000
 desc="BROMELIA is issued by Eastellar Team."
 conditions="Maximum supply of BROMELIA is 25B tokens only"
 image="https://eastellar.com/images/BROMELIA.png"
+
+[[CURRENCIES]]
+code="VETz"
+issuer="GCJV6UKHCOEWYA565MVY5SRDE2HZUB43NPLWH6UPEFCXP52QSPL73FI4"
+status="live"
+display_decimals=4
+name="VETz"
+fixed_number=25000000000
+desc="VETz is issued by Eastellar Team."
+conditions="Maximum supply of VETz is 25B tokens only"
+image="https://eastellar.com/images/VETz.png"
