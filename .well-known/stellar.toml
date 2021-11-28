@@ -1406,3 +1406,15 @@ fixed_number=25000000000
 desc="VETz is issued by Eastellar Team."
 conditions="Maximum supply of VETz is 25B tokens only"
 image="https://eastellar.com/images/VETz.png"
+
+[[CURRENCIES]]
+code="ALOEVERA"
+issuer="GDTSPWXWA5NAO4WIIK6K77EBTG5245DLGY6GPZF3Q666WQ6ZNSK2S3Y6"
+status="live"
+display_decimals=4
+name="ALOEVERA"
+fixed_number=25000000000
+desc="ALOEVERA is issued by Eastellar Team."
+conditions="Maximum supply of ALOEVERA is 25B tokens only"
+image="https://eastellar.com/images/ALOEVERA.png"
+
