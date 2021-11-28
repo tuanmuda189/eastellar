@@ -1418,3 +1418,13 @@ desc="ALOEVERA is issued by Eastellar Team."
 conditions="Maximum supply of ALOEVERA is 25B tokens only"
 image="https://eastellar.com/images/ALOEVERA.png"
 
+[[CURRENCIES]]
+code="PERIDOT"
+issuer="GCDPQX5DQN3POLC773P3CGWGHO42DXXL5W76FUH2TU7YSWBEGL6I3ST3"
+status="live"
+display_decimals=4
+name="PERIDOT"
+fixed_number=25000000000
+desc="PERIDOT is issued by Eastellar Team."
+conditions="Maximum supply of PERIDOT is 25B tokens only"
+image="https://eastellar.com/images/PERIDOT.png"
