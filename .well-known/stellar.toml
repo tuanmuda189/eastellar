@@ -1439,3 +1439,14 @@ fixed_number=25000000000
 desc="GRASSJELLY is issued by Eastellar Team."
 conditions="Maximum supply of GRASSJELLY is 25B tokens only"
 image="https://eastellar.com/images/GRASSJELLY.png"
+
+[[CURRENCIES]]
+code="SERPENTINE"
+issuer="GBNEPCQSYLUIZRJ2XZAVIFVS4J2RR4MRF3QBRIX44RV2EVHICE7F6KPA"
+status="live"
+display_decimals=4
+name="SERPENTINE"
+fixed_number=25000000000
+desc="SERPENTINE is issued by Eastellar Team."
+conditions="Maximum supply of SERPENTINE is 25B tokens only"
+image="https://eastellar.com/images/SERPENTINE.png"
