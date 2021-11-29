@@ -1428,3 +1428,14 @@ fixed_number=25000000000
 desc="PERIDOT is issued by Eastellar Team."
 conditions="Maximum supply of PERIDOT is 25B tokens only"
 image="https://eastellar.com/images/PERIDOT.png"
+
+[[CURRENCIES]]
+code="GRASSJELLY"
+issuer="GAVN5ZAD6YFPL6HCJOV5KU2MLU2CNN7J5FW5QJGU54BJ6L3K6TABMCZM"
+status="live"
+display_decimals=4
+name="GRASSJELLY"
+fixed_number=25000000000
+desc="GRASSJELLY is issued by Eastellar Team."
+conditions="Maximum supply of GRASSJELLY is 25B tokens only"
+image="https://eastellar.com/images/GRASSJELLY.png"
