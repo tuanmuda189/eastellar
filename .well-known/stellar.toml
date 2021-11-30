@@ -1450,3 +1450,14 @@ fixed_number=25000000000
 desc="SERPENTINE is issued by Eastellar Team."
 conditions="Maximum supply of SERPENTINE is 25B tokens only"
 image="https://eastellar.com/images/SERPENTINE.png"
+
+[[CURRENCIES]]
+code="BLUEBELL"
+issuer="GDVIWEHEY3QWGHDNXWRBWKXFEPO6D33WRHLXVGPPTBXDDG2RJWY663SC"
+status="live"
+display_decimals=4
+name="BLUEBELL"
+fixed_number=25000000000
+desc="BLUEBELL is issued by Eastellar Team."
+conditions="Maximum supply of BLUEBELL is 25B tokens only"
+image="https://eastellar.com/images/BLUEBELL.png"
