@@ -1461,3 +1461,14 @@ fixed_number=25000000000
 desc="BLUEBELL is issued by Eastellar Team."
 conditions="Maximum supply of BLUEBELL is 25B tokens only"
 image="https://eastellar.com/images/BLUEBELL.png"
+
+[[CURRENCIES]]
+code="GALAz"
+issuer="GBD7V2QHSQMUABFPJ7BOMBXFZ2MOZRLLS7ZVZF2K647QT7SV6F325OEU"
+status="live"
+display_decimals=4
+name="GALAz"
+fixed_number=25000000000
+desc="GALAz is issued by Eastellar Team."
+conditions="Maximum supply of GALAz is 25B tokens only"
+image="https://eastellar.com/images/GALAz.png"
