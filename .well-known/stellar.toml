@@ -1472,3 +1472,15 @@ fixed_number=25000000000
 desc="GALAz is issued by Eastellar Team."
 conditions="Maximum supply of GALAz is 25B tokens only"
 image="https://eastellar.com/images/GALAz.png"
+
+[[CURRENCIES]]
+code="AGAPANTHUS"
+issuer="GDUWOU2NMOVM6GKIIJ4DANXTB5NQ3ZB32MNO5M45D2OJVCBW253A6XKW"
+status="live"
+display_decimals=4
+name="AGAPANTHUS"
+fixed_number=25000000000
+desc="AGAPANTHUS is issued by Eastellar Team."
+conditions="Maximum supply of AGAPANTHUS is 25B tokens only"
+image="https://eastellar.com/images/AGAPANTHUS.png"
+
