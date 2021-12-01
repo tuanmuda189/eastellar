@@ -1484,3 +1484,13 @@ desc="AGAPANTHUS is issued by Eastellar Team."
 conditions="Maximum supply of AGAPANTHUS is 25B tokens only"
 image="https://eastellar.com/images/AGAPANTHUS.png"
 
+[[CURRENCIES]]
+code="ALEXANDRITE"
+issuer="GCE4DGZ3Q3GFMXRDECXP34XQKSOZ77YD5YCSRC4C26HJEO3MNCTL65Y4"
+status="live"
+display_decimals=4
+name="ALEXANDRITE"
+fixed_number=25000000000
+desc="ALEXANDRITE is issued by Eastellar Team."
+conditions="Maximum supply of ALEXANDRITE is 25B tokens only"
+image="https://eastellar.com/images/ALEXANDRITE.jpg"
