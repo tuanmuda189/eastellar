@@ -1506,3 +1506,13 @@ desc="HABISCUS is issued by Eastellar Team."
 conditions="Maximum supply of HABISCUS is 25B tokens only"
 image="https://eastellar.com/images/HABISCUS.png"
 
+[[CURRENCIES]]
+code="CURVEz"
+issuer="GCXLDVSWTX67GA6ZHPDC6FB7ALTJCV4XXYIRIUJMYOUQESNF7FIXI4W2"
+status="live"
+display_decimals=4
+name="CURVEz"
+fixed_number=25000000000
+desc="CURVEz is issued by Eastellar Team."
+conditions="Maximum supply of CURVEz is 25B tokens only"
+image="https://eastellar.com/images/CURVEz.png"
