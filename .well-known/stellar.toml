@@ -1516,3 +1516,15 @@ fixed_number=25000000000
 desc="CURVEz is issued by Eastellar Team."
 conditions="Maximum supply of CURVEz is 25B tokens only"
 image="https://eastellar.com/images/CURVEz.png"
+
+[[CURRENCIES]]
+code="ANEMONE"
+issuer="GDTLE6FVM7QGD73QHGABVZCWXJSKLGGXYJTUZZZBQCWPS3BTT6VAI7I6"
+status="live"
+display_decimals=4
+name="ANEMONE"
+fixed_number=25000000000
+desc="ANEMONE is issued by Eastellar Team."
+conditions="Maximum supply of ANEMONE is 25B tokens only"
+image="https://eastellar.com/images/ANEMONE.png"
+
