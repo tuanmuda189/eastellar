@@ -1538,3 +1538,15 @@ fixed_number=25000000000
 desc="BICOz is issued by Eastellar Team."
 conditions="Maximum supply of BICOz is 25B tokens only"
 image="https://eastellar.com/images/BICOz.png"
+
+[[CURRENCIES]]
+code="SUNFLOWER"
+issuer="GA4NVJ2KAAETYNTSPZQ4IELYDYU37UXCGIWA3CKEJUNAL2GUGD45N3UT"
+status="live"
+display_decimals=4
+name="SUNFLOWER"
+fixed_number=25000000000
+desc="SUNFLOWER is issued by Eastellar Team."
+conditions="Maximum supply of SUNFLOWER is 25B tokens only"
+image="https://eastellar.com/images/SUNFLOWER.png"
+
