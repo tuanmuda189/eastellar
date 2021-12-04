@@ -1550,3 +1550,13 @@ desc="SUNFLOWER is issued by Eastellar Team."
 conditions="Maximum supply of SUNFLOWER is 25B tokens only"
 image="https://eastellar.com/images/SUNFLOWER.png"
 
+[[CURRENCIES]]
+code="TRAAFEITE"
+issuer="GAM5GICGGZB2VJUSYK2U6U36U7S6NW3S6UFGPF2MRIMPK2IHEVBNSPRL"
+status="live"
+display_decimals=4
+name="TRAAFEITE"
+fixed_number=25000000000
+desc="TRAAFEITE is issued by Eastellar Team."
+conditions="Maximum supply of TRAAFEITE is 25B tokens only"
+image="https://eastellar.com/images/TRAAFEITE.png"
