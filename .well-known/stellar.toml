@@ -1560,3 +1560,15 @@ fixed_number=25000000000
 desc="TRAAFEITE is issued by Eastellar Team."
 conditions="Maximum supply of TRAAFEITE is 25B tokens only"
 image="https://eastellar.com/images/TRAAFEITE.png"
+
+[[CURRENCIES]]
+code="CELOSIA"
+issuer="GCM3BUYC62OU6SMQB6NURJJLJIVXJSLFBDOECAHCWLPUWTMPUOAYTLP2"
+status="live"
+display_decimals=4
+name="CELOSIA"
+fixed_number=25000000000
+desc="CELOSIA is issued by Eastellar Team."
+conditions="Maximum supply of CELOSIA is 25B tokens only"
+image="https://eastellar.com/images/CELOSIA.png"
+
