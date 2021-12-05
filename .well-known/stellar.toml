@@ -1572,3 +1572,13 @@ desc="CELOSIA is issued by Eastellar Team."
 conditions="Maximum supply of CELOSIA is 25B tokens only"
 image="https://eastellar.com/images/CELOSIA.png"
 
+[[CURRENCIES]]
+code="MATICz"
+issuer="GAVYHEZPDIQLKWXB4O77BRZGT2QT7UZN2LVLMPTEI4GGMG5RLLDXAWTX"
+status="live"
+display_decimals=4
+name="MATICz"
+fixed_number=25000000000
+desc="MATICz is issued by Eastellar Team."
+conditions="Maximum supply of MATICz is 25B tokens only"
+image="https://eastellar.com/images/MATICz.png"
