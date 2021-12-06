@@ -1582,3 +1582,15 @@ fixed_number=25000000000
 desc="MATICz is issued by Eastellar Team."
 conditions="Maximum supply of MATICz is 25B tokens only"
 image="https://eastellar.com/images/MATICz.png"
+
+[[CURRENCIES]]
+code="BOUGAINVILLE"
+issuer="GC5C6QVOLGOS65UVDC2UYILNDGS6TARKZFEYFSSAMHZBZQWDZJU4SBFB"
+status="live"
+display_decimals=4
+name="BOUGAINVILLE"
+fixed_number=25000000000
+desc="BOUGAINVILLE is issued by Eastellar Team."
+conditions="Maximum supply of BOUGAINVILLE is 25B tokens only"
+image="https://eastellar.com/images/BOUGAINVILLE.png"
+
