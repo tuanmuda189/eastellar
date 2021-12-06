@@ -1594,3 +1594,13 @@ desc="BOUGAINVILLE is issued by Eastellar Team."
 conditions="Maximum supply of BOUGAINVILLE is 25B tokens only"
 image="https://eastellar.com/images/BOUGAINVILLE.png"
 
+[[CURRENCIES]]
+code="FOURTY"
+issuer="GCV3CIYZ7KANEFWPVVQLIF5IFOFUVJBKIG7U7BQRMTH2KEG434Z4A4M6"
+status="live"
+display_decimals=4
+name="FOURTY"
+fixed_number=25000000000
+desc="FOURTY is issued by Eastellar Team."
+conditions="Maximum supply of FOURTY is 25B tokens only"
+image="https://eastellar.com/images/FOURTY.png"
