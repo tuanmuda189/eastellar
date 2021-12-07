@@ -1604,3 +1604,14 @@ fixed_number=25000000000
 desc="FOURTY is issued by Eastellar Team."
 conditions="Maximum supply of FOURTY is 25B tokens only"
 image="https://eastellar.com/images/FOURTY.png"
+
+[[CURRENCIES]]
+code="CARNATION"
+issuer="GDZP4ECQ3QHAIEQOMTMF3AW5NHBYCXYDQXEMHJMK4YO5OKYS7AWRTBJ4"
+status="live"
+display_decimals=4
+name="CARNATION"
+fixed_number=25000000000
+desc="CARNATION is issued by Eastellar Team."
+conditions="Maximum supply of CARNATION is 25B tokens only"
+image="https://eastellar.com/images/CARNATION.png"
