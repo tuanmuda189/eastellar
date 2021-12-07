@@ -1615,3 +1615,14 @@ fixed_number=25000000000
 desc="CARNATION is issued by Eastellar Team."
 conditions="Maximum supply of CARNATION is 25B tokens only"
 image="https://eastellar.com/images/CARNATION.png"
+
+[[CURRENCIES]]
+code="CNYz"
+issuer="GA745GJ4DMIHRANTDM4SOAY3JQYFOP3NQ32XOL7NUOESP3MAXOTBZ56S"
+status="live"
+display_decimals=4
+name="CNYz"
+fixed_number=25000000000
+desc="CNYz is issued by Eastellar Team."
+conditions="Maximum supply of CNYz is 25B tokens only"
+image="https://eastellar.com/images/CNYz.png"
