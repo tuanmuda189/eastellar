@@ -1637,3 +1637,14 @@ fixed_number=25000000000
 desc="HAWAIIAN is issued by Eastellar Team."
 conditions="Maximum supply of HAWAIIAN is 25B tokens only"
 image="https://eastellar.com/images/HAWAIIAN.png"
+
+[[CURRENCIES]]
+code="MORINGA"
+issuer="GDS2ELGHOF7HNAWGAINYWUUPAZ6WAGMYSO2HH56MNS2M46MXGD2SISMB"
+status="live"
+display_decimals=4
+name="MORINGA"
+fixed_number=25000000000
+desc="MORINGA is issued by Eastellar Team."
+conditions="Maximum supply of MORINGA is 25B tokens only"
+image="https://eastellar.com/images/MORINGA.png"
