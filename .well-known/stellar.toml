@@ -1626,3 +1626,14 @@ fixed_number=25000000000
 desc="CNYz is issued by Eastellar Team."
 conditions="Maximum supply of CNYz is 25B tokens only"
 image="https://eastellar.com/images/CNYz.png"
+
+[[CURRENCIES]]
+code="HAWAIIAN"
+issuer="GCEVVQR3WJQNAQOMCDG2U4QWVRQ6W4R7BLCANZMZFDWYU7KLFSJW6PG6"
+status="live"
+display_decimals=4
+name="HAWAIIAN"
+fixed_number=25000000000
+desc="HAWAIIAN is issued by Eastellar Team."
+conditions="Maximum supply of HAWAIIAN is 25B tokens only"
+image="https://eastellar.com/images/HAWAIIAN.png"
