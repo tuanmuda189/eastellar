@@ -1648,3 +1648,14 @@ fixed_number=25000000000
 desc="MORINGA is issued by Eastellar Team."
 conditions="Maximum supply of MORINGA is 25B tokens only"
 image="https://eastellar.com/images/MORINGA.png"
+
+[[CURRENCIES]]
+code="CAMELLIA"
+issuer="GDDD3MSSENNJF2HVQEXGLGVVXBRC3DZXC5MPICGR4WEOHYLL3TIAM2RE"
+status="live"
+display_decimals=4
+name="CAMELLIA"
+fixed_number=25000000000
+desc="CAMELLIA is issued by Eastellar Team."
+conditions="Maximum supply of CAMELLIA is 25B tokens only"
+image="https://eastellar.com/images/CAMELLIA.png"
