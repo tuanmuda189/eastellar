@@ -1659,3 +1659,14 @@ fixed_number=25000000000
 desc="CAMELLIA is issued by Eastellar Team."
 conditions="Maximum supply of CAMELLIA is 25B tokens only"
 image="https://eastellar.com/images/CAMELLIA.png"
+
+[[CURRENCIES]]
+code="AXSz"
+issuer="GAAAA3EVSEUUTNAUNQKB5PDSPW7KEQCRNLJ5JB5YLZKRUO6HZWDLJ5HJ"
+status="live"
+display_decimals=4
+name="AXSz"
+fixed_number=25000000000
+desc="AXSz is issued by Eastellar Team."
+conditions="Maximum supply of AXSz is 25B tokens only"
+image="https://eastellar.com/images/AXSz.png"
