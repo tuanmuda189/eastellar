@@ -1670,3 +1670,15 @@ fixed_number=25000000000
 desc="AXSz is issued by Eastellar Team."
 conditions="Maximum supply of AXSz is 25B tokens only"
 image="https://eastellar.com/images/AXSz.png"
+
+[[CURRENCIES]]
+code="TUBERUSE"
+issuer="GABSRHHYR5NPN5T4DHHS3JK6KZWLQBNB43FKNKI4TMM6OVJPHDRH5LYU"
+status="live"
+display_decimals=4
+name="TUBERUSE"
+fixed_number=25000000000
+desc="TUBERUSE is issued by Eastellar Team."
+conditions="Maximum supply of TUBERUSE is 25B tokens only"
+image="https://eastellar.com/images/TUBERUSE.png"
+
