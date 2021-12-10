@@ -1682,3 +1682,13 @@ desc="TUBERUSE is issued by Eastellar Team."
 conditions="Maximum supply of TUBERUSE is 25B tokens only"
 image="https://eastellar.com/images/TUBERUSE.png"
 
+[[CURRENCIES]]
+code="NEARz"
+issuer="GBYA2P6JYZM6UOAC3YD7SBPVZZMPRQRHSV4IX6HMLU5YQ7VEYXGSJURT"
+status="live"
+display_decimals=4
+name="NEARz"
+fixed_number=25000000000
+desc="NEARz is issued by Eastellar Team."
+conditions="Maximum supply of NEARz is 25B tokens only"
+image="https://eastellar.com/images/NEARz.png"
