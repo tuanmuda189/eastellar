@@ -1705,12 +1705,12 @@ conditions="Maximum supply of HELICONIA is 25B tokens only"
 image="https://eastellar.com/images/HELICONIA.png"
 
 [[CURRENCIES]]
-code="PYBz"
-issuer="GBYXXGQKGCWUHVKCM3KOSE2S5LDSRSEZB62O5M5EBIGSEE7TLTJQIG62"
+code="PYBCz"
+issuer="GC7RE6ZK7MFRGJTE3NW3GNMSQTYVRYPWZULLVCVVEA5VZWKU5HSEODA3"
 status="live"
 display_decimals=4
-name="PYBz"
+name="PYBCz"
 fixed_number=25000000000
-desc="PYBz is issued by Eastellar Team."
-conditions="Maximum supply of PYBz is 25B tokens only"
-image="https://eastellar.com/images/PYBz.png"
+desc="PYBCz is issued by Eastellar Team."
+conditions="Maximum supply of PYBCz is 25B tokens only"
+image="https://eastellar.com/images/PYBCz.png"
