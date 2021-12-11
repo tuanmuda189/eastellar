@@ -1692,3 +1692,14 @@ fixed_number=25000000000
 desc="NEARz is issued by Eastellar Team."
 conditions="Maximum supply of NEARz is 25B tokens only"
 image="https://eastellar.com/images/NEARz.png"
+
+[[CURRENCIES]]
+code="HELICONIA"
+issuer="GDOW6NCUDXJ4EE4NVVNBIIIF7DAJIXKC4VYTYT3JLYTGL4MKST3QV4XB"
+status="live"
+display_decimals=4
+name="HELICONIA"
+fixed_number=25000000000
+desc="HELICONIA is issued by Eastellar Team."
+conditions="Maximum supply of HELICONIA is 25B tokens only"
+image="https://eastellar.com/images/HELICONIA.png"
