@@ -1714,3 +1714,14 @@ fixed_number=25000000000
 desc="PYBCz is issued by Eastellar Team."
 conditions="Maximum supply of PYBCz is 25B tokens only"
 image="https://eastellar.com/images/PYBCz.png"
+
+[[CURRENCIES]]
+code="CARCASS"
+issuer="GAR54J4QJTH4V6VNJMACPIATYH3BLLZGKIAHOWQMWNX2T5V2245CKSIU"
+status="live"
+display_decimals=4
+name="CARCASS"
+fixed_number=25000000000
+desc="CARCASS is issued by Eastellar Team."
+conditions="Maximum supply of CARCASS is 25B tokens only"
+image="https://eastellar.com/images/CARCASS.png"
