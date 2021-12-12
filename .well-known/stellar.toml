@@ -1725,3 +1725,14 @@ fixed_number=25000000000
 desc="CARCASS is issued by Eastellar Team."
 conditions="Maximum supply of CARCASS is 25B tokens only"
 image="https://eastellar.com/images/CARCASS.png"
+
+[[CURRENCIES]]
+code="TEN"
+issuer="GBJIKKNB7ZU7FIXZKLJNQD4S4UBD4EYGNB25PLEDM5XSHP6OTSHNYHU5"
+status="live"
+display_decimals=4
+name="TEN"
+fixed_number=25000000000
+desc="TEN is issued by Eastellar Team."
+conditions="Maximum supply of TEN is 25B tokens only"
+image="https://eastellar.com/images/TEN.png"
