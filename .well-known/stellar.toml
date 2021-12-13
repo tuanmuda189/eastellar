@@ -1748,3 +1748,13 @@ desc="ORCHID is issued by Eastellar Team."
 conditions="Maximum supply of ORCHID is 25B tokens only"
 image="https://eastellar.com/images/ORCHID.png"
 
+[[CURRENCIES]]
+code="VADz"
+issuer="GA2K7XNRLRIOD7FHBCVGDY5GZRPEPJCW67Z2LUJV4U57FT4WL3UJ4GM4"
+status="live"
+display_decimals=4
+name="VADz"
+fixed_number=25000000000
+desc="VADz is issued by Eastellar Team."
+conditions="Maximum supply of VADz is 25B tokens only"
+image="https://eastellar.com/images/VADz.png"
