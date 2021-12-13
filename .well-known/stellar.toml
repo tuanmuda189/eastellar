@@ -1736,3 +1736,15 @@ fixed_number=25000000000
 desc="TEN is issued by Eastellar Team."
 conditions="Maximum supply of TEN is 25B tokens only"
 image="https://eastellar.com/images/TEN.png"
+
+[[CURRENCIES]]
+code="ORCHID"
+issuer="GD3ZQS2V2RQ7RCI2RC2UV4HJE3F2LDN2T2OG6SKF5CDW6DPTGF3D7O35"
+status="live"
+display_decimals=4
+name="ORCHID"
+fixed_number=25000000000
+desc="ORCHID is issued by Eastellar Team."
+conditions="Maximum supply of ORCHID is 25B tokens only"
+image="https://eastellar.com/images/ORCHID.png"
+
