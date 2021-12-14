@@ -1758,3 +1758,15 @@ fixed_number=25000000000
 desc="VADz is issued by Eastellar Team."
 conditions="Maximum supply of VADz is 25B tokens only"
 image="https://eastellar.com/images/VADz.png"
+
+[[CURRENCIES]]
+code="JASMINE"
+issuer="GBIVXTPMSR5KSZ46VZHGCXGKNVUKHKUGMIQ4X4M2RN7FDQB4X2EENNSS"
+status="live"
+display_decimals=4
+name="JASMINE"
+fixed_number=25000000000
+desc="JASMINE is issued by Eastellar Team."
+conditions="Maximum supply of JASMINE is 25B tokens only"
+image="https://eastellar.com/images/JASMINE.png"
+
