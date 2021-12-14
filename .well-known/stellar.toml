@@ -1770,3 +1770,13 @@ desc="JASMINE is issued by Eastellar Team."
 conditions="Maximum supply of JASMINE is 25B tokens only"
 image="https://eastellar.com/images/JASMINE.png"
 
+[[CURRENCIES]]
+code="ATOMz"
+issuer="GB5RT7RA3DGGTAZYNEELMTRI542MLQYDIOJHID643NVWTQAFXHESCUSS"
+status="live"
+display_decimals=4
+name="ATOMz"
+fixed_number=25000000000
+desc="ATOMz is issued by Eastellar Team."
+conditions="Maximum supply of ATOMz is 25B tokens only"
+image="https://eastellar.com/images/ATOMz.png"
