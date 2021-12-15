@@ -1780,3 +1780,15 @@ fixed_number=25000000000
 desc="ATOMz is issued by Eastellar Team."
 conditions="Maximum supply of ATOMz is 25B tokens only"
 image="https://eastellar.com/images/ATOMz.png"
+
+[[CURRENCIES]]
+code="DELPHINIUM"
+issuer="GDCWAU6FVLZRRXGEVEQQU3TNTK6YZ4OWKGK76E6WZNAUAIX6WYUPPGLC"
+status="live"
+display_decimals=4
+name="DELPHINIUM"
+fixed_number=25000000000
+desc="DELPHINIUM is issued by Eastellar Team."
+conditions="Maximum supply of DELPHINIUM is 25B tokens only"
+image="https://eastellar.com/images/DELPHINIUM.png"
+
