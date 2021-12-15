@@ -1792,3 +1792,13 @@ desc="DELPHINIUM is issued by Eastellar Team."
 conditions="Maximum supply of DELPHINIUM is 25B tokens only"
 image="https://eastellar.com/images/DELPHINIUM.png"
 
+[[CURRENCIES]]
+code="XMRz"
+issuer="GATAVMAU34X2MHDSBYZ7ITSRCMLERUSROH6CLWYEF3337DGCBYWWS6RU"
+status="live"
+display_decimals=4
+name="XMRz"
+fixed_number=25000000000
+desc="XMRz is issued by Eastellar Team."
+conditions="Maximum supply of XMRz is 25B tokens only"
+image="https://eastellar.com/images/XMRz.png"
