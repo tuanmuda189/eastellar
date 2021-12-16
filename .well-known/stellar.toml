@@ -1813,3 +1813,14 @@ fixed_number=25000000000
 desc="LAVENDER is issued by Eastellar Team."
 conditions="Maximum supply of LAVENDER is 25B tokens only"
 image="https://eastellar.com/images/LAVENDER.png"
+
+[[CURRENCIES]]
+code="FIFTY"
+issuer="GCDQYBGZWB35TI7BYHQBXD4GVKTKO6EESBT5UVTRITFLMBVBFQRFO62S"
+status="live"
+display_decimals=4
+name="FIFTY"
+fixed_number=25000000000
+desc="FIFTY is issued by Eastellar Team."
+conditions="Maximum supply of FIFTY is 25B tokens only"
+image="https://eastellar.com/images/FIFTY.png"
