@@ -1802,3 +1802,14 @@ fixed_number=25000000000
 desc="XMRz is issued by Eastellar Team."
 conditions="Maximum supply of XMRz is 25B tokens only"
 image="https://eastellar.com/images/XMRz.png"
+
+[[CURRENCIES]]
+code="LAVENDER"
+issuer="GD52ZNT4P6B5CUTNZD4RIXA463HGZMLWJY77R5C5H6CL5JC6LFNVRIPG"
+status="live"
+display_decimals=4
+name="LAVENDER"
+fixed_number=25000000000
+desc="LAVENDER is issued by Eastellar Team."
+conditions="Maximum supply of LAVENDER is 25B tokens only"
+image="https://eastellar.com/images/LAVENDER.png"
