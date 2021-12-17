@@ -1835,3 +1835,14 @@ fixed_number=25000000000
 desc="MAGNOLIA is issued by Eastellar Team."
 conditions="Maximum supply of MAGNOLIA is 25B tokens only"
 image="https://eastellar.com/images/MAGNOLIA.png"
+
+[[CURRENCIES]]
+code="HNTz"
+issuer="GAB3PYCXJ6U3BMLWS3ZJEDNTT3JQEPMMQU33HJADS2YPPUX4BSSSFRVA"
+status="live"
+display_decimals=4
+name="HNTz"
+fixed_number=25000000000
+desc="HNTz is issued by Eastellar Team."
+conditions="Maximum supply of HNTz is 25B tokens only"
+image="https://eastellar.com/images/HNTz.png"
