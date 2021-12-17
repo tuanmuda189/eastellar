@@ -1824,3 +1824,14 @@ fixed_number=25000000000
 desc="FIFTY is issued by Eastellar Team."
 conditions="Maximum supply of FIFTY is 25B tokens only"
 image="https://eastellar.com/images/FIFTY.png"
+
+[[CURRENCIES]]
+code="MAGNOLIA"
+issuer="GCDSEFHLYU7QXUGXSJME6NMRXHACKAK6KX52Q363CPKVG46YEEU2XA2V"
+status="live"
+display_decimals=4
+name="MAGNOLIA"
+fixed_number=25000000000
+desc="MAGNOLIA is issued by Eastellar Team."
+conditions="Maximum supply of MAGNOLIA is 25B tokens only"
+image="https://eastellar.com/images/MAGNOLIA.png"
