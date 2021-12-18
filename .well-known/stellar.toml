@@ -1847,7 +1847,6 @@ desc="HNTz is issued by Eastellar Team."
 conditions="Maximum supply of HNTz is 25B tokens only"
 image="https://eastellar.com/images/HNTz.png"
 
-
 [[CURRENCIES]]
 code="LOTUS"
 issuer="GD5DIUSZAHSYJN2P3DQS6YGSBDS2F2CQPBARHEONHBPBCSIFUOWT5GTT"
@@ -1858,3 +1857,14 @@ fixed_number=25000000000
 desc="LOTUS is issued by Eastellar Team."
 conditions="Maximum supply of LOTUS is 25B tokens only"
 image="https://eastellar.com/images/LOTUS.png"
+
+[[CURRENCIES]]
+code="AFRz"
+issuer="GD5DIUSZAHSYJN2P3DQS6YGSBDS2F2CQPBARHEONHBPBCSIFUOWT5GTT"
+status="live"
+display_decimals=4
+name="AFRz"
+fixed_number=25000000000
+desc="AFRz is issued by Eastellar Team."
+conditions="Maximum supply of AFRz is 25B tokens only"
+image="https://eastellar.com/images/AFRz.png"
