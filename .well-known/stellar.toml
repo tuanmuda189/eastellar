@@ -1868,3 +1868,14 @@ fixed_number=25000000000
 desc="AFRz is issued by Eastellar Team."
 conditions="Maximum supply of AFRz is 25B tokens only"
 image="https://eastellar.com/images/AFRz.png"
+
+[[CURRENCIES]]
+code="ORNAMENT"
+issuer="GBNKBWDSBKIFS5A5LRBNLWNFTPCUPXYVY6EXAOPLTIVFBTTXM6RS63YU"
+status="live"
+display_decimals=4
+name="ORNAMENT"
+fixed_number=25000000000
+desc="ORNAMENT is issued by Eastellar Team."
+conditions="Maximum supply of ORNAMENT is 25B tokens only"
+image="https://eastellar.com/images/ORNAMENT.png"
