@@ -1879,3 +1879,14 @@ fixed_number=25000000000
 desc="ORNAMENT is issued by Eastellar Team."
 conditions="Maximum supply of ORNAMENT is 25B tokens only"
 image="https://eastellar.com/images/ORNAMENT.png"
+
+[[CURRENCIES]]
+code="LINKz"
+issuer="GCBP544SEI2RQYKHFYD2AZBEABLQGXEF5O6JV5OJANLRIBQXHLCNBQ2U"
+status="live"
+display_decimals=4
+name="LINKz"
+fixed_number=25000000000
+desc="LINKz is issued by Eastellar Team."
+conditions="Maximum supply of LINKz is 25B tokens only"
+image="https://eastellar.com/images/LINKz.png"
