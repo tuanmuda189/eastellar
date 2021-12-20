@@ -1890,3 +1890,14 @@ fixed_number=25000000000
 desc="LINKz is issued by Eastellar Team."
 conditions="Maximum supply of LINKz is 25B tokens only"
 image="https://eastellar.com/images/LINKz.png"
+
+[[CURRENCIES]]
+code="CLOVER"
+issuer="GBJPUF2PKIUELDXSJNWEGXBBJCPZ2FCB6YPGJTMAWROUQ23HDCRU2DEJ"
+status="live"
+display_decimals=4
+name="CLOVER"
+fixed_number=25000000000
+desc="CLOVER is issued by Eastellar Team."
+conditions="Maximum supply of CLOVER is 25B tokens only"
+image="https://eastellar.com/images/CLOVER.png"
