@@ -1901,3 +1901,14 @@ fixed_number=25000000000
 desc="CLOVER is issued by Eastellar Team."
 conditions="Maximum supply of CLOVER is 25B tokens only"
 image="https://eastellar.com/images/CLOVER.png"
+
+[[CURRENCIES]]
+code="DIAMOND"
+issuer="GBSBVQ7WQYAURL7XZMB5PE7KDPOH74TGE64DKG7MGSVW6GXZVZSMS4SO"
+status="live"
+display_decimals=4
+name="DIAMOND"
+fixed_number=25000000000
+desc="DIAMOND is issued by Eastellar Team."
+conditions="Maximum supply of DIAMOND is 25B tokens only"
+image="https://eastellar.com/images/DIAMOND.png"
