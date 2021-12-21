@@ -1912,3 +1912,14 @@ fixed_number=25000000000
 desc="DIAMOND is issued by Eastellar Team."
 conditions="Maximum supply of DIAMOND is 25B tokens only"
 image="https://eastellar.com/images/DIAMOND.png"
+
+[[CURRENCIES]]
+code="DAFFODIL"
+issuer="GBSBVQ7WQYAURL7XZMB5PE7KDPOH74TGE64DKG7MGSVW6GXZVZSMS4SO"
+status="live"
+display_decimals=4
+name="DAFFODIL"
+fixed_number=25000000000
+desc="DAFFODIL is issued by Eastellar Team."
+conditions="Maximum supply of DAFFODIL is 25B tokens only"
+image="https://eastellar.com/images/DAFFODIL.png"
