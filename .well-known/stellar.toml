@@ -1923,3 +1923,14 @@ fixed_number=25000000000
 desc="DAFFODIL is issued by Eastellar Team."
 conditions="Maximum supply of DAFFODIL is 25B tokens only"
 image="https://eastellar.com/images/DAFFODIL.png"
+
+[[CURRENCIES]]
+code="RIOz"
+issuer="GDYOOLTKA7M5EXA2RTYGSZ62RV4XKDUIFXULOJCRXGH42H7N45H5QDUQ"
+status="live"
+display_decimals=4
+name="RIOz"
+fixed_number=25000000000
+desc="RIOz is issued by Eastellar Team."
+conditions="Maximum supply of RIOz is 25B tokens only"
+image="https://eastellar.com/images/RIOz.png"
