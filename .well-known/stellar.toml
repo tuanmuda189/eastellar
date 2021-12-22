@@ -1946,3 +1946,13 @@ desc="EUPHORBIA is issued by Eastellar Team."
 conditions="Maximum supply of EUPHORBIA is 25B tokens only"
 image="https://eastellar.com/images/EUPHORBIA.png"
 
+[[CURRENCIES]]
+code="MXNz"
+issuer="GBWXFWIHTMXQESGWHO4LJ6M7TXPYFIBIF6IW7Z452IQBLSQD5NIFWUUU"
+status="live"
+display_decimals=4
+name="MXNz"
+fixed_number=25000000000
+desc="MXNz is issued by Eastellar Team."
+conditions="Maximum supply of MXNz is 25B tokens only"
+image="https://eastellar.com/images/MXNz.png"
