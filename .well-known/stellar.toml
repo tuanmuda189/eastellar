@@ -1934,3 +1934,15 @@ fixed_number=25000000000
 desc="RIOz is issued by Eastellar Team."
 conditions="Maximum supply of RIOz is 25B tokens only"
 image="https://eastellar.com/images/RIOz.png"
+
+[[CURRENCIES]]
+code="EUPHORBIA"
+issuer="GBWXFWIHTMXQESGWHO4LJ6M7TXPYFIBIF6IW7Z452IQBLSQD5NIFWUUU"
+status="live"
+display_decimals=4
+name="EUPHORBIA"
+fixed_number=25000000000
+desc="EUPHORBIA is issued by Eastellar Team."
+conditions="Maximum supply of EUPHORBIA is 25B tokens only"
+image="https://eastellar.com/images/EUPHORBIA.png"
+
