@@ -1979,3 +1979,14 @@ desc="XIMz is issued by Eastellar Team."
 conditions="Maximum supply of XIMz is 25B tokens only"
 image="https://eastellar.com/images/XIMz.png"
 
+[[CURRENCIES]]
+code="CHICORY"
+issuer="GAPCGHPTA4346HQNDA2LHOXMPLS5R4DLZN7LGWP4T3YGY5TI4GMPARQD"
+status="live"
+display_decimals=4
+name="CHICORY"
+fixed_number=25000000000
+desc="CHICORY is issued by Eastellar Team."
+conditions="Maximum supply of CHICORY is 25B tokens only"
+image="https://eastellar.com/images/CHICORY.png"
+
