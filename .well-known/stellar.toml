@@ -1956,3 +1956,16 @@ fixed_number=25000000000
 desc="MXNz is issued by Eastellar Team."
 conditions="Maximum supply of MXNz is 25B tokens only"
 image="https://eastellar.com/images/MXNz.png"
+
+[[CURRENCIES]]
+code="CROCUS"
+issuer="GANWDWN4BXIUVGN6BULXI4SEWF5JYSTFG5R5HLGR4TSUNKZBJBSCUT35"
+status="live"
+display_decimals=4
+name="CROCUS"
+fixed_number=25000000000
+desc="CROCUS is issued by Eastellar Team."
+conditions="Maximum supply of CROCUS is 25B tokens only"
+image="https://eastellar.com/images/CROCUS.png"
+
+
