@@ -1968,14 +1968,4 @@ desc="CROCUS is issued by Eastellar Team."
 conditions="Maximum supply of CROCUS is 25B tokens only"
 image="https://eastellar.com/images/CROCUS.png"
 
-[[CURRENCIES]]
-code="iMAC"
-issuer="GC3TMRK2DD2FV6V26IHE6Y4HSNKBCI3OTKDPNG5KPC4BVSSOQPJ7FY6Y"
-status="live"
-display_decimals=4
-name="iMAC"
-fixed_number=25000000000
-desc="iMAC is issued by Eastellar Team."
-conditions="Maximum supply of iMAC is 25B tokens only"
-image="https://eastellar.com/images/iMAC.png"
 
