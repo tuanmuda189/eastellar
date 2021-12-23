@@ -1968,4 +1968,14 @@ desc="CROCUS is issued by Eastellar Team."
 conditions="Maximum supply of CROCUS is 25B tokens only"
 image="https://eastellar.com/images/CROCUS.png"
 
+[[CURRENCIES]]
+code="XIMz"
+issuer="GAPZACRXWEXHWKUMI7KDKD26SXY5ZUXNYLQOZFPPRRCVIKPGCMIICCK7"
+status="live"
+display_decimals=4
+name="XIMz"
+fixed_number=25000000000
+desc="XIMz is issued by Eastellar Team."
+conditions="Maximum supply of XIMz is 25B tokens only"
+image="https://eastellar.com/images/XIMz.png"
 
