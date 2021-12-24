@@ -1990,3 +1990,13 @@ desc="CHICORY is issued by Eastellar Team."
 conditions="Maximum supply of CHICORY is 25B tokens only"
 image="https://eastellar.com/images/CHICORY.png"
 
+[[CURRENCIES]]
+code="ANSRz"
+issuer="GDMEAFJF4RO7ENJG2RVVSJRQM5BCAZUXFRTLEG7YG7CRA3QRNTPA3FZO"
+status="live"
+display_decimals=4
+name="ANSRz"
+fixed_number=25000000000
+desc="ANSRz is issued by Eastellar Team."
+conditions="Maximum supply of ANSRz is 25B tokens only"
+image="https://eastellar.com/images/ANSRz.png"
