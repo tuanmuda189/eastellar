@@ -2000,3 +2000,15 @@ fixed_number=25000000000
 desc="ANSRz is issued by Eastellar Team."
 conditions="Maximum supply of ANSRz is 25B tokens only"
 image="https://eastellar.com/images/ANSRz.png"
+
+[[CURRENCIES]]
+code="DANDELION"
+issuer="GAST2RFSXTACLZFQIEALURCPRD7BRNE5OJ2ZNEWWYZS2UWBCYIZCHT5D"
+status="live"
+display_decimals=4
+name="DANDELION"
+fixed_number=25000000000
+desc="DANDELION is issued by Eastellar Team."
+conditions="Maximum supply of DANDELION is 25B tokens only"
+image="https://eastellar.com/images/DANDELION.png"
+
