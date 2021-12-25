@@ -2012,3 +2012,13 @@ desc="DANDELION is issued by Eastellar Team."
 conditions="Maximum supply of DANDELION is 25B tokens only"
 image="https://eastellar.com/images/DANDELION.png"
 
+[[CURRENCIES]]
+code="GTNz"
+issuer="GARYPDMCRZFW6DZHUFZHKSOYYXUQNVRZASDVWJBRK3AEBYBK3XRBCFGP"
+status="live"
+display_decimals=4
+name="GTNz"
+fixed_number=25000000000
+desc="GTNz is issued by Eastellar Team."
+conditions="Maximum supply of GTNz is 25B tokens only"
+image="https://eastellar.com/images/GTNz.png
