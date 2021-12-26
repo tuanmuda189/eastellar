@@ -2022,3 +2022,14 @@ fixed_number=25000000000
 desc="GTNz is issued by Eastellar Team."
 conditions="Maximum supply of GTNz is 25B tokens only"
 image="https://eastellar.com/images/GTNz.png"
+
+[[CURRENCIES]]
+code="ASTER"
+issuer="GDB7G5HWMX74HFKUK6DNPJNBWOKLQITVZVQGYOG5ZYR3QYTC44G3KXNM"
+status="live"
+display_decimals=4
+name="ASTER"
+fixed_number=25000000000
+desc="ASTER is issued by Eastellar Team."
+conditions="Maximum supply of ASTER is 25B tokens only"
+image="https://eastellar.com/images/ASTER.png"
