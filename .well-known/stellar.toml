@@ -2033,3 +2033,14 @@ fixed_number=25000000000
 desc="ASTER is issued by Eastellar Team."
 conditions="Maximum supply of ASTER is 25B tokens only"
 image="https://eastellar.com/images/ASTER.png"
+
+[[CURRENCIES]]
+code="NGNz"
+issuer="GAPHEBA7FOURIIZII5BAQ4ADA67UHI2U7XJGFDQRIQH7KHROYGDAWHFE"
+status="live"
+display_decimals=4
+name="NGNz"
+fixed_number=25000000000
+desc="NGNz is issued by Eastellar Team."
+conditions="Maximum supply of NGNz is 25B tokens only"
+image="https://eastellar.com/images/NGNz.png"
