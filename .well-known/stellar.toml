@@ -2044,3 +2044,14 @@ fixed_number=25000000000
 desc="NGNz is issued by Eastellar Team."
 conditions="Maximum supply of NGNz is 25B tokens only"
 image="https://eastellar.com/images/NGNz.png"
+
+[[CURRENCIES]]
+code="EDELWEISS"
+issuer="GAH5VEBFTWBVYK4YHP4YQKC7S4WG3J4U2NV73T3SZCOF75I6PWLAJZY5"
+status="live"
+display_decimals=4
+name="EDELWEISS"
+fixed_number=25000000000
+desc="EDELWEISS is issued by Eastellar Team."
+conditions="Maximum supply of EDELWEISS is 25B tokens only"
+image="https://eastellar.com/images/EDELWEISS.png"
