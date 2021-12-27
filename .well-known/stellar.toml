@@ -2055,3 +2055,14 @@ fixed_number=25000000000
 desc="EDELWEISS is issued by Eastellar Team."
 conditions="Maximum supply of EDELWEISS is 25B tokens only"
 image="https://eastellar.com/images/EDELWEISS.png"
+
+[[CURRENCIES]]
+code="TWENTYFIVE"
+issuer="GDAUWGJWA7HFRTJ3IG7IZALG77KDLG4SHFH26BSPSGITE2R6IOW6ZGBH"
+status="live"
+display_decimals=4
+name="TWENTYFIVE"
+fixed_number=25000000000
+desc="TWENTYFIVE is issued by Eastellar Team."
+conditions="Maximum supply of TWENTYFIVE is 25B tokens only"
+image="https://eastellar.com/images/TWENTYFIVE.png"
