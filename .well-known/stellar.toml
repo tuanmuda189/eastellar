@@ -2066,3 +2066,14 @@ fixed_number=25000000000
 desc="TWENTYFIVE is issued by Eastellar Team."
 conditions="Maximum supply of TWENTYFIVE is 25B tokens only"
 image="https://eastellar.com/images/TWENTYFIVE.png"
+
+[[CURRENCIES]]
+code="FRESSIA"
+issuer="GBE3OXDDMZFZ74OUKUSKE34KGIBAHZTQHCRGS2DZNONFATVF36XLLZZV"
+status="live"
+display_decimals=4
+name="FRESSIA"
+fixed_number=25000000000
+desc="FRESSIA is issued by Eastellar Team."
+conditions="Maximum supply of FRESSIA is 25B tokens only"
+image="https://eastellar.com/images/FRESSIA.png"
