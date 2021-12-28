@@ -2077,3 +2077,14 @@ fixed_number=25000000000
 desc="FRESSIA is issued by Eastellar Team."
 conditions="Maximum supply of FRESSIA is 25B tokens only"
 image="https://eastellar.com/images/FRESSIA.png"
+
+[[CURRENCIES]]
+code="XEMz"
+issuer="GCFGTSAR5RPORYOURPULZMTZYRSQI2LKSZIJ3EBXW7SL57RTX6NDWXIX"
+status="live"
+display_decimals=4
+name="XEMz"
+fixed_number=25000000000
+desc="XEMz is issued by Eastellar Team."
+conditions="Maximum supply of XEMz is 25B tokens only"
+image="https://eastellar.com/images/XEMz.png"
