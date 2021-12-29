@@ -2099,3 +2099,14 @@ fixed_number=25000000000
 desc="HAWTHORN is issued by Eastellar Team."
 conditions="Maximum supply of HAWTHORN is 25B tokens only"
 image="https://eastellar.com/images/HAWTHORN.png"
+
+[[CURRENCIES]]
+code="NEXOz"
+issuer="GC25H2DTSMCEYQQOJVLLDNGH6YH4Z6XEERZVRICZQ4GI4NHQOCOPVY4V"
+status="live"
+display_decimals=4
+name="NEXOz"
+fixed_number=25000000000
+desc="NEXOz is issued by Eastellar Team."
+conditions="Maximum supply of NEXOz is 25B tokens only"
+image="https://eastellar.com/images/NEXOz.png"
