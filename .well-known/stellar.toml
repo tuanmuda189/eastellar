@@ -2088,3 +2088,14 @@ fixed_number=25000000000
 desc="XEMz is issued by Eastellar Team."
 conditions="Maximum supply of XEMz is 25B tokens only"
 image="https://eastellar.com/images/XEMz.png"
+
+[[CURRENCIES]]
+code="HAWTHORN"
+issuer="GCP4EUT7MJ75FV7FE6PFS6RCRBQUGUQI2PJXLWTVKHDON67SSWXIV42Y"
+status="live"
+display_decimals=4
+name="HAWTHORN"
+fixed_number=25000000000
+desc="HAWTHORN is issued by Eastellar Team."
+conditions="Maximum supply of HAWTHORN is 25B tokens only"
+image="https://eastellar.com/images/HAWTHORN.png"
