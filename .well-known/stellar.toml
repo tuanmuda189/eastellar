@@ -2110,3 +2110,14 @@ fixed_number=25000000000
 desc="NEXOz is issued by Eastellar Team."
 conditions="Maximum supply of NEXOz is 25B tokens only"
 image="https://eastellar.com/images/NEXOz.png"
+
+[[CURRENCIES]]
+code="GOLDENROD"
+issuer="GC62Z45RVWS5W2KXTIFPBSBXRP4WMQ5R2U5HDGCMMDHOLYNZUASKU2XY"
+status="live"
+display_decimals=4
+name="GOLDENROD"
+fixed_number=25000000000
+desc="GOLDENROD is issued by Eastellar Team."
+conditions="Maximum supply of GOLDENROD is 25B tokens only"
+image="https://eastellar.com/images/GOLDENROD.png"
