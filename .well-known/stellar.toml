@@ -2121,3 +2121,14 @@ fixed_number=25000000000
 desc="GOLDENROD is issued by Eastellar Team."
 conditions="Maximum supply of GOLDENROD is 25B tokens only"
 image="https://eastellar.com/images/GOLDENROD.png"
+
+[[CURRENCIES]]
+code="STACKSz"
+issuer="GB2MR5GG2USL5YHRC47GKUBGYRVVNJ6OK7VZIR5RKQPH5OCSUI6XUPEL"
+status="live"
+display_decimals=4
+name="STACKSz"
+fixed_number=25000000000
+desc="STACKSz is issued by Eastellar Team."
+conditions="Maximum supply of STACKSz is 25B tokens only"
+image="https://eastellar.com/images/STACKSz.png"
