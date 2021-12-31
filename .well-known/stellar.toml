@@ -2132,3 +2132,15 @@ fixed_number=25000000000
 desc="STACKSz is issued by Eastellar Team."
 conditions="Maximum supply of STACKSz is 25B tokens only"
 image="https://eastellar.com/images/STACKSz.png"
+
+[[CURRENCIES]]
+code="HEATER"
+issuer="GAKVPHBUMCDRCI25XCHK3GZ6ZPM4CF3VZMEQBUAR6NPMQHWAZXXVZ3VG"
+status="live"
+display_decimals=4
+name="HEATER"
+fixed_number=25000000000
+desc="HEATER is issued by Eastellar Team."
+conditions="Maximum supply of HEATER is 25B tokens only"
+image="https://eastellar.com/images/HEATER.png"
+
