@@ -2144,3 +2144,13 @@ desc="HEATER is issued by Eastellar Team."
 conditions="Maximum supply of HEATER is 25B tokens only"
 image="https://eastellar.com/images/HEATER.png"
 
+[[CURRENCIES]]
+code="ARKz"
+issuer="GBDKNCOWCS6ARK56NQTPRGZGADFZIQFZOP2NVIOWZDYIRKJSHEZO3RAE"
+status="live"
+display_decimals=4
+name="ARKz"
+fixed_number=25000000000
+desc="ARKz is issued by Eastellar Team."
+conditions="Maximum supply of ARKz is 25B tokens only"
+image="https://eastellar.com/images/ARKz.png"
