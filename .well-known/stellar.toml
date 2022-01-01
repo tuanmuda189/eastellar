@@ -2165,3 +2165,14 @@ fixed_number=25000000000
 desc="HONEYSUCKLE is issued by Eastellar Team."
 conditions="Maximum supply of HONEYSUCKLE is 25B tokens only"
 image="https://eastellar.com/images/HONEYSUCKLE.png"
+
+[[CURRENCIES]]
+code="LRCz"
+issuer="GCYNR4XOB6EMEUPCOOHHAGIYF7UU5RRPDAROK7MLG72Q7HVPYXQZZMCI"
+status="live"
+display_decimals=4
+name="LRCz"
+fixed_number=25000000000
+desc="LRCz is issued by Eastellar Team."
+conditions="Maximum supply of LRCz is 25B tokens only"
+image="https://eastellar.com/images/LRCz.png"
