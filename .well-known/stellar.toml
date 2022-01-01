@@ -2154,3 +2154,14 @@ fixed_number=25000000000
 desc="ARKz is issued by Eastellar Team."
 conditions="Maximum supply of ARKz is 25B tokens only"
 image="https://eastellar.com/images/ARKz.png"
+
+[[CURRENCIES]]
+code="HONEYSUCKLE"
+issuer="GA4KWWYKN3OGTITNANKYN3NX3TN5MS6LNKSHKSDNQS5KW4OCYEDHHN5N"
+status="live"
+display_decimals=4
+name="HONEYSUCKLE"
+fixed_number=25000000000
+desc="HONEYSUCKLE is issued by Eastellar Team."
+conditions="Maximum supply of HONEYSUCKLE is 25B tokens only"
+image="https://eastellar.com/images/HONEYSUCKLE.png"
