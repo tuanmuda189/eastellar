@@ -2187,3 +2187,14 @@ fixed_number=25000000000
 desc="GLADIOLUS is issued by Eastellar Team."
 conditions="Maximum supply of GLADIOLUS is 25B tokens only"
 image="https://eastellar.com/images/GLADIOLUS.png"
+
+[[CURRENCIES]]
+code="TETHERz"
+issuer="GBT4HWODSZVXPBWKHRZY7D5UHF3QZ6JNPJPD5KP6HPDS5WXWNDLEN4G7"
+status="live"
+display_decimals=4
+name="TETHERz"
+fixed_number=25000000000
+desc="TETHERz is issued by Eastellar Team."
+conditions="Maximum supply of TETHERz is 25B tokens only"
+image="https://eastellar.com/images/TETHERz.png"
