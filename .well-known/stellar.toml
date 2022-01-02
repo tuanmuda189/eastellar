@@ -2176,3 +2176,14 @@ fixed_number=25000000000
 desc="LRCz is issued by Eastellar Team."
 conditions="Maximum supply of LRCz is 25B tokens only"
 image="https://eastellar.com/images/LRCz.png"
+
+[[CURRENCIES]]
+code="GLADIOLUS"
+issuer="GCQXE4T4XDKUQPGQTATZFI5LLJHCLKKPBCNGZZIJ2QUDGXEXN7EPKF7A"
+status="live"
+display_decimals=4
+name="GLADIOLUS"
+fixed_number=25000000000
+desc="GLADIOLUS is issued by Eastellar Team."
+conditions="Maximum supply of GLADIOLUS is 25B tokens only"
+image="https://eastellar.com/images/GLADIOLUS.png"
