@@ -2209,3 +2209,14 @@ fixed_number=25000000000
 desc="HYACINTH is issued by Eastellar Team."
 conditions="Maximum supply of HYACINTH is 25B tokens only"
 image="https://eastellar.com/images/HYACINTH.png"
+
+[[CURRENCIES]]
+code="AMPz"
+issuer="GBFWNKINQ5YVFVZOURGHVH3PATAKPHVI7DOHBCRIPWVDH4OSW372M23D"
+status="live"
+display_decimals=4
+name="AMPz"
+fixed_number=25000000000
+desc="AMPz is issued by Eastellar Team."
+conditions="Maximum supply of AMPz is 25B tokens only"
+image="https://eastellar.com/images/AMPz.png"
