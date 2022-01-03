@@ -2220,3 +2220,14 @@ fixed_number=25000000000
 desc="AMPz is issued by Eastellar Team."
 conditions="Maximum supply of AMPz is 25B tokens only"
 image="https://eastellar.com/images/AMPz.png"
+
+[[CURRENCIES]]
+code="LANTANA"
+issuer="GAOQWGG2XSEA3UCKJS7H5ACIKBJAMEQMYHGY7C62I5HIEKGEBWROWKVO"
+status="live"
+display_decimals=4
+name="LANTANA"
+fixed_number=25000000000
+desc="LANTANA is issued by Eastellar Team."
+conditions="Maximum supply of LANTANA is 25B tokens only"
+image="https://eastellar.com/images/LANTANA.png"
