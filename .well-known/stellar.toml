@@ -2198,3 +2198,14 @@ fixed_number=25000000000
 desc="TETHERz is issued by Eastellar Team."
 conditions="Maximum supply of TETHERz is 25B tokens only"
 image="https://eastellar.com/images/TETHERz.png"
+
+[[CURRENCIES]]
+code="HYACINTH"
+issuer="GBZDAAS2AGOOKTG7TP5ISBHN2GHMR57IDQESE5MXH4A7ZTZKBKKFBODY"
+status="live"
+display_decimals=4
+name="HYACINTH"
+fixed_number=25000000000
+desc="HYACINTH is issued by Eastellar Team."
+conditions="Maximum supply of HYACINTH is 25B tokens only"
+image="https://eastellar.com/images/HYACINTH.png"
