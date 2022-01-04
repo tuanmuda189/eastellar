@@ -2231,3 +2231,14 @@ fixed_number=25000000000
 desc="LANTANA is issued by Eastellar Team."
 conditions="Maximum supply of LANTANA is 25B tokens only"
 image="https://eastellar.com/images/LANTANA.png"
+
+[[CURRENCIES]]
+code="QUANTz"
+issuer="GBBF7VFAQZXMVEYKV7UTGURSYIGN6GNP42H2NZONYPAN773B3GIDNLSE"
+status="live"
+display_decimals=4
+name="QUANTz"
+fixed_number=25000000000
+desc="QUANTz is issued by Eastellar Team."
+conditions="Maximum supply of QUANTz is 25B tokens only"
+image="https://eastellar.com/images/QUANTz.png"
