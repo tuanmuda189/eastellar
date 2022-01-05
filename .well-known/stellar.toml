@@ -2242,3 +2242,14 @@ fixed_number=25000000000
 desc="QUANTz is issued by Eastellar Team."
 conditions="Maximum supply of QUANTz is 25B tokens only"
 image="https://eastellar.com/images/QUANTz.png"
+
+[[CURRENCIES]]
+code="POPPY"
+issuer="GCPE5GULT2IIDW5DFZGXDQLSKEO42OJSOVH7EVN67U4SNAIEOV4R2VB5"
+status="live"
+display_decimals=4
+name="POPPY"
+fixed_number=25000000000
+desc="POPPY is issued by Eastellar Team."
+conditions="Maximum supply of POPPY is 25B tokens only"
+image="https://eastellar.com/images/POPPY.png"
