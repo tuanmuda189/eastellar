@@ -2264,3 +2264,14 @@ fixed_number=25000000000
 desc="BSVz is issued by Eastellar Team."
 conditions="Maximum supply of BSVz is 25B tokens only"
 image="https://eastellar.com/images/BSVz.png"
+
+[[CURRENCIES]]
+code="GARDENIA"
+issuer="GBBOWHX752AAZX2SRMAU426JRCHKLYBVKK63W5H5VYC72QWFQYGV3QFQ"
+status="live"
+display_decimals=4
+name="GARDENIA"
+fixed_number=25000000000
+desc="GARDENIA is issued by Eastellar Team."
+conditions="Maximum supply of GARDENIA is 25B tokens only"
+image="https://eastellar.com/images/GARDENIA.png"
