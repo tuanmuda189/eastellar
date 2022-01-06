@@ -2275,3 +2275,14 @@ fixed_number=25000000000
 desc="GARDENIA is issued by Eastellar Team."
 conditions="Maximum supply of GARDENIA is 25B tokens only"
 image="https://eastellar.com/images/GARDENIA.png"
+
+[[CURRENCIES]]
+code="OHMz"
+issuer="GB2GHWKFZIYTFXCVOQDBIKAO6YHU6CJAHVX62EM3TBR7T65AZYOPBMOK"
+status="live"
+display_decimals=4
+name="OHMz"
+fixed_number=25000000000
+desc="OHMz is issued by Eastellar Team."
+conditions="Maximum supply of OHMz is 25B tokens only"
+image="https://eastellar.com/images/OHMz.png"
