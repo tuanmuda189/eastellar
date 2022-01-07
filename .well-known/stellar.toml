@@ -2286,3 +2286,15 @@ fixed_number=25000000000
 desc="OHMz is issued by Eastellar Team."
 conditions="Maximum supply of OHMz is 25B tokens only"
 image="https://eastellar.com/images/OHMz.png"
+
+[[CURRENCIES]]
+code="JONQUIL"
+issuer="GDBAEJLQR3YKC54A52K4ZG4ZHNF5RECHRZ6JQBHZ3CJS5P5WNGIUXWNB"
+status="live"
+display_decimals=4
+name="JONQUIL"
+fixed_number=25000000000
+desc="JONQUIL is issued by Eastellar Team."
+conditions="Maximum supply of JONQUIL is 25B tokens only"
+image="https://eastellar.com/images/JONQUIL.png"
+
