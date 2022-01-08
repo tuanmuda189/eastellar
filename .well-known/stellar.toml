@@ -2319,3 +2319,14 @@ fixed_number=25000000000
 desc="GERBERA is issued by Eastellar Team."
 conditions="Maximum supply of GERBERA is 25B tokens only"
 image="https://eastellar.com/images/GERBERA.png"
+
+[[CURRENCIES]]
+code="SPELLz"
+issuer="GAAHEOD5W6W2L4SIXIAAVDJZG5SBYWKMCN5JQA5MK3XWUTU2IP3GZSWT"
+status="live"
+display_decimals=4
+name="SPELLz"
+fixed_number=25000000000
+desc="SPELLz is issued by Eastellar Team."
+conditions="Maximum supply of SPELLz is 25B tokens only"
+image="https://eastellar.com/images/SPELLz.png"
