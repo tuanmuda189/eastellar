@@ -2330,3 +2330,14 @@ fixed_number=25000000000
 desc="SPELLz is issued by Eastellar Team."
 conditions="Maximum supply of SPELLz is 25B tokens only"
 image="https://eastellar.com/images/SPELLz.png"
+
+[[CURRENCIES]]
+code="MALLOW"
+issuer="GDOZ5YALBNQEFVEZ2L7YTI4VALGYYG7H3NGZ6AKH6IVZOAYJCFVLL376"
+status="live"
+display_decimals=4
+name="MALLOW"
+fixed_number=25000000000
+desc="MALLOW is issued by Eastellar Team."
+conditions="Maximum supply of MALLOW is 25B tokens only"
+image="https://eastellar.com/images/MALLOW.png"
