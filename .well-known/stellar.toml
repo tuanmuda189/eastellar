@@ -2308,3 +2308,14 @@ fixed_number=25000000000
 desc="CELOz is issued by Eastellar Team."
 conditions="Maximum supply of CELOz is 25B tokens only"
 image="https://eastellar.com/images/CELOz.png"
+
+[[CURRENCIES]]
+code="GERBERA"
+issuer="GBC7TDREL47PQKQYCKE5FW5UKAJS7XNCPD6PSOJM4MPDAMI6KLXRJQTU"
+status="live"
+display_decimals=4
+name="GERBERA"
+fixed_number=25000000000
+desc="GERBERA is issued by Eastellar Team."
+conditions="Maximum supply of GERBERA is 25B tokens only"
+image="https://eastellar.com/images/GERBERA.png"
