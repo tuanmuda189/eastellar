@@ -2341,3 +2341,14 @@ fixed_number=25000000000
 desc="MALLOW is issued by Eastellar Team."
 conditions="Maximum supply of MALLOW is 25B tokens only"
 image="https://eastellar.com/images/MALLOW.png"
+
+[[CURRENCIES]]
+code="ZECz"
+issuer="GBJDCA2MXSZBDER36BOKWI4BQLQZKD7AGO2YU6EOZEFYJCKDVPQDIWXP"
+status="live"
+display_decimals=4
+name="ZECz"
+fixed_number=25000000000
+desc="ZECz is issued by Eastellar Team."
+conditions="Maximum supply of ZECz is 25B tokens only"
+image="https://eastellar.com/images/ZECz.png"
