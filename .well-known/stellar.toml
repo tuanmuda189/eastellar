@@ -2352,3 +2352,14 @@ fixed_number=25000000000
 desc="ZECz is issued by Eastellar Team."
 conditions="Maximum supply of ZECz is 25B tokens only"
 image="https://eastellar.com/images/ZECz.png"
+
+[[CURRENCIES]]
+code="SAKURA"
+issuer="GCUVAQQYNNVGAOLDNAQETNLNGHL44MG6HQRVUOOSSCP7W5UCDNSTWESH"
+status="live"
+display_decimals=4
+name="SAKURA"
+fixed_number=25000000000
+desc="SAKURA is issued by Eastellar Team."
+conditions="Maximum supply of SAKURA is 25B tokens only"
+image="https://eastellar.com/images/SAKURA.png"
