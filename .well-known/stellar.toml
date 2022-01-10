@@ -2363,3 +2363,14 @@ fixed_number=25000000000
 desc="SAKURA is issued by Eastellar Team."
 conditions="Maximum supply of SAKURA is 25B tokens only"
 image="https://eastellar.com/images/SAKURA.png"
+
+[[CURRENCIES]]
+code="OSMOz"
+issuer="GATPZZ5C5HFU6B7WGYIEA2GXDJVT3FGDMSYLTR7Q55XXADCYLFIW3PUW"
+status="live"
+display_decimals=4
+name="OSMOz"
+fixed_number=25000000000
+desc="OSMOz is issued by Eastellar Team."
+conditions="Maximum supply of OSMOz is 25B tokens only"
+image="https://eastellar.com/images/OSMOz.png"
