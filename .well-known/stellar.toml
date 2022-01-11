@@ -2374,3 +2374,14 @@ fixed_number=25000000000
 desc="OSMOz is issued by Eastellar Team."
 conditions="Maximum supply of OSMOz is 25B tokens only"
 image="https://eastellar.com/images/OSMOz.png"
+
+[[CURRENCIES]]
+code="MARIGOLD"
+issuer="GCHPNGY4P2WYZJMTOA6XEBUJMMDMJYE6HXXRWFHPB2RDELL2JLQXDENE"
+status="live"
+display_decimals=4
+name="MARIGOLD"
+fixed_number=25000000000
+desc="MARIGOLD is issued by Eastellar Team."
+conditions="Maximum supply of MARIGOLD is 25B tokens only"
+image="https://eastellar.com/images/MARIGOLD.png"
