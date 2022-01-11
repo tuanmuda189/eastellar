@@ -2385,3 +2385,14 @@ fixed_number=25000000000
 desc="MARIGOLD is issued by Eastellar Team."
 conditions="Maximum supply of MARIGOLD is 25B tokens only"
 image="https://eastellar.com/images/MARIGOLD.png"
+
+[[CURRENCIES]]
+code="CHZz"
+issuer="GAD3QJHXC2G4N4PNUPC42CAMX4QOHZ3B435PFXRCCKDPPO7OA6MK4VWW"
+status="live"
+display_decimals=4
+name="CHZz"
+fixed_number=25000000000
+desc="CHZz is issued by Eastellar Team."
+conditions="Maximum supply of CHZz is 25B tokens only"
+image="https://eastellar.com/images/CHZz.png"
