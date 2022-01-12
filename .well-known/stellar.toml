@@ -2407,3 +2407,14 @@ fixed_number=25000000000
 desc="ROSE is issued by Eastellar Team."
 conditions="Maximum supply of ROSE is 25B tokens only"
 image="https://eastellar.com/images/ROSE.png"
+
+[[CURRENCIES]]
+code="TUSDz"
+issuer="GCIY3ZENPE33KO74YGZUI56HR5QZIDF5TVWCEMZWPKL54QED33CK7JKM"
+status="live"
+display_decimals=4
+name="TUSDz"
+fixed_number=25000000000
+desc="TUSDz is issued by Eastellar Team."
+conditions="Maximum supply of TUSDz is 25B tokens only"
+image="https://eastellar.com/images/TUSDz.png"
