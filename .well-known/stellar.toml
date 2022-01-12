@@ -2396,3 +2396,14 @@ fixed_number=25000000000
 desc="CHZz is issued by Eastellar Team."
 conditions="Maximum supply of CHZz is 25B tokens only"
 image="https://eastellar.com/images/CHZz.png"
+
+[[CURRENCIES]]
+code="ROSE"
+issuer="GCWVYCGTEFXIQVB6YHRU4V736MZBA5FMDQQH5VYDUPS2K5P2T5TATL6R"
+status="live"
+display_decimals=4
+name="ROSE"
+fixed_number=25000000000
+desc="ROSE is issued by Eastellar Team."
+conditions="Maximum supply of ROSE is 25B tokens only"
+image="https://eastellar.com/images/ROSE.png"
