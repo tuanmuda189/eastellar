@@ -2429,3 +2429,14 @@ fixed_number=25000000000
 desc="PRIMROSE is issued by Eastellar Team."
 conditions="Maximum supply of PRIMROSE is 25B tokens only"
 image="https://eastellar.com/images/PRIMROSE.png"
+
+[[CURRENCIES]]
+code="USDCz"
+issuer="GDTBOHIKAQK34GHB3KOJ3CQJ6PR7O7PFXLX2VJFHYCXTEKZ5SO4BNT2Q"
+status="live"
+display_decimals=4
+name="USDCz"
+fixed_number=25000000000
+desc="USDCz is issued by Eastellar Team."
+conditions="Maximum supply of USDCz is 25B tokens only"
+image="https://eastellar.com/images/USDCz.png"
