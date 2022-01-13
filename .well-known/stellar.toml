@@ -2418,3 +2418,14 @@ fixed_number=25000000000
 desc="TUSDz is issued by Eastellar Team."
 conditions="Maximum supply of TUSDz is 25B tokens only"
 image="https://eastellar.com/images/TUSDz.png"
+
+[[CURRENCIES]]
+code="PRIMROSE"
+issuer="GBMXUKIMN7MVVQNVSADXA6FNZLXUF33HFLPDE6AMLXOQW6CYQP7VJ64J"
+status="live"
+display_decimals=4
+name="PRIMROSE"
+fixed_number=25000000000
+desc="PRIMROSE is issued by Eastellar Team."
+conditions="Maximum supply of PRIMROSE is 25B tokens only"
+image="https://eastellar.com/images/PRIMROSE.png"
