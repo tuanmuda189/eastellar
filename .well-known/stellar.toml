@@ -2451,3 +2451,14 @@ fixed_number=25000000000
 desc="NASTURTIUM is issued by Eastellar Team."
 conditions="Maximum supply of NASTURTIUM is 25B tokens only"
 image="https://eastellar.com/images/NASTURTIUM.png"
+
+[[CURRENCIES]]
+code="BUSDz"
+issuer="GAG6CBT5HJNO35PHITBUIJC7UCA3FDZ6BH3UFBP6PWD2GWH7UNQMXIO2"
+status="live"
+display_decimals=4
+name="BUSDz"
+fixed_number=25000000000
+desc="BUSDz is issued by Eastellar Team."
+conditions="Maximum supply of BUSDz is 25B tokens only"
+image="https://eastellar.com/images/BUSDz.png"
