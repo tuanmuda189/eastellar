@@ -2440,3 +2440,14 @@ fixed_number=25000000000
 desc="USDCz is issued by Eastellar Team."
 conditions="Maximum supply of USDCz is 25B tokens only"
 image="https://eastellar.com/images/USDCz.png"
+
+[[CURRENCIES]]
+code="NASTURTIUM"
+issuer="GD2WXR5C5TS5HHUJOOJ3O7RCSXZLLOH5L65MAK7ZJUHKCUPBBJMPCDJ5"
+status="live"
+display_decimals=4
+name="NASTURTIUM"
+fixed_number=25000000000
+desc="NASTURTIUM is issued by Eastellar Team."
+conditions="Maximum supply of NASTURTIUM is 25B tokens only"
+image="https://eastellar.com/images/NASTURTIUM.png"
