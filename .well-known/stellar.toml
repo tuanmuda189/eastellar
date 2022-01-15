@@ -2473,3 +2473,14 @@ fixed_number=25000000000
 desc="OLEANDER is issued by Eastellar Team."
 conditions="Maximum supply of OLEANDER is 25B tokens only"
 image="https://eastellar.com/images/OLEANDER.png"
+
+[[CURRENCIES]]
+code="WBNBz"
+issuer="GB2NZGTKNTEYRITYULOTNI26LL6KJAW7IBOZAOUPFNBKD2OICSHORZQI"
+status="live"
+display_decimals=4
+name="WBNBz"
+fixed_number=25000000000
+desc="WBNBz is issued by Eastellar Team."
+conditions="Maximum supply of WBNBz is 25B tokens only"
+image="https://eastellar.com/images/WBNBz.png"
