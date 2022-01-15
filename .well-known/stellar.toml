@@ -2462,3 +2462,14 @@ fixed_number=25000000000
 desc="BUSDz is issued by Eastellar Team."
 conditions="Maximum supply of BUSDz is 25B tokens only"
 image="https://eastellar.com/images/BUSDz.png"
+
+[[CURRENCIES]]
+code="OLEANDER"
+issuer="GB3DAR6SHLP32MBRBXABGI3IU53722BK367DAZT2Y7PQX4W4OFOLAOQO"
+status="live"
+display_decimals=4
+name="OLEANDER"
+fixed_number=25000000000
+desc="OLEANDER is issued by Eastellar Team."
+conditions="Maximum supply of OLEANDER is 25B tokens only"
+image="https://eastellar.com/images/OLEANDER.png"
