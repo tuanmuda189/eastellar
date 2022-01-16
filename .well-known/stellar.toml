@@ -2495,3 +2495,14 @@ fixed_number=25000000000
 desc="PANSY is issued by Eastellar Team."
 conditions="Maximum supply of PANSY is 25B tokens only"
 image="https://eastellar.com/images/PANSY.png"
+
+[[CURRENCIES]]
+code="DCRz"
+issuer="GAXJUKMRYR2L3FPCWYRDLZUN545AGH4LQXZXE5BZFYAQVFG64MRNXKDR"
+status="live"
+display_decimals=4
+name="DCRz"
+fixed_number=25000000000
+desc="DCRz is issued by Eastellar Team."
+conditions="Maximum supply of DCRz is 25B tokens only"
+image="https://eastellar.com/images/DCRz.png"
