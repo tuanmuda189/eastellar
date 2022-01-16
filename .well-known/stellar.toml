@@ -2484,3 +2484,14 @@ fixed_number=25000000000
 desc="WBNBz is issued by Eastellar Team."
 conditions="Maximum supply of WBNBz is 25B tokens only"
 image="https://eastellar.com/images/WBNBz.png"
+
+[[CURRENCIES]]
+code="PANSY"
+issuer="GBHJ5ZYQLB4HC3GLZGOER4MPSZJZ4QD6QK7VOCNZRL4O4MLK2LJ6RZIS"
+status="live"
+display_decimals=4
+name="PANSY"
+fixed_number=25000000000
+desc="PANSY is issued by Eastellar Team."
+conditions="Maximum supply of PANSY is 25B tokens only"
+image="https://eastellar.com/images/PANSY.png"
