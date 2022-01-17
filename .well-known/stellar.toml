@@ -2506,3 +2506,14 @@ fixed_number=25000000000
 desc="DCRz is issued by Eastellar Team."
 conditions="Maximum supply of DCRz is 25B tokens only"
 image="https://eastellar.com/images/DCRz.png"
+
+[[CURRENCIES]]
+code="PASQUE"
+issuer="GCIUPP6VVZJHOSHC7UD3UKOGZI5CV55VRGYSDBZIAAMFRNH3C5YEH2QF"
+status="live"
+display_decimals=4
+name="PASQUE"
+fixed_number=25000000000
+desc="PASQUE is issued by Eastellar Team."
+conditions="Maximum supply of PASQUE is 25B tokens only"
+image="https://eastellar.com/images/PASQUE.png"
