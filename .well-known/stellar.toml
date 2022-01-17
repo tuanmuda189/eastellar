@@ -2517,3 +2517,14 @@ fixed_number=25000000000
 desc="PASQUE is issued by Eastellar Team."
 conditions="Maximum supply of PASQUE is 25B tokens only"
 image="https://eastellar.com/images/PASQUE.png"
+
+[[CURRENCIES]]
+code="CROz"
+issuer="GD536U3OG35XZGFUOKME2KT263FXYVSPTH6WKYKO3TD4BZ3IDAGPO7P2"
+status="live"
+display_decimals=4
+name="CROz"
+fixed_number=25000000000
+desc="CROz is issued by Eastellar Team."
+conditions="Maximum supply of CROz is 25B tokens only"
+image="https://eastellar.com/images/CROz.png"
