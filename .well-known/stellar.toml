@@ -2539,3 +2539,14 @@ fixed_number=25000000000
 desc="BLOSSOM is issued by Eastellar Team."
 conditions="Maximum supply of BLOSSOM is 25B tokens only"
 image="https://eastellar.com/images/BLOSSOM.png"
+
+[[CURRENCIES]]
+code="XRPz"
+issuer="GBTY5KU5NPESCX2HQVOLB3WCK76UERGBYB7XSQWI6PD7VCIJ4Y4ACDNX"
+status="live"
+display_decimals=4
+name="XRPz"
+fixed_number=25000000000
+desc="XRPz is issued by Eastellar Team."
+conditions="Maximum supply of XRPz is 25B tokens only"
+image="https://eastellar.com/images/XRPz.png"
