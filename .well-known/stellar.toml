@@ -2528,3 +2528,14 @@ fixed_number=25000000000
 desc="CROz is issued by Eastellar Team."
 conditions="Maximum supply of CROz is 25B tokens only"
 image="https://eastellar.com/images/CROz.png"
+
+[[CURRENCIES]]
+code="BLOSSOM"
+issuer="GBHGRO2RYCMMLB25OIRVY6JRETEMV76JWEBTAJLNWF7U2THF6674D7ZV"
+status="live"
+display_decimals=4
+name="BLOSSOM"
+fixed_number=25000000000
+desc="BLOSSOM is issued by Eastellar Team."
+conditions="Maximum supply of BLOSSOM is 25B tokens only"
+image="https://eastellar.com/images/BLOSSOM.png"
