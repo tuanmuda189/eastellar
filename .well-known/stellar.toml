@@ -2550,3 +2550,14 @@ fixed_number=25000000000
 desc="XRPz is issued by Eastellar Team."
 conditions="Maximum supply of XRPz is 25B tokens only"
 image="https://eastellar.com/images/XRPz.png"
+
+[[CURRENCIES]]
+code="PEONY"
+issuer="GDEVVUWOPYBTWDTEIT746QXSGSFN5AE6PW5CM5AQJOX35TE6PTC53NHZ"
+status="live"
+display_decimals=4
+name="PEONY"
+fixed_number=25000000000
+desc="PEONY is issued by Eastellar Team."
+conditions="Maximum supply of PEONY is 25B tokens only"
+image="https://eastellar.com/images/PEONY.png"
