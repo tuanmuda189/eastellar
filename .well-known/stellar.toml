@@ -2561,3 +2561,14 @@ fixed_number=25000000000
 desc="PEONY is issued by Eastellar Team."
 conditions="Maximum supply of PEONY is 25B tokens only"
 image="https://eastellar.com/images/PEONY.png"
+
+[[CURRENCIES]]
+code="ETCz"
+issuer="GBZOOR6WQACR4E4AWNTIIXWPYDOFG2T6V4OAOH3LRXXR5JN7Q7DHVLOL"
+status="live"
+display_decimals=4
+name="ETCz"
+fixed_number=25000000000
+desc="ETCz is issued by Eastellar Team."
+conditions="Maximum supply of ETCz is 25B tokens only"
+image="https://eastellar.com/images/ETCz.png"
