@@ -2572,3 +2572,15 @@ fixed_number=25000000000
 desc="ETCz is issued by Eastellar Team."
 conditions="Maximum supply of ETCz is 25B tokens only"
 image="https://eastellar.com/images/ETCz.png"
+
+[[CURRENCIES]]
+code="LAUREL"
+issuer="GDCPJV3CADOMJJCPIVLKOAKUV2ZDZINVFRY6H4OSNF5MKBOQD5TMQXQR"
+status="live"
+display_decimals=4
+name="LAUREL"
+fixed_number=25000000000
+desc="LAUREL is issued by Eastellar Team."
+conditions="Maximum supply of LAUREL is 25B tokens only"
+image="https://eastellar.com/images/LAUREL.png"
+
