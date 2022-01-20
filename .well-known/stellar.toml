@@ -2584,3 +2584,13 @@ desc="LAUREL is issued by Eastellar Team."
 conditions="Maximum supply of LAUREL is 25B tokens only"
 image="https://eastellar.com/images/LAUREL.png"
 
+[[CURRENCIES]]
+code="DAIz"
+issuer="GAH6WIT5NAPWPQPY7HYDQLCCXZX2IR3ZA6373WMZJKRUOBQBMJQ62ZZU"
+status="live"
+display_decimals=4
+name="DAIz"
+fixed_number=25000000000
+desc="DAIz is issued by Eastellar Team."
+conditions="Maximum supply of DAIz is 25B tokens only"
+image="https://eastellar.com/images/DAIz.png"
