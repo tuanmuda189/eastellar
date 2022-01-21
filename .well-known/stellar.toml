@@ -2607,12 +2607,12 @@ conditions="Maximum supply of POINSETTIA is 25B tokens only"
 image="https://eastellar.com/images/POINSETTIA.png"
 
 [[CURRENCIES]]
-code="FRANCISCO"
-issuer="GD3WHC2SH24R463MVTZ5JO45UHHJ47U5EPE5GF3RWQ5N7ZNF4VXOVUAB"
+code="FREDz"
+issuer="GDYJHUSQP7FSO4ZBSKQLG4HZRMRESQQADMTTN5PYYVYBDG5GGPOMBIKC"
 status="live"
 display_decimals=4
-name="FRANCISCO"
+name="FREDz"
 fixed_number=25000000000
-desc="FRANCISCO is issued by Eastellar Team."
-conditions="Maximum supply of FRANCISCO is 25B tokens only"
-image="https://eastellar.com/images/FRANCISCO.png"
+desc="FREDz is issued by Eastellar Team."
+conditions="Maximum supply of FREDz is 25B tokens only"
+image="https://eastellar.com/images/FREDz.png"
