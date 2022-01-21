@@ -2594,3 +2594,14 @@ fixed_number=25000000000
 desc="DAIz is issued by Eastellar Team."
 conditions="Maximum supply of DAIz is 25B tokens only"
 image="https://eastellar.com/images/DAIz.png"
+
+[[CURRENCIES]]
+code="POINSETTIA"
+issuer="GAA3TEA7XGFAYUWSUXTKCUOAPDYCLVX2D42P4GMWBAZ7EZ3YSCOZVF7C"
+status="live"
+display_decimals=4
+name="POINSETTIA"
+fixed_number=25000000000
+desc="POINSETTIA is issued by Eastellar Team."
+conditions="Maximum supply of POINSETTIA is 25B tokens only"
+image="https://eastellar.com/images/POINSETTIA.png"
