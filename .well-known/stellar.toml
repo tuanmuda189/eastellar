@@ -2628,3 +2628,13 @@ desc="PROTEA is issued by Eastellar Team."
 conditions="Maximum supply of PROTEA is 25B tokens only"
 image="https://eastellar.com/images/PROTEA.png"
 
+[[CURRENCIES]]
+code="KESz"
+issuer="GC7QT7RJIPWURKX4ZVOTBSDPWCTAXFFTWVUBTUEZLVNFWZKVKW3YJOA2"
+status="live"
+display_decimals=4
+name="KESz"
+fixed_number=25000000000
+desc="KESz is issued by Eastellar Team."
+conditions="Maximum supply of KESz is 25B tokens only"
+image="https://eastellar.com/images/KESz.png"
