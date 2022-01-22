@@ -2616,3 +2616,15 @@ fixed_number=25000000000
 desc="FREDz is issued by Eastellar Team."
 conditions="Maximum supply of FREDz is 25B tokens only"
 image="https://eastellar.com/images/FREDz.png"
+
+[[CURRENCIES]]
+code="PROTEA"
+issuer="GDPS745I6ACDJX5U7IR2WZ7IZNABSRDZS6EYNXVVOQRUACIFET7I7A6D"
+status="live"
+display_decimals=4
+name="PROTEA"
+fixed_number=25000000000
+desc="PROTEA is issued by Eastellar Team."
+conditions="Maximum supply of PROTEA is 25B tokens only"
+image="https://eastellar.com/images/PROTEA.png"
+
