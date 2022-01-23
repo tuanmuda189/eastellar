@@ -2638,3 +2638,14 @@ fixed_number=25000000000
 desc="KESz is issued by Eastellar Team."
 conditions="Maximum supply of KESz is 25B tokens only"
 image="https://eastellar.com/images/KESz.png"
+
+[[CURRENCIES]]
+code="MIMOSA"
+issuer="GDESQK32QTALLSMRUY7JGCUWYNCA4ET37UAPLZOP56VLJFGW4ZZOUQIA"
+status="live"
+display_decimals=4
+name="MIMOSA"
+fixed_number=25000000000
+desc="MIMOSA is issued by Eastellar Team."
+conditions="Maximum supply of MIMOSA is 25B tokens only"
+image="https://eastellar.com/images/MIMOSA.png"
