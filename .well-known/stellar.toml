@@ -2649,3 +2649,14 @@ fixed_number=25000000000
 desc="MIMOSA is issued by Eastellar Team."
 conditions="Maximum supply of MIMOSA is 25B tokens only"
 image="https://eastellar.com/images/MIMOSA.png"
+
+[[CURRENCIES]]
+code="TZSz"
+issuer="GA3MNWIVE2YCQYWHGQNEYY52H5N4OIBAVYAZBQSPDDEIS7Z2NCFOZKLK"
+status="live"
+display_decimals=4
+name="TZSz"
+fixed_number=25000000000
+desc="TZSz is issued by Eastellar Team."
+conditions="Maximum supply of TZSz is 25B tokens only"
+image="https://eastellar.com/images/TZSz.png"
