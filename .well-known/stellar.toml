@@ -2660,3 +2660,15 @@ fixed_number=25000000000
 desc="TZSz is issued by Eastellar Team."
 conditions="Maximum supply of TZSz is 25B tokens only"
 image="https://eastellar.com/images/TZSz.png"
+
+[[CURRENCIES]]
+code="REDROSE"
+issuer="GCGI5D732USESHHZTU6NNKTZZIYFKNP2ZLXDJ5ZKFAPOLASLNGKVGVOH"
+status="live"
+display_decimals=4
+name="REDROSE"
+fixed_number=25000000000
+desc="REDROSE is issued by Eastellar Team."
+conditions="Maximum supply of REDROSE is 25B tokens only"
+image="https://eastellar.com/images/REDROSE.png"
+
