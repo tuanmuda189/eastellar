@@ -2672,3 +2672,13 @@ desc="REDROSE is issued by Eastellar Team."
 conditions="Maximum supply of REDROSE is 25B tokens only"
 image="https://eastellar.com/images/REDROSE.png"
 
+[[CURRENCIES]]
+code="CLPXz"
+issuer="GDYCFFYCSEU5BMVFENMEF6MSRNX4YNW2MT2NUO6UY4QKJ5XJEL35XU46"
+status="live"
+display_decimals=4
+name="CLPXz"
+fixed_number=25000000000
+desc="CLPXz is issued by Eastellar Team."
+conditions="Maximum supply of CLPXz is 25B tokens only"
+image="https://eastellar.com/images/CLPXz.png"
