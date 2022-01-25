@@ -2694,3 +2694,13 @@ desc="QUINCE is issued by Eastellar Team."
 conditions="Maximum supply of QUINCE is 25B tokens only"
 image="https://eastellar.com/images/QUINCE.png"
 
+[[CURRENCIES]]
+code="BTCLNz"
+issuer="GAD737FBX5ABIPOG2WJUZDUGT3AI7GKBNYETJ3ZUR5CB2UOVNX25UERE"
+status="live"
+display_decimals=4
+name="BTCLNz"
+fixed_number=25000000000
+desc="BTCLNz is issued by Eastellar Team."
+conditions="Maximum supply of BTCLNz is 25B tokens only"
+image="https://eastellar.com/images/BTCLNz.png"
