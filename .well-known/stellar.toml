@@ -2682,3 +2682,15 @@ fixed_number=25000000000
 desc="CLPXz is issued by Eastellar Team."
 conditions="Maximum supply of CLPXz is 25B tokens only"
 image="https://eastellar.com/images/CLPXz.png"
+
+[[CURRENCIES]]
+code="QUINCE"
+issuer="GDTPS2KF3QH4ZKWCHHPRK5HHIBG3DYTFNUCKXGEXIY6MDAHJPYHE3LZA"
+status="live"
+display_decimals=4
+name="QUINCE"
+fixed_number=25000000000
+desc="QUINCE is issued by Eastellar Team."
+conditions="Maximum supply of QUINCE is 25B tokens only"
+image="https://eastellar.com/images/QUINCE.png"
+
