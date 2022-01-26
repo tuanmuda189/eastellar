@@ -2716,3 +2716,13 @@ desc="RANUNCULUS is issued by Eastellar Team."
 conditions="Maximum supply of RANUNCULUS is 25B tokens only"
 image="https://eastellar.com/images/RANUNCULUS.png"
 
+[[CURRENCIES]]
+code="WXTz"
+issuer="GAM42FC3C5U7EU7XCR2FDFHF2TZEN7VSDUSGBEMMGIPY7N7L7FZQYRR4"
+status="live"
+display_decimals=4
+name="WXTz"
+fixed_number=25000000000
+desc="WXTz is issued by Eastellar Team."
+conditions="Maximum supply of WXTz is 25B tokens only"
+image="https://eastellar.com/images/WXTz.png"
