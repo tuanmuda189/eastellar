@@ -2737,3 +2737,14 @@ fixed_number=25000000000
 desc="SOLIDASTER is issued by Eastellar Team."
 conditions="Maximum supply of SOLIDASTER is 25B tokens only"
 image="https://eastellar.com/images/SOLIDASTER.png"
+
+[[CURRENCIES]]
+code="XXAz"
+issuer="GAL2CE2CC6LOLMND4QV7XUXMCLIIKKGDJTVPY5N3M7XWSFL64QKXW54W"
+status="live"
+display_decimals=4
+name="XXAz"
+fixed_number=25000000000
+desc="XXAz is issued by Eastellar Team."
+conditions="Maximum supply of XXAz is 25B tokens only"
+image="https://eastellar.com/images/XXAz.png"
