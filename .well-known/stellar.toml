@@ -2726,3 +2726,14 @@ fixed_number=25000000000
 desc="WXTz is issued by Eastellar Team."
 conditions="Maximum supply of WXTz is 25B tokens only"
 image="https://eastellar.com/images/WXTz.png"
+
+[[CURRENCIES]]
+code="SOLIDASTER"
+issuer="GAJQORGZZDU6KOQELIR4FUUZERYE3SL2TLDN5AJEX6DJBVKRYPLBWK5P"
+status="live"
+display_decimals=4
+name="SOLIDASTER"
+fixed_number=25000000000
+desc="SOLIDASTER is issued by Eastellar Team."
+conditions="Maximum supply of SOLIDASTER is 25B tokens only"
+image="https://eastellar.com/images/SOLIDASTER.png"
