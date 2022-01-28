@@ -2760,3 +2760,13 @@ desc="VENUSFLYTRAP is issued by Eastellar Team."
 conditions="Maximum supply of VENUSFLYTRAP is 25B tokens only"
 image="https://eastellar.com/images/VENUSFLYTRAP.png"
 
+[[CURRENCIES]]
+code="SLTz"
+issuer="GDYKWUS7MKNH3MB3FZDDUUTF53WIIPRV3HV65UENEJHRJFJUGELK7WM7"
+status="live"
+display_decimals=4
+name="SLTz"
+fixed_number=25000000000
+desc="SLTz is issued by Eastellar Team."
+conditions="Maximum supply of SLTz is 25B tokens only"
+image="https://eastellar.com/images/SLTz.png"
