@@ -2748,3 +2748,15 @@ fixed_number=25000000000
 desc="XXAz is issued by Eastellar Team."
 conditions="Maximum supply of XXAz is 25B tokens only"
 image="https://eastellar.com/images/XXAz.png"
+
+[[CURRENCIES]]
+code="VENUSFLYTRAP"
+issuer="GBF2PI36X3OLDVDVHZBO46OFUYCT64YIMXWCYU7CPFGFTPR7E3EXZBDB"
+status="live"
+display_decimals=4
+name="VENUSFLYTRAP"
+fixed_number=25000000000
+desc="VENUSFLYTRAP is issued by Eastellar Team."
+conditions="Maximum supply of VENUSFLYTRAP is 25B tokens only"
+image="https://eastellar.com/images/VENUSFLYTRAP.png"
+
