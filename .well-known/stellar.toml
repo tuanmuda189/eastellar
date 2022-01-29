@@ -2770,3 +2770,14 @@ fixed_number=25000000000
 desc="SLTz is issued by Eastellar Team."
 conditions="Maximum supply of SLTz is 25B tokens only"
 image="https://eastellar.com/images/SLTz.png"
+
+[[CURRENCIES]]
+code="MYRTLE"
+issuer="GDDDD7H6MWCR2N5TPARL23XDB5R4RJGH72XN5PW4JDKR24C67BW7FSPS"
+status="live"
+display_decimals=4
+name="MYRTLE"
+fixed_number=25000000000
+desc="MYRTLE is issued by Eastellar Team."
+conditions="Maximum supply of MYRTLE is 25B tokens only"
+image="https://eastellar.com/images/MYRTLE.png"
