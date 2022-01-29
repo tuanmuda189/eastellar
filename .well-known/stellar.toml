@@ -2781,3 +2781,14 @@ fixed_number=25000000000
 desc="MYRTLE is issued by Eastellar Team."
 conditions="Maximum supply of MYRTLE is 25B tokens only"
 image="https://eastellar.com/images/MYRTLE.png"
+
+[[CURRENCIES]]
+code="XCHFz"
+issuer="GDXZWW237ZXHMPQEFBGFGETK75XXZBMEODTD76WXUVSEGVDIFTWNUE5D"
+status="live"
+display_decimals=4
+name="XCHFz"
+fixed_number=25000000000
+desc="XCHFz is issued by Eastellar Team."
+conditions="Maximum supply of XCHFz is 25B tokens only"
+image="https://eastellar.com/images/XCHFz.png"
