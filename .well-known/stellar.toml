@@ -2803,3 +2803,14 @@ fixed_number=25000000000
 desc="WOLFSBANE is issued by Eastellar Team."
 conditions="Maximum supply of WOLFSBANE is 25B tokens only"
 image="https://eastellar.com/images/WOLFSBANE.png"
+
+[[CURRENCIES]]
+code="XLMz"
+issuer="GDF7MYOTQ3PSVXQWNNZKJ3VPAWDGWO67IXFAS7SFTI3QYR5TFIIZXZ7M"
+status="live"
+display_decimals=4
+name="XLMz"
+fixed_number=25000000000
+desc="XLMz is issued by Eastellar Team."
+conditions="Maximum supply of XLMz is 25B tokens only"
+image="https://eastellar.com/images/XLMz.png"
