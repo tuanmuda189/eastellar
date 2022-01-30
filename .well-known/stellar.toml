@@ -2792,3 +2792,14 @@ fixed_number=25000000000
 desc="XCHFz is issued by Eastellar Team."
 conditions="Maximum supply of XCHFz is 25B tokens only"
 image="https://eastellar.com/images/XCHFz.png"
+
+[[CURRENCIES]]
+code="WOLFSBANE"
+issuer="GD2O7PRR5DEO3OLFC43LFQ63ZIMPSNNBG54MGYRUOZWL2XCAU5H6P2F7"
+status="live"
+display_decimals=4
+name="WOLFSBANE"
+fixed_number=25000000000
+desc="WOLFSBANE is issued by Eastellar Team."
+conditions="Maximum supply of WOLFSBANE is 25B tokens only"
+image="https://eastellar.com/images/WOLFSBANE.png"
