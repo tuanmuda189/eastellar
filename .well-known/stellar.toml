@@ -2814,3 +2814,14 @@ fixed_number=25000000000
 desc="XLMz is issued by Eastellar Team."
 conditions="Maximum supply of XLMz is 25B tokens only"
 image="https://eastellar.com/images/XLMz.png"
+
+[[CURRENCIES]]
+code="KANGAROOPAW"
+issuer="GCAR5XS2M2RVONVJIDQBOQLOHVRBM2OQYWIMB5MYNJZQWPXE2PWAKJON"
+status="live"
+display_decimals=4
+name="KANGAROOPAW"
+fixed_number=25000000000
+desc="KANGAROOPAW is issued by Eastellar Team."
+conditions="Maximum supply of KANGAROOPAW is 25B tokens only"
+image="https://eastellar.com/images/KANGAROOPAW.png"
