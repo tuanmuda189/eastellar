@@ -2825,3 +2825,14 @@ fixed_number=25000000000
 desc="KANGAROOPAW is issued by Eastellar Team."
 conditions="Maximum supply of KANGAROOPAW is 25B tokens only"
 image="https://eastellar.com/images/KANGAROOPAW.png"
+
+[[CURRENCIES]]
+code="LSPz"
+issuer="GCTRWHXIZPNUGZAZEN2HGYOYFCR35ORS3RROX3DFEOTAJVGXVO4ZOJ7V"
+status="live"
+display_decimals=4
+name="LSPz"
+fixed_number=25000000000
+desc="LSPz is issued by Eastellar Team."
+conditions="Maximum supply of LSPz is 25B tokens only"
+image="https://eastellar.com/images/LSPz.png"
