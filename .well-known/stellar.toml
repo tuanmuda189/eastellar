@@ -2836,3 +2836,14 @@ fixed_number=25000000000
 desc="LSPz is issued by Eastellar Team."
 conditions="Maximum supply of LSPz is 25B tokens only"
 image="https://eastellar.com/images/LSPz.png"
+
+[[CURRENCIES]]
+code="PINKROSE"
+issuer="GCGVQRYLV2SGIGRUCNIITXTOXGXPAENDGF7XPN3YTWIPCYRZDE4YCPHV"
+status="live"
+display_decimals=4
+name="PINKROSE"
+fixed_number=25000000000
+desc="PINKROSE is issued by Eastellar Team."
+conditions="Maximum supply of PINKROSE is 25B tokens only"
+image="https://eastellar.com/images/PINKROSE.png"
