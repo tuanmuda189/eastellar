@@ -2847,3 +2847,14 @@ fixed_number=25000000000
 desc="PINKROSE is issued by Eastellar Team."
 conditions="Maximum supply of PINKROSE is 25B tokens only"
 image="https://eastellar.com/images/PINKROSE.png"
+
+[[CURRENCIES]]
+code="IOTAz"
+issuer="GA7EHPQYMMALT3KNO36XMU5XCEOYOPBA7VKN6N7C7N4P5S6P4K4J6LHX"
+status="live"
+display_decimals=4
+name="IOTAz"
+fixed_number=25000000000
+desc="IOTAz is issued by Eastellar Team."
+conditions="Maximum supply of IOTAz is 25B tokens only"
+image="https://eastellar.com/images/IOTAz.gif"
