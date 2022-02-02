@@ -2858,3 +2858,14 @@ fixed_number=25000000000
 desc="IOTAz is issued by Eastellar Team."
 conditions="Maximum supply of IOTAz is 25B tokens only"
 image="https://eastellar.com/images/IOTAz.gif"
+
+[[CURRENCIES]]
+code="WHITEROSE"
+issuer="GACTH6TZKFGR72AMMKLR3BZ2IJ3UFR5L5TTHGZ7CICRBDHTWNDEKD5VF"
+status="live"
+display_decimals=4
+name="WHITEROSE"
+fixed_number=25000000000
+desc="WHITEROSE is issued by Eastellar Team."
+conditions="Maximum supply of WHITEROSE is 25B tokens only"
+image="https://eastellar.com/images/WHITEROSE.png"
