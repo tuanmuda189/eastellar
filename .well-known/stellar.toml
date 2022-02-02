@@ -2869,3 +2869,14 @@ fixed_number=25000000000
 desc="WHITEROSE is issued by Eastellar Team."
 conditions="Maximum supply of WHITEROSE is 25B tokens only"
 image="https://eastellar.com/images/WHITEROSE.png"
+
+[[CURRENCIES]]
+code="EIGHT"
+issuer="GBTVTKTJFLS64L3HDVQVBVOW6MS2QXQ6TWBQXFZAWA2UZLYKWNLBJMRK"
+status="live"
+display_decimals=4
+name="EIGHT"
+fixed_number=25000000000
+desc="EIGHT is issued by Eastellar Team."
+conditions="Maximum supply of EIGHT is 25B tokens only"
+image="https://eastellar.com/images/EIGHT.png"
