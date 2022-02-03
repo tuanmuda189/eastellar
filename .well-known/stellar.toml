@@ -2880,3 +2880,15 @@ fixed_number=25000000000
 desc="EIGHT is issued by Eastellar Team."
 conditions="Maximum supply of EIGHT is 25B tokens only"
 image="https://eastellar.com/images/EIGHT.png"
+
+[[CURRENCIES]]
+code="SNAPDRAGON"
+issuer="GCICFL3RVPWKUB4YFPUXBQA6TAQTKIOAJACWYGGDESLRO45MBGOCK445"
+status="live"
+display_decimals=4
+name="SNAPDRAGON"
+fixed_number=25000000000
+desc="SNAPDRAGON is issued by Eastellar Team."
+conditions="Maximum supply of SNAPDRAGON is 25B tokens only"
+image="https://eastellar.com/images/SNAPDRAGON.png"
+
