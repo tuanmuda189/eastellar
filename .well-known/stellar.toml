@@ -2892,3 +2892,13 @@ desc="SNAPDRAGON is issued by Eastellar Team."
 conditions="Maximum supply of SNAPDRAGON is 25B tokens only"
 image="https://eastellar.com/images/SNAPDRAGON.png"
 
+[[CURRENCIES]]
+code="WAVESz"
+issuer="GDBSJBW4HNRLG2IIZKQP7AARJWFICCY2KBXGB24ECGHL63JNXHS2I6P6"
+status="live"
+display_decimals=4
+name="WAVESz"
+fixed_number=25000000000
+desc="WAVESz is issued by Eastellar Team."
+conditions="Maximum supply of WAVESz is 25B tokens only"
+image="https://eastellar.com/images/WAVESz.png"
