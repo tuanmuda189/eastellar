@@ -2913,3 +2913,14 @@ fixed_number=25000000000
 desc="TICKSEED is issued by Eastellar Team."
 conditions="Maximum supply of TICKSEED is 25B tokens only"
 image="https://eastellar.com/images/TICKSEED.png"
+
+[[CURRENCIES]]
+code="MINAz"
+issuer="GDMK4O5PNVV5JN5M5O6M2W4Z2QNH2KWQKE5VSA3E72HLFVSO4PCWNLO4"
+status="live"
+display_decimals=4
+name="MINAz"
+fixed_number=25000000000
+desc="MINAz is issued by Eastellar Team."
+conditions="Maximum supply of MINAz is 25B tokens only"
+image="https://eastellar.com/images/MINAz.png"
