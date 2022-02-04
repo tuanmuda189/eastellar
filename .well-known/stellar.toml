@@ -2902,3 +2902,14 @@ fixed_number=25000000000
 desc="WAVESz is issued by Eastellar Team."
 conditions="Maximum supply of WAVESz is 25B tokens only"
 image="https://eastellar.com/images/WAVESz.png"
+
+[[CURRENCIES]]
+code="TICKSEED"
+issuer="GDPWCO3H277TFHVJQFJJ2LNNEA5XJW4W4LD5GIBQUVY32KG3WQIXCTQR"
+status="live"
+display_decimals=4
+name="TICKSEED"
+fixed_number=25000000000
+desc="TICKSEED is issued by Eastellar Team."
+conditions="Maximum supply of TICKSEED is 25B tokens only"
+image="https://eastellar.com/images/TICKSEED.png"
