@@ -2924,3 +2924,14 @@ fixed_number=25000000000
 desc="MINAz is issued by Eastellar Team."
 conditions="Maximum supply of MINAz is 25B tokens only"
 image="https://eastellar.com/images/MINAz.png"
+
+[[CURRENCIES]]
+code="TRUMPET"
+issuer="GB5MVSVA7AARMSO3KDFZPYMPIMW6ZSPYAHFQ2CYHUDGCBYWC7WNJK7S6"
+status="live"
+display_decimals=4
+name="TRUMPET"
+fixed_number=25000000000
+desc="TRUMPET is issued by Eastellar Team."
+conditions="Maximum supply of TRUMPET is 25B tokens only"
+image="https://eastellar.com/images/TRUMPET.png"
