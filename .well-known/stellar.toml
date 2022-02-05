@@ -2935,3 +2935,14 @@ fixed_number=25000000000
 desc="TRUMPET is issued by Eastellar Team."
 conditions="Maximum supply of TRUMPET is 25B tokens only"
 image="https://eastellar.com/images/TRUMPET.png"
+
+[[CURRENCIES]]
+code="USDPz"
+issuer="GABNYJXC5MJKKODYXXYJX6ID2GKB2L5472KEHP5HN6ZNRLQOHCI6TA2P"
+status="live"
+display_decimals=4
+name="USDPz"
+fixed_number=25000000000
+desc="USDPz is issued by Eastellar Team."
+conditions="Maximum supply of USDPz is 25B tokens only"
+image="https://eastellar.com/images/USDPz.png"
