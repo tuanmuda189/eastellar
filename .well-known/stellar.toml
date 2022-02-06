@@ -2946,3 +2946,14 @@ fixed_number=25000000000
 desc="USDPz is issued by Eastellar Team."
 conditions="Maximum supply of USDPz is 25B tokens only"
 image="https://eastellar.com/images/USDPz.png"
+
+[[CURRENCIES]]
+code="TULIP"
+issuer="GCZYABKXTDHP2YVTCKAEQHRUHANFLAWM2SVG6ZVVHXIW3WGRKVJIO4CD"
+status="live"
+display_decimals=4
+name="TULIP"
+fixed_number=25000000000
+desc="TULIP is issued by Eastellar Team."
+conditions="Maximum supply of TULIP is 25B tokens only"
+image="https://eastellar.com/images/TULIP.png"
