@@ -2957,3 +2957,14 @@ fixed_number=25000000000
 desc="TULIP is issued by Eastellar Team."
 conditions="Maximum supply of TULIP is 25B tokens only"
 image="https://eastellar.com/images/TULIP.png"
+
+[[CURRENCIES]]
+code="BORAz"
+issuer="GCHQWT66TRRWK5JNIPO6RQUULDJ76J7QFRESYNEXHCF3KXHJKSJ6M4CB"
+status="live"
+display_decimals=4
+name="BORAz"
+fixed_number=25000000000
+desc="BORAz is issued by Eastellar Team."
+conditions="Maximum supply of BORAz is 25B tokens only"
+image="https://eastellar.com/images/BORAz.png"
