@@ -2979,3 +2979,14 @@ fixed_number=25000000000
 desc="AFRICANTULIP is issued by Eastellar Team."
 conditions="Maximum supply of AFRICANTULIP is 25B tokens only"
 image="https://eastellar.com/images/AFRICANTULIP.png"
+
+[[CURRENCIES]]
+code="YFIz"
+issuer="GAQL2YGWOR2Z6MNB3MFTICYPF7OFMZVEM6PCDA5T5P2JGBNVWERTVHZE"
+status="live"
+display_decimals=4
+name="YFIz"
+fixed_number=25000000000
+desc="YFIz is issued by Eastellar Team."
+conditions="Maximum supply of YFIz is 25B tokens only"
+image="https://eastellar.com/images/YFIz.png"
