@@ -2968,3 +2968,14 @@ fixed_number=25000000000
 desc="BORAz is issued by Eastellar Team."
 conditions="Maximum supply of BORAz is 25B tokens only"
 image="https://eastellar.com/images/BORAz.png"
+
+[[CURRENCIES]]
+code="AFRICANTULIP"
+issuer="GC74XJD7BWRGKTRT4TB3CALTFAHWTMI5FYYWEJ4ZHJMTKORLUVACEZE7"
+status="live"
+display_decimals=4
+name="AFRICANTULIP"
+fixed_number=25000000000
+desc="AFRICANTULIP is issued by Eastellar Team."
+conditions="Maximum supply of AFRICANTULIP is 25B tokens only"
+image="https://eastellar.com/images/AFRICANTULIP.png"
