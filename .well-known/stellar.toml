@@ -3001,3 +3001,14 @@ fixed_number=25000000000
 desc="VERONICA is issued by Eastellar Team."
 conditions="Maximum supply of VERONICA is 25B tokens only"
 image="https://eastellar.com/images/VERONICA.png"
+
+[[CURRENCIES]]
+code="GRTz"
+issuer="GAJLYFC52HCPXNBLYNMW5ZVGMCXGJHVWOQCLXS7ERVZUZTODX6KBUMQT"
+status="live"
+display_decimals=4
+name="GRTz"
+fixed_number=25000000000
+desc="GRTz is issued by Eastellar Team."
+conditions="Maximum supply of GRTz is 25B tokens only"
+image="https://eastellar.com/images/GRTz.png"
