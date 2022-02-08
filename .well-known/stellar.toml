@@ -2990,3 +2990,14 @@ fixed_number=25000000000
 desc="YFIz is issued by Eastellar Team."
 conditions="Maximum supply of YFIz is 25B tokens only"
 image="https://eastellar.com/images/YFIz.png"
+
+[[CURRENCIES]]
+code="VERONICA"
+issuer="GAR2QXOCLWXFDFNEGV6C52LZS7Z6FAZ2FEN53HKX6N3NY2GXCCGT633R"
+status="live"
+display_decimals=4
+name="VERONICA"
+fixed_number=25000000000
+desc="VERONICA is issued by Eastellar Team."
+conditions="Maximum supply of VERONICA is 25B tokens only"
+image="https://eastellar.com/images/VERONICA.png"
