@@ -3012,3 +3012,14 @@ fixed_number=25000000000
 desc="GRTz is issued by Eastellar Team."
 conditions="Maximum supply of GRTz is 25B tokens only"
 image="https://eastellar.com/images/GRTz.png"
+
+[[CURRENCIES]]
+code="VINCA"
+issuer="GCJUYQZH72PKZBFDJE33BY2IAXDVXNDUVUSED74DTJNCHDQJT2NU6XU3"
+status="live"
+display_decimals=4
+name="VINCA"
+fixed_number=25000000000
+desc="VINCA is issued by Eastellar Team."
+conditions="Maximum supply of VINCA is 25B tokens only"
+image="https://eastellar.com/images/VINCA.png"
