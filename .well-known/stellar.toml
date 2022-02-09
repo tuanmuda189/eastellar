@@ -3023,3 +3023,14 @@ fixed_number=25000000000
 desc="VINCA is issued by Eastellar Team."
 conditions="Maximum supply of VINCA is 25B tokens only"
 image="https://eastellar.com/images/VINCA.png"
+
+[[CURRENCIES]]
+code="RVNz"
+issuer="GD6LLE7WBH2YLUUBI76GHBBRYB3RGGLXKVVC5KUQW7W2W7I2AZAIHAYR"
+status="live"
+display_decimals=4
+name="RVNz"
+fixed_number=25000000000
+desc="RVNz is issued by Eastellar Team."
+conditions="Maximum supply of RVNz is 25B tokens only"
+image="https://eastellar.com/images/RVNz.png"
