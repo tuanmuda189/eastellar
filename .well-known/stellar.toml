@@ -3034,3 +3034,14 @@ fixed_number=25000000000
 desc="RVNz is issued by Eastellar Team."
 conditions="Maximum supply of RVNz is 25B tokens only"
 image="https://eastellar.com/images/RVNz.png"
+
+[[CURRENCIES]]
+code="VIOLET"
+issuer="GCNEBJG3ONXLXX654LGRJD5KBG47SBAP6LFDZ6UXYTHJHKFIBHM7END6"
+status="live"
+display_decimals=4
+name="VIOLET"
+fixed_number=25000000000
+desc="VIOLET is issued by Eastellar Team."
+conditions="Maximum supply of VIOLET is 25B tokens only"
+image="https://eastellar.com/images/VIOLET.png"
