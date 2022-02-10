@@ -3045,3 +3045,14 @@ fixed_number=25000000000
 desc="VIOLET is issued by Eastellar Team."
 conditions="Maximum supply of VIOLET is 25B tokens only"
 image="https://eastellar.com/images/VIOLET.png"
+
+[[CURRENCIES]]
+code="SNXz"
+issuer="GBMP5OJRJAJU6GE7MUKMPIANUVNHRD3SZUBYW7GTNKN3CUEWK3KZS6G6"
+status="live"
+display_decimals=4
+name="SNXz"
+fixed_number=25000000000
+desc="SNXz is issued by Eastellar Team."
+conditions="Maximum supply of SNXz is 25B tokens only"
+image="https://eastellar.com/images/SNXz.png"
