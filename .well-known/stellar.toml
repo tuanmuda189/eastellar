@@ -3067,3 +3067,14 @@ fixed_number=25000000000
 desc="WALL is issued by Eastellar Team."
 conditions="Maximum supply of WALL is 25B tokens only"
 image="https://eastellar.com/images/WALL.png"
+
+[[CURRENCIES]]
+code="XDCz"
+issuer="GBL62F6RBSQKYITWRXTOQZ6BZ4ZFZHSHYUNG6O4TFHF7E6TE23LL2HEK"
+status="live"
+display_decimals=4
+name="XDCz"
+fixed_number=25000000000
+desc="XDCz is issued by Eastellar Team."
+conditions="Maximum supply of XDCz is 25B tokens only"
+image="https://eastellar.com/images/XDCz.png"
