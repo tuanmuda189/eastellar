@@ -3056,3 +3056,14 @@ fixed_number=25000000000
 desc="SNXz is issued by Eastellar Team."
 conditions="Maximum supply of SNXz is 25B tokens only"
 image="https://eastellar.com/images/SNXz.png"
+
+[[CURRENCIES]]
+code="WALL"
+issuer="GCXQM7RNI2Q4N6LDQN7I6X335X6WJLWEUF62O4L65ARKM4Y56B6X65CV"
+status="live"
+display_decimals=4
+name="WALL"
+fixed_number=25000000000
+desc="WALL is issued by Eastellar Team."
+conditions="Maximum supply of WALL is 25B tokens only"
+image="https://eastellar.com/images/WALL.png"
