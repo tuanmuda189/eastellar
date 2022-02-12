@@ -3089,3 +3089,14 @@ fixed_number=25000000000
 desc="THISTLE is issued by Eastellar Team."
 conditions="Maximum supply of THISTLE is 25B tokens only"
 image="https://eastellar.com/images/THISTLE.png"
+
+[[CURRENCIES]]
+code="ROSEz"
+issuer="GBGYORWAEMEUMDJTUGDUKDBNKBMURB6X2BIOV64RPTY5KQKDV6URZLPW"
+status="live"
+display_decimals=4
+name="ROSEz"
+fixed_number=25000000000
+desc="ROSEz is issued by Eastellar Team."
+conditions="Maximum supply of ROSEz is 25B tokens only"
+image="https://eastellar.com/images/ROSEz.png"
