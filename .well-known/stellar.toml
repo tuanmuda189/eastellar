@@ -3078,3 +3078,14 @@ fixed_number=25000000000
 desc="XDCz is issued by Eastellar Team."
 conditions="Maximum supply of XDCz is 25B tokens only"
 image="https://eastellar.com/images/XDCz.png"
+
+[[CURRENCIES]]
+code="THISTLE"
+issuer="GCQ5OEH234CUEHYI4KHYWVYKNMXT3PJ6NTY2SIGX5T6ZI57O2QAZLTMT"
+status="live"
+display_decimals=4
+name="THISTLE"
+fixed_number=25000000000
+desc="THISTLE is issued by Eastellar Team."
+conditions="Maximum supply of THISTLE is 25B tokens only"
+image="https://eastellar.com/images/THISTLE.png"
