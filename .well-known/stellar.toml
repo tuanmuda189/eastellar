@@ -3100,3 +3100,15 @@ fixed_number=25000000000
 desc="ROSEz is issued by Eastellar Team."
 conditions="Maximum supply of ROSEz is 25B tokens only"
 image="https://eastellar.com/images/ROSEz.png"
+
+[[CURRENCIES]]
+code="WISTERIA"
+issuer="GCELIWN3QOQD462Q3KOGDFUBKQ5DPKFOOQN2TMKNGKXS7BQKCBBZGT56"
+status="live"
+display_decimals=4
+name="WISTERIA"
+fixed_number=25000000000
+desc="WISTERIA is issued by Eastellar Team."
+conditions="Maximum supply of WISTERIA is 25B tokens only"
+image="https://eastellar.com/images/WISTERIA.png"
+
