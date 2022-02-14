@@ -3133,3 +3133,14 @@ fixed_number=25000000000
 desc="YARROW is issued by Eastellar Team."
 conditions="Maximum supply of YARROW is 25B tokens only"
 image="https://eastellar.com/images/YARROW.png"
+
+[[CURRENCIES]]
+code="NEOz"
+issuer="GBXK765RRWHSB7JJY6ROB455FCZCFYJIN6FDRHJIWUCDOWB6SCN743UQ"
+status="live"
+display_decimals=4
+name="NEOz"
+fixed_number=25000000000
+desc="NEOz is issued by Eastellar Team."
+conditions="Maximum supply of NEOz is 25B tokens only"
+image="https://eastellar.com/images/NEOz.png"
