@@ -3122,3 +3122,14 @@ fixed_number=25000000000
 desc="STETHz is issued by Eastellar Team."
 conditions="Maximum supply of STETHz is 25B tokens only"
 image="https://eastellar.com/images/STETHz.png"
+
+[[CURRENCIES]]
+code="YARROW"
+issuer="GAX6JZH7DHH3E24RQKQCUO72G526KAEOT2P5F3COZPHW4V36NMJE22JX"
+status="live"
+display_decimals=4
+name="YARROW"
+fixed_number=25000000000
+desc="YARROW is issued by Eastellar Team."
+conditions="Maximum supply of YARROW is 25B tokens only"
+image="https://eastellar.com/images/YARROW.png"
