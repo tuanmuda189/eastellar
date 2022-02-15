@@ -3155,3 +3155,14 @@ fixed_number=25000000000
 desc="ZINNIA is issued by Eastellar Team."
 conditions="Maximum supply of ZINNIA is 25B tokens only"
 image="https://eastellar.com/images/ZINNIA.png"
+
+[[CURRENCIES]]
+code="KCSz"
+issuer="GAECYMI723VFAXYTUJWDQ6RFIHXN3HSRULK3EP2QDRVQIQJRDXU236FR"
+status="live"
+display_decimals=4
+name="KCSz"
+fixed_number=25000000000
+desc="KCSz is issued by Eastellar Team."
+conditions="Maximum supply of KCSz is 25B tokens only"
+image="https://eastellar.com/images/KCSz.png"
