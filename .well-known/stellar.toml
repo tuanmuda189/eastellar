@@ -3144,3 +3144,14 @@ fixed_number=25000000000
 desc="NEOz is issued by Eastellar Team."
 conditions="Maximum supply of NEOz is 25B tokens only"
 image="https://eastellar.com/images/NEOz.png"
+
+[[CURRENCIES]]
+code="ZINNIA"
+issuer="GBRM2PY3XXXDWSZFLX5SQNUBTN4SYVM4DVRLBFBFI256PEZKTNW2BGFJ"
+status="live"
+display_decimals=4
+name="ZINNIA"
+fixed_number=25000000000
+desc="ZINNIA is issued by Eastellar Team."
+conditions="Maximum supply of ZINNIA is 25B tokens only"
+image="https://eastellar.com/images/ZINNIA.png"
