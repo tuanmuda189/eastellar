@@ -3166,3 +3166,14 @@ fixed_number=25000000000
 desc="KCSz is issued by Eastellar Team."
 conditions="Maximum supply of KCSz is 25B tokens only"
 image="https://eastellar.com/images/KCSz.png"
+
+[[CURRENCIES]]
+code="CAMBODIA"
+issuer="GBXEKSQ5OYHZJIU7F5SOH2FWF3CZOKATU2HUKHPGWBQQNG7AZZRZZOSK"
+status="live"
+display_decimals=4
+name="CAMBODIA"
+fixed_number=25000000000
+desc="CAMBODIA is issued by Eastellar Team."
+conditions="Maximum supply of CAMBODIA is 25B tokens only"
+image="https://eastellar.com/images/CAMBODIA.png"
