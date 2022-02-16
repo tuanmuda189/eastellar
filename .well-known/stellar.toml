@@ -3177,3 +3177,14 @@ fixed_number=25000000000
 desc="CAMBODIA is issued by Eastellar Team."
 conditions="Maximum supply of CAMBODIA is 25B tokens only"
 image="https://eastellar.com/images/CAMBODIA.png"
+
+[[CURRENCIES]]
+code="CUSDCz"
+issuer="GCM2DDBLUW3GWLLC3LK3Z4CGSFBKGT2AW2N5C5MES4PWIE6KNLZONSMG"
+status="live"
+display_decimals=4
+name="CUSDCz"
+fixed_number=25000000000
+desc="CUSDCz is issued by Eastellar Team."
+conditions="Maximum supply of CUSDCz is 25B tokens only"
+image="https://eastellar.com/images/CUSDCz.png"
