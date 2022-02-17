@@ -3210,3 +3210,14 @@ fixed_number=25000000000
 desc="LEOz is issued by Eastellar Team."
 conditions="Maximum supply of LEOz is 25B tokens only"
 image="https://eastellar.com/images/LEOz.png"
+
+[[CURRENCIES]]
+code="PLUMERIA"
+issuer="GAVNCHCMKMDK6C546JO4HMYFQD2E2ZTRAF4ZANGMN4UTEVOTUPDI5GBF"
+status="live"
+display_decimals=4
+name="PLUMERIA"
+fixed_number=25000000000
+desc="PLUMERIA is issued by Eastellar Team."
+conditions="Maximum supply of PLUMERIA is 25B tokens only"
+image="https://eastellar.com/images/PLUMERIA.png"
