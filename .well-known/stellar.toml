@@ -3199,3 +3199,14 @@ fixed_number=25000000000
 desc="RUMDUOL is issued by Eastellar Team."
 conditions="Maximum supply of RUMDUOL is 25B tokens only"
 image="https://eastellar.com/images/RUMDUOL.png"
+
+[[CURRENCIES]]
+code="LEOz"
+issuer="GBDZLRNQY77R2KO3FMLTURI3PEJOC5YBM3MU2YSD2A5DLUSOITGTGKV5"
+status="live"
+display_decimals=4
+name="LEOz"
+fixed_number=25000000000
+desc="LEOz is issued by Eastellar Team."
+conditions="Maximum supply of LEOz is 25B tokens only"
+image="https://eastellar.com/images/LEOz.png"
