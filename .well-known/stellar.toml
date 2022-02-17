@@ -3188,3 +3188,14 @@ fixed_number=25000000000
 desc="CUSDCz is issued by Eastellar Team."
 conditions="Maximum supply of CUSDCz is 25B tokens only"
 image="https://eastellar.com/images/CUSDCz.png"
+
+[[CURRENCIES]]
+code="RUMDUOL"
+issuer="GDJI2C3GWEEDEFDWN7NRRFDEQRB4MFW2DD6XANLPHFCEBRUS6YHLWP3G"
+status="live"
+display_decimals=4
+name="RUMDUOL"
+fixed_number=25000000000
+desc="RUMDUOL is issued by Eastellar Team."
+conditions="Maximum supply of RUMDUOL is 25B tokens only"
+image="https://eastellar.com/images/RUMDUOL.png"
