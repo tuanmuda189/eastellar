@@ -3221,3 +3221,14 @@ fixed_number=25000000000
 desc="PLUMERIA is issued by Eastellar Team."
 conditions="Maximum supply of PLUMERIA is 25B tokens only"
 image="https://eastellar.com/images/PLUMERIA.png"
+
+[[CURRENCIES]]
+code="HBARz"
+issuer="GAI3YPB52L2XAHNT3CAZLO5AMFERE6NCMCVKM6WRGPQ3WMV5ZVEVWLW2"
+status="live"
+display_decimals=4
+name="HBARz"
+fixed_number=25000000000
+desc="HBARz is issued by Eastellar Team."
+conditions="Maximum supply of HBARz is 25B tokens only"
+image="https://eastellar.com/images/HBARz.png"
