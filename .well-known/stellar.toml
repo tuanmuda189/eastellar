@@ -3232,3 +3232,14 @@ fixed_number=25000000000
 desc="HBARz is issued by Eastellar Team."
 conditions="Maximum supply of HBARz is 25B tokens only"
 image="https://eastellar.com/images/HBARz.png"
+
+[[CURRENCIES]]
+code="MELODORUM"
+issuer="GCKOATFVJNU5LVC2D62M447LQN6XTMWUM2VZQKO2GGUVJZLRPPUEWW7O"
+status="live"
+display_decimals=4
+name="MELODORUM"
+fixed_number=25000000000
+desc="MELODORUM is issued by Eastellar Team."
+conditions="Maximum supply of MELODORUM is 25B tokens only"
+image="https://eastellar.com/images/MELODORUM.png"
