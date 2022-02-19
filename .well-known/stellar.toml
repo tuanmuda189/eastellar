@@ -3243,3 +3243,14 @@ fixed_number=25000000000
 desc="MELODORUM is issued by Eastellar Team."
 conditions="Maximum supply of MELODORUM is 25B tokens only"
 image="https://eastellar.com/images/MELODORUM.png"
+
+[[CURRENCIES]]
+code="XRDz"
+issuer="GCX2WKK3VTQKILQ3BDJM6CMFGT5UDA26FZNE2BMKPXF5DTZC6NUFO73P"
+status="live"
+display_decimals=4
+name="XRDz"
+fixed_number=25000000000
+desc="XRDz is issued by Eastellar Team."
+conditions="Maximum supply of XRDz is 25B tokens only"
+image="https://eastellar.com/images/XRDz.png"
