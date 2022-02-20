@@ -3254,3 +3254,14 @@ fixed_number=25000000000
 desc="XRDz is issued by Eastellar Team."
 conditions="Maximum supply of XRDz is 25B tokens only"
 image="https://eastellar.com/images/XRDz.png"
+
+[[CURRENCIES]]
+code="APPLEBLOSSOM"
+issuer="GC7I4BWSQLGYRTOBDQR4YGCPGSVF5QKICBD4UUC4CVOGUNZRNXQEWM26"
+status="live"
+display_decimals=4
+name="APPLEBLOSSOM"
+fixed_number=25000000000
+desc="APPLEBLOSSOM is issued by Eastellar Team."
+conditions="Maximum supply of APPLEBLOSSOM is 25B tokens only"
+image="https://eastellar.com/images/APPLEBLOSSOM.png"
