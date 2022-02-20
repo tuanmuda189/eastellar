@@ -3265,3 +3265,14 @@ fixed_number=25000000000
 desc="APPLEBLOSSOM is issued by Eastellar Team."
 conditions="Maximum supply of APPLEBLOSSOM is 25B tokens only"
 image="https://eastellar.com/images/APPLEBLOSSOM.png"
+
+[[CURRENCIES]]
+code="ICPz"
+issuer="GARMBMDOHC35HOKUV3GQV4UKCBOML4BEMAZG7OCYFITJFNCWRVBZL4DT"
+status="live"
+display_decimals=4
+name="ICPz"
+fixed_number=25000000000
+desc="ICPz is issued by Eastellar Team."
+conditions="Maximum supply of ICPz is 25B tokens only"
+image="https://eastellar.com/images/ICPz.png"
