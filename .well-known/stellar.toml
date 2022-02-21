@@ -3287,3 +3287,14 @@ fixed_number=25000000000
 desc="ASOKA is issued by Eastellar Team."
 conditions="Maximum supply of ASOKA is 25B tokens only"
 image="https://eastellar.com/images/ASOKA.png"
+
+[[CURRENCIES]]
+code="JUNOz"
+issuer="GAJ3PSCYJ67DEKUWADKA5LGB4BD2SUUFLWWIN244CO2YSC7I6VTK4C4P"
+status="live"
+display_decimals=4
+name="JUNOz"
+fixed_number=25000000000
+desc="JUNOz is issued by Eastellar Team."
+conditions="Maximum supply of JUNOz is 25B tokens only"
+image="https://eastellar.com/images/JUNOz.png"
