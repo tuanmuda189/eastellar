@@ -3276,3 +3276,14 @@ fixed_number=25000000000
 desc="ICPz is issued by Eastellar Team."
 conditions="Maximum supply of ICPz is 25B tokens only"
 image="https://eastellar.com/images/ICPz.png"
+
+[[CURRENCIES]]
+code="ASOKA"
+issuer="GBY7ME2HS56TDTC46EBJKVAFAYV6M6JRYHUG2HQNXLXP2ZEW7HWEAJUC"
+status="live"
+display_decimals=4
+name="ASOKA"
+fixed_number=25000000000
+desc="ASOKA is issued by Eastellar Team."
+conditions="Maximum supply of ASOKA is 25B tokens only"
+image="https://eastellar.com/images/ASOKA.png"
