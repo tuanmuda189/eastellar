@@ -3298,3 +3298,14 @@ fixed_number=25000000000
 desc="JUNOz is issued by Eastellar Team."
 conditions="Maximum supply of JUNOz is 25B tokens only"
 image="https://eastellar.com/images/JUNOz.png"
+
+[[CURRENCIES]]
+code="BUTTERCUP"
+issuer="GAPNHFJDVX4NO4WQIQZZX7FVLIXH5ZL4KTBSPVOM5IU3YPIM5XPDP6QG"
+status="live"
+display_decimals=4
+name="BUTTERCUP"
+fixed_number=25000000000
+desc="BUTTERCUP is issued by Eastellar Team."
+conditions="Maximum supply of BUTTERCUP is 25B tokens only"
+image="https://eastellar.com/images/BUTTERCUP.png"
