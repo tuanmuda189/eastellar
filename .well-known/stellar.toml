@@ -3309,3 +3309,14 @@ fixed_number=25000000000
 desc="BUTTERCUP is issued by Eastellar Team."
 conditions="Maximum supply of BUTTERCUP is 25B tokens only"
 image="https://eastellar.com/images/BUTTERCUP.png"
+
+[[CURRENCIES]]
+code="MNFTz"
+issuer="GDCC7KQYMJXZ3RYR7BS4EJRYHQZA4VDBKSXXVYBJZVVYAMMOKT3BKX5Z"
+status="live"
+display_decimals=4
+name="MNFTz"
+fixed_number=25000000000
+desc="MNFTz is issued by Eastellar Team."
+conditions="Maximum supply of MNFTz is 25B tokens only"
+image="https://eastellar.com/images/MNFTz.png"
