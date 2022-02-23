@@ -3320,3 +3320,14 @@ fixed_number=25000000000
 desc="MNFTz is issued by Eastellar Team."
 conditions="Maximum supply of MNFTz is 25B tokens only"
 image="https://eastellar.com/images/MNFTz.png"
+
+[[CURRENCIES]]
+code="BEGONIA"
+issuer="GDVDXU55THRK2TWWVV3UCBPVX6GYSYO2GVREMM4YUPKWWVRXZY3KMWUF"
+status="live"
+display_decimals=4
+name="BEGONIA"
+fixed_number=25000000000
+desc="BEGONIA is issued by Eastellar Team."
+conditions="Maximum supply of BEGONIA is 25B tokens only"
+image="https://eastellar.com/images/BEGONIA.png"
