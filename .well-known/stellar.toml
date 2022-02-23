@@ -3331,3 +3331,14 @@ fixed_number=25000000000
 desc="BEGONIA is issued by Eastellar Team."
 conditions="Maximum supply of BEGONIA is 25B tokens only"
 image="https://eastellar.com/images/BEGONIA.png"
+
+[[CURRENCIES]]
+code="GTz"
+issuer="GBPVBDT2MOANAKGNULGQ6TVXVKYRBBGZRHSYNZ4LVJO6W5TUBW7YOERR"
+status="live"
+display_decimals=4
+name="GTz"
+fixed_number=25000000000
+desc="GTz is issued by Eastellar Team."
+conditions="Maximum supply of GTz is 25B tokens only"
+image="https://eastellar.com/images/GTz.png"
