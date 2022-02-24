@@ -3353,3 +3353,14 @@ fixed_number=25000000000
 desc="CORPSE is issued by Eastellar Team."
 conditions="Maximum supply of CORPSE is 25B tokens only"
 image="https://eastellar.com/images/CORPSE.png"
+
+[[CURRENCIES]]
+code="CORPSE"
+issuer="GANUSY2ZZW3C3XDUW5S5J3TNJ3MC7UZRKOHSGHZDTA6OC2CVLJA6DUXW"
+status="live"
+display_decimals=4
+name="CORPSE"
+fixed_number=25000000000
+desc="CORPSE is issued by Eastellar Team."
+conditions="Maximum supply of CORPSE is 25B tokens only"
+image="https://eastellar.com/images/CORPSE.png"
