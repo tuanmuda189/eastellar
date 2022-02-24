@@ -3355,12 +3355,12 @@ conditions="Maximum supply of CORPSE is 25B tokens only"
 image="https://eastellar.com/images/CORPSE.png"
 
 [[CURRENCIES]]
-code="CORPSE"
-issuer="GANUSY2ZZW3C3XDUW5S5J3TNJ3MC7UZRKOHSGHZDTA6OC2CVLJA6DUXW"
+code="CVXz"
+issuer="GAMWMQPZ6W2VHEIXL3HGQ7AON36YBIHSJPI3N7XOXSRS5TA5HDIJBW2F"
 status="live"
 display_decimals=4
-name="CORPSE"
+name="CVXz"
 fixed_number=25000000000
-desc="CORPSE is issued by Eastellar Team."
-conditions="Maximum supply of CORPSE is 25B tokens only"
-image="https://eastellar.com/images/CORPSE.png"
+desc="CVXz is issued by Eastellar Team."
+conditions="Maximum supply of CVXz is 25B tokens only"
+image="https://eastellar.com/images/CVXz.png"
