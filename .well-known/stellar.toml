@@ -3375,3 +3375,14 @@ fixed_number=25000000000
 desc="CELENDULA is issued by Eastellar Team."
 conditions="Maximum supply of CELENDULA is 25B tokens only"
 image="https://eastellar.com/images/CELENDULA.png"
+
+[[CURRENCIES]]
+code="FIDRz"
+issuer="GD6T6AYTAEAJDVXOGAMXGVQOCK2S6R5NQFIQJ6MVUXDB3AKWAGJD35YQ"
+status="live"
+display_decimals=4
+name="FIDRz"
+fixed_number=25000000000
+desc="FIDRz is issued by Eastellar Team."
+conditions="Maximum supply of FIDRz is 25B tokens only"
+image="https://eastellar.com/images/FIDRz.png"
