@@ -3364,3 +3364,14 @@ fixed_number=25000000000
 desc="CVXz is issued by Eastellar Team."
 conditions="Maximum supply of CVXz is 25B tokens only"
 image="https://eastellar.com/images/CVXz.png"
+
+[[CURRENCIES]]
+code="CELENDULA"
+issuer="GA7QW4R6YTGOFE6KMHTIGT4GX4DU2JCACDWE26EH7DSY7BXBEDOOMS4B"
+status="live"
+display_decimals=4
+name="CELENDULA"
+fixed_number=25000000000
+desc="CELENDULA is issued by Eastellar Team."
+conditions="Maximum supply of CELENDULA is 25B tokens only"
+image="https://eastellar.com/images/CELENDULA.png"
