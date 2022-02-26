@@ -3397,3 +3397,14 @@ fixed_number=25000000000
 desc="CANDYTUFT is issued by Eastellar Team."
 conditions="Maximum supply of CANDYTUFT is 25B tokens only"
 image="https://eastellar.com/images/CANDYTUFT.png"
+
+[[CURRENCIES]]
+code="HEART"
+issuer="GDI5FH6LMUDPSGZO7VYPWSCDS754GXGIDMLDSK63AWSFPIZDG2WFR67I"
+status="live"
+display_decimals=4
+name="HEART"
+fixed_number=25000000000
+desc="HEART is issued by Eastellar Team."
+conditions="Maximum supply of HEART is 25B tokens only"
+image="https://eastellar.com/images/HEART.png"
