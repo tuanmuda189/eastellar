@@ -3386,3 +3386,14 @@ fixed_number=25000000000
 desc="FIDRz is issued by Eastellar Team."
 conditions="Maximum supply of FIDRz is 25B tokens only"
 image="https://eastellar.com/images/FIDRz.png"
+
+[[CURRENCIES]]
+code="CANDYTUFT"
+issuer="GCIVW3Y2EXZABBU3AFYIROJMMD26EYDQYORMQRFRNK6ZJPDYNISOWA5Y"
+status="live"
+display_decimals=4
+name="CANDYTUFT"
+fixed_number=25000000000
+desc="CANDYTUFT is issued by Eastellar Team."
+conditions="Maximum supply of CANDYTUFT is 25B tokens only"
+image="https://eastellar.com/images/CANDYTUFT.png"
