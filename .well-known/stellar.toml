@@ -3408,3 +3408,14 @@ fixed_number=25000000000
 desc="HEART is issued by Eastellar Team."
 conditions="Maximum supply of HEART is 25B tokens only"
 image="https://eastellar.com/images/HEART.png"
+
+[[CURRENCIES]]
+code="EREMURUS"
+issuer="GCQRRPHXHSJ5JCPMRQV2BS2KP2OQ2HZOU3HMNQRPGMGO6NHQJVPI3DC2"
+status="live"
+display_decimals=4
+name="EREMURUS"
+fixed_number=25000000000
+desc="EREMURUS is issued by Eastellar Team."
+conditions="Maximum supply of EREMURUS is 25B tokens only"
+image="https://eastellar.com/images/EREMURUS.png"
