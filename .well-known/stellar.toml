@@ -3419,3 +3419,14 @@ fixed_number=25000000000
 desc="EREMURUS is issued by Eastellar Team."
 conditions="Maximum supply of EREMURUS is 25B tokens only"
 image="https://eastellar.com/images/EREMURUS.png"
+
+[[CURRENCIES]]
+code="HTz"
+issuer="GBLDS6EIXV2IXU6UYQDT5BJNCX2M4UUXF56NK4G2MAUF77KCEIICZZLN"
+status="live"
+display_decimals=4
+name="HTz"
+fixed_number=25000000000
+desc="HTz is issued by Eastellar Team."
+conditions="Maximum supply of HTz is 25B tokens only"
+image="https://eastellar.com/images/HTz.png"
