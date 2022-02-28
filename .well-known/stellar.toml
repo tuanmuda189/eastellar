@@ -3430,3 +3430,14 @@ fixed_number=25000000000
 desc="HTz is issued by Eastellar Team."
 conditions="Maximum supply of HTz is 25B tokens only"
 image="https://eastellar.com/images/HTz.png"
+
+[[CURRENCIES]]
+code="HERBRAS"
+issuer="GDVMFMKDX727VLSJFSFGEGIVT5PGMWGXWUXQHB2C5IS2YZ6SXZBNPSHY"
+status="live"
+display_decimals=4
+name="HERBRAS"
+fixed_number=25000000000
+desc="HERBRAS is issued by Eastellar Team."
+conditions="Maximum supply of HERBRAS is 25B tokens only"
+image="https://eastellar.com/images/HERBRAS.png"
