@@ -3464,3 +3464,13 @@ desc="HOLLYHOCK is issued by Eastellar Team."
 conditions="Maximum supply of HOLLYHOCK is 25B tokens only"
 image="https://eastellar.com/images/HOLLYHOCK.png"
 
+[[CURRENCIES]]
+code="ENJz"
+issuer="GAJSTSYOTJI2TTZVS4PAKT3FJFOF4QJTBWLED2PBE4XG4WI5OC734INX"
+status="live"
+display_decimals=4
+name="ENJz"
+fixed_number=25000000000
+desc="ENJz is issued by Eastellar Team."
+conditions="Maximum supply of ENJz is 25B tokens only"
+image="https://eastellar.com/images/ENJz.png"
