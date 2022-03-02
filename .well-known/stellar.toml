@@ -3474,3 +3474,15 @@ fixed_number=25000000000
 desc="ENJz is issued by Eastellar Team."
 conditions="Maximum supply of ENJz is 25B tokens only"
 image="https://eastellar.com/images/ENJz.png"
+
+[[CURRENCIES]]
+code="HYDRANGEA"
+issuer="GACY2XJUUM7HJFEM3YLDVPAADHTHUJJ6Z2ZB5DQOCFGYB2RZ64QMQ3GO"
+status="live"
+display_decimals=4
+name="HYDRANGEA"
+fixed_number=25000000000
+desc="HYDRANGEA is issued by Eastellar Team."
+conditions="Maximum supply of HYDRANGEA is 25B tokens only"
+image="https://eastellar.com/images/HYDRANGEA.png"
+
