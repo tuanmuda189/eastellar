@@ -3486,3 +3486,13 @@ desc="HYDRANGEA is issued by Eastellar Team."
 conditions="Maximum supply of HYDRANGEA is 25B tokens only"
 image="https://eastellar.com/images/HYDRANGEA.png"
 
+[[CURRENCIES]]
+code="BTTz"
+issuer="GD3YGIZNB7AWSQ3X2RPLMOW3XYBTITDPFVIRWCADFWEGYMQRLW2YXZ55"
+status="live"
+display_decimals=4
+name="BTTz"
+fixed_number=25000000000
+desc="BTTz is issued by Eastellar Team."
+conditions="Maximum supply of BTTz is 25B tokens only"
+image="https://eastellar.com/images/BTTz.png"
