@@ -3507,3 +3507,14 @@ fixed_number=25000000000
 desc="LILY is issued by Eastellar Team."
 conditions="Maximum supply of LILY is 25B tokens only"
 image="https://eastellar.com/images/LILY.png"
+
+[[CURRENCIES]]
+code="AAVEz"
+issuer="GDYTQRZK6SBVIQ6K4KHAXXMGM6EXFIBRT5ABWU6RMKLPYXSTTHKPVCIU"
+status="live"
+display_decimals=4
+name="AAVEz"
+fixed_number=25000000000
+desc="AAVEz is issued by Eastellar Team."
+conditions="Maximum supply of AAVEz is 25B tokens only"
+image="https://eastellar.com/images/AAVEz.png"
