@@ -3496,3 +3496,14 @@ fixed_number=25000000000
 desc="BTTz is issued by Eastellar Team."
 conditions="Maximum supply of BTTz is 25B tokens only"
 image="https://eastellar.com/images/BTTz.png"
+
+[[CURRENCIES]]
+code="LILY"
+issuer="GB2AB7I5HNSEGSVEG2P6N6IETSDKWFDVTMZYMFF2LGHEKEI5OJIYNKK6"
+status="live"
+display_decimals=4
+name="LILY"
+fixed_number=25000000000
+desc="LILY is issued by Eastellar Team."
+conditions="Maximum supply of LILY is 25B tokens only"
+image="https://eastellar.com/images/LILY.png"
