@@ -3518,3 +3518,14 @@ fixed_number=25000000000
 desc="AAVEz is issued by Eastellar Team."
 conditions="Maximum supply of AAVEz is 25B tokens only"
 image="https://eastellar.com/images/AAVEz.png"
+
+[[CURRENCIES]]
+code="WALLFLOWER"
+issuer="GBEVHTJTGXSIYHO43PYR7LL24HJONZ2WENXP54RVE2MC2NJ36Z7GEMWX"
+status="live"
+display_decimals=4
+name="WALLFLOWER"
+fixed_number=25000000000
+desc="WALLFLOWER is issued by Eastellar Team."
+conditions="Maximum supply of WALLFLOWER is 25B tokens only"
+image="https://eastellar.com/images/WALLFLOWER.png"
