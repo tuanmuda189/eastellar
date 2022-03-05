@@ -3540,3 +3540,14 @@ fixed_number=25000000000
 desc="KDAz is issued by Eastellar Team."
 conditions="Maximum supply of KDAz is 25B tokens only"
 image="https://eastellar.com/images/KDAz.png"
+
+[[CURRENCIES]]
+code="LIMONIUM"
+issuer="GC2GDVI5QGMRFLOC6VL7W35RSOSZCAZNZFY43HV2E2VPMDKIL2NJNIEK"
+status="live"
+display_decimals=4
+name="LIMONIUM"
+fixed_number=25000000000
+desc="LIMONIUM is issued by Eastellar Team."
+conditions="Maximum supply of LIMONIUM is 25B tokens only"
+image="https://eastellar.com/images/LIMONIUM.png"
