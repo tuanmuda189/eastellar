@@ -3551,3 +3551,14 @@ fixed_number=25000000000
 desc="LIMONIUM is issued by Eastellar Team."
 conditions="Maximum supply of LIMONIUM is 25B tokens only"
 image="https://eastellar.com/images/LIMONIUM.png"
+
+[[CURRENCIES]]
+code="ARz"
+issuer="GATSAV7O3ERAKR4RAN6OA2TXIUJ3HY5KQYD26TXP6LDMZH44Q22CDU4H"
+status="live"
+display_decimals=4
+name="ARz"
+fixed_number=25000000000
+desc="ARz is issued by Eastellar Team."
+conditions="Maximum supply of ARz is 25B tokens only"
+image="https://eastellar.com/images/ARz.png"
