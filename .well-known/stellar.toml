@@ -3562,3 +3562,14 @@ fixed_number=25000000000
 desc="ARz is issued by Eastellar Team."
 conditions="Maximum supply of ARz is 25B tokens only"
 image="https://eastellar.com/images/ARz.png"
+
+[[CURRENCIES]]
+code="NARCISSUS"
+issuer="GD3PQODSFZPUZJGDA46Y5NZVJVEHNJD7NO7OMIF7QX7QB4AUFHOHLAHE"
+status="live"
+display_decimals=4
+name="NARCISSUS"
+fixed_number=25000000000
+desc="NARCISSUS is issued by Eastellar Team."
+conditions="Maximum supply of NARCISSUS is 25B tokens only"
+image="https://eastellar.com/images/NARCISSUS.png"
