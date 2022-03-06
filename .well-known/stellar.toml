@@ -3575,17 +3575,6 @@ conditions="Maximum supply of NARCISSUS is 25B tokens only"
 image="https://eastellar.com/images/NARCISSUS.png"
 
 [[CURRENCIES]]
-code="NARCISSUS"
-issuer="GD3PQODSFZPUZJGDA46Y5NZVJVEHNJD7NO7OMIF7QX7QB4AUFHOHLAHE"
-status="live"
-display_decimals=4
-name="NARCISSUS"
-fixed_number=25000000000
-desc="NARCISSUS is issued by Eastellar Team."
-conditions="Maximum supply of NARCISSUS is 25B tokens only"
-image="https://eastellar.com/images/NARCISSUS.png"
-
-[[CURRENCIES]]
 code="XECz"
 issuer="GAETEMGFCGA4ZL2SORV6U66ACQDP6BMVYGSFCCXIBUMRV6XH57UPZ2IM"
 status="live"
