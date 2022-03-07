@@ -3595,3 +3595,14 @@ fixed_number=25000000000
 desc="ORNITHOGALUM is issued by Eastellar Team."
 conditions="Maximum supply of ORNITHOGALUM is 25B tokens only"
 image="https://eastellar.com/images/ORNITHOGALUM.png"
+
+[[CURRENCIES]]
+code="ANCz"
+issuer="GBRIMV5KCSF5SL4PL4DRCOTVQA5GX27D243KTPI4Z4KOT3J2WFEP73MM"
+status="live"
+display_decimals=4
+name="ANCz"
+fixed_number=25000000000
+desc="ANCz is issued by Eastellar Team."
+conditions="Maximum supply of ANCz is 25B tokens only"
+image="https://eastellar.com/images/ANCz.png"
