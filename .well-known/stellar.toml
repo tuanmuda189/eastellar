@@ -3584,3 +3584,14 @@ fixed_number=25000000000
 desc="XECz is issued by Eastellar Team."
 conditions="Maximum supply of XECz is 25B tokens only"
 image="https://eastellar.com/images/XECz.png"
+
+[[CURRENCIES]]
+code="ORNITHOGALUM"
+issuer="GATP6CWMZJ4Y5AX7RU4VFT3BQMI66G52STOOOLA4H4SCKENVTXYR7SUT"
+status="live"
+display_decimals=4
+name="ORNITHOGALUM"
+fixed_number=25000000000
+desc="ORNITHOGALUM is issued by Eastellar Team."
+conditions="Maximum supply of ORNITHOGALUM is 25B tokens only"
+image="https://eastellar.com/images/ORNITHOGALUM.png"
