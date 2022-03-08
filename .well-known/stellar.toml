@@ -3606,3 +3606,14 @@ fixed_number=25000000000
 desc="ANCz is issued by Eastellar Team."
 conditions="Maximum supply of ANCz is 25B tokens only"
 image="https://eastellar.com/images/ANCz.png"
+
+[[CURRENCIES]]
+code="TIGERLILY"
+issuer="GBXM6LDMEJAMYW22EKUUXLYS5CWQCPJHDMDGIJZOEJ3LZHYA4QYJ3CJ2"
+status="live"
+display_decimals=4
+name="TIGERLILY"
+fixed_number=25000000000
+desc="TIGERLILY is issued by Eastellar Team."
+conditions="Maximum supply of TIGERLILY is 25B tokens only"
+image="https://eastellar.com/images/TIGERLILY.gif"
