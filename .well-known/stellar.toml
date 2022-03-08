@@ -3617,3 +3617,14 @@ fixed_number=25000000000
 desc="TIGERLILY is issued by Eastellar Team."
 conditions="Maximum supply of TIGERLILY is 25B tokens only"
 image="https://eastellar.com/images/TIGERLILY.gif"
+
+[[CURRENCIES]]
+code="USTz"
+issuer="GC5MLJLZVOSAFPQEDNATZWUM7IEJLDP2JDZBS4AW3AENJ3H7BJCYQVOF"
+status="live"
+display_decimals=4
+name="USTz"
+fixed_number=25000000000
+desc="USTz is issued by Eastellar Team."
+conditions="Maximum supply of USTz is 25B tokens only"
+image="https://eastellar.com/images/USTz.png"
