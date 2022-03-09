@@ -3628,3 +3628,14 @@ fixed_number=25000000000
 desc="USTz is issued by Eastellar Team."
 conditions="Maximum supply of USTz is 25B tokens only"
 image="https://eastellar.com/images/USTz.png"
+
+[[CURRENCIES]]
+code="PEARL"
+issuer="GCGHPKQX4NGBWFGAF35IH7U2MIY5WOFXSDRM4G23ZW5F5Z25XEIVOEAT"
+status="live"
+display_decimals=4
+name="PEARL"
+fixed_number=25000000000
+desc="PEARL is issued by Eastellar Team."
+conditions="Maximum supply of PEARL is 25B tokens only"
+image="https://eastellar.com/images/PEARL.png"
