@@ -3639,3 +3639,14 @@ fixed_number=25000000000
 desc="PEARL is issued by Eastellar Team."
 conditions="Maximum supply of PEARL is 25B tokens only"
 image="https://eastellar.com/images/PEARL.png"
+
+[[CURRENCIES]]
+code="LTCz"
+issuer="GAZJROPWWZEOJFMLNPKZFHYYJTTYHO65XGD4KZK3UKFUQ377RHIABEKA"
+status="live"
+display_decimals=4
+name="LTCz"
+fixed_number=25000000000
+desc="LTCz is issued by Eastellar Team."
+conditions="Maximum supply of LTCz is 25B tokens only"
+image="https://eastellar.com/images/LTCz.png"
