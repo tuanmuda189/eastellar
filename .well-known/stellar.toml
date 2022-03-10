@@ -3661,3 +3661,14 @@ fixed_number=25000000000
 desc="ANNESLACE is issued by Eastellar Team."
 conditions="Maximum supply of ANNESLACE is 25B tokens only"
 image="https://eastellar.com/images/ANNESLACE.png"
+
+[[CURRENCIES]]
+code="FTTz"
+issuer="GDCQBQUPIYAHBEE7STGYPN3LQEEHMHQ4VEVNX2HT4XZAYTCF4C6Y43GA"
+status="live"
+display_decimals=4
+name="FTTz"
+fixed_number=25000000000
+desc="FTTz is issued by Eastellar Team."
+conditions="Maximum supply of FTTz is 25B tokens only"
+image="https://eastellar.com/images/FTTz.png"
