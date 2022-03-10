@@ -3650,3 +3650,14 @@ fixed_number=25000000000
 desc="LTCz is issued by Eastellar Team."
 conditions="Maximum supply of LTCz is 25B tokens only"
 image="https://eastellar.com/images/LTCz.png"
+
+[[CURRENCIES]]
+code="ANNESLACE"
+issuer="GCI3XPREU2FN6XLXPEXAOIWYOCA2JL6ERYQ3ZLEAYU3KFGDGA5MKO3IW"
+status="live"
+display_decimals=4
+name="ANNESLACE"
+fixed_number=25000000000
+desc="ANNESLACE is issued by Eastellar Team."
+conditions="Maximum supply of ANNESLACE is 25B tokens only"
+image="https://eastellar.com/images/ANNESLACE.png"
