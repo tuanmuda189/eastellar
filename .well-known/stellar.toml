@@ -3683,3 +3683,14 @@ fixed_number=25000000000
 desc="RHODODENDRON is issued by Eastellar Team."
 conditions="Maximum supply of RHODODENDRON is 25B tokens only"
 image="https://eastellar.com/images/RHODODENDRON.png"   
+
+[[CURRENCIES]]
+code="BCHz"
+issuer="GDQJLDSZROF6F4NLZXBJFWO6BTXAQMXBRJ4BGKMKOZVRFKRASKJZFWJA"
+status="live"
+display_decimals=4
+name="BCHz"
+fixed_number=25000000000
+desc="BCHz is issued by Eastellar Team."
+conditions="Maximum supply of BCHz is 25B tokens only"
+image="https://eastellar.com/images/BCHz.png"  
