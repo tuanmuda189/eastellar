@@ -3672,3 +3672,14 @@ fixed_number=25000000000
 desc="FTTz is issued by Eastellar Team."
 conditions="Maximum supply of FTTz is 25B tokens only"
 image="https://eastellar.com/images/FTTz.png"
+
+[[CURRENCIES]]
+code="RHODODENDRON"
+issuer="GCDKAXEVSGBSHMC3TUMPCVXR5ZNZSA2SI6YVVLG75LAQVKUZMDX7AFRV"
+status="live"
+display_decimals=4
+name="RHODODENDRON"
+fixed_number=25000000000
+desc="RHODODENDRON is issued by Eastellar Team."
+conditions="Maximum supply of RHODODENDRON is 25B tokens only"
+image="https://eastellar.com/images/RHODODENDRON.png"   
