@@ -3706,3 +3706,13 @@ desc="WILDCARROT is issued by Eastellar Team."
 conditions="Maximum supply of WILDCARROT is 25B tokens only"
 image="https://eastellar.com/images/WILDCARROT.png"  
 
+[[CURRENCIES]]
+code="XTZz"
+issuer="GAURU3CM4335LIUKRPLEA5C5KDWHDLYNJGQPADKC2DJ5KQI437IRSRMN"
+status="live"
+display_decimals=4
+name="XTZz"
+fixed_number=25000000000
+desc="XTZz is issued by Eastellar Team."
+conditions="Maximum supply of XTZz is 25B tokens only"
+image="https://eastellar.com/images/XTZz.png"  
