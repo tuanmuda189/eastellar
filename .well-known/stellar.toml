@@ -3694,3 +3694,15 @@ fixed_number=25000000000
 desc="BCHz is issued by Eastellar Team."
 conditions="Maximum supply of BCHz is 25B tokens only"
 image="https://eastellar.com/images/BCHz.png"  
+
+[[CURRENCIES]]
+code="WILDCARROT"
+issuer="GDUQTWWQ6T43HEWDP62P76VYWW7TOMTEFOQVYN25ZISWV5BFYCJ4SHFW"
+status="live"
+display_decimals=4
+name="WILDCARROT"
+fixed_number=25000000000
+desc="WILDCARROT is issued by Eastellar Team."
+conditions="Maximum supply of WILDCARROT is 25B tokens only"
+image="https://eastellar.com/images/WILDCARROT.png"  
+
