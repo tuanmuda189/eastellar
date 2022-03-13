@@ -3716,3 +3716,14 @@ fixed_number=25000000000
 desc="XTZz is issued by Eastellar Team."
 conditions="Maximum supply of XTZz is 25B tokens only"
 image="https://eastellar.com/images/XTZz.png"  
+
+[[CURRENCIES]]
+code="PAEONIA"
+issuer="GCGI5U2FJUIKIYLXXJYFWY5AYLDX5I4FOIEVRG36MA3CT3KMTYP5NKDY"
+status="live"
+display_decimals=4
+name="PAEONIA"
+fixed_number=25000000000
+desc="PAEONIA is issued by Eastellar Team."
+conditions="Maximum supply of PAEONIA is 25B tokens only"
+image="https://eastellar.com/images/PAEONIA.png"  
