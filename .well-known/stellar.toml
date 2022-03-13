@@ -3727,3 +3727,14 @@ fixed_number=25000000000
 desc="PAEONIA is issued by Eastellar Team."
 conditions="Maximum supply of PAEONIA is 25B tokens only"
 image="https://eastellar.com/images/PAEONIA.png"  
+
+[[CURRENCIES]]
+code="SXPz"
+issuer="GBB4H3UDGNL2IPITX2T33RWQXD4AIUO7U7YNITDAF7P5DJOLM5ULMG6F"
+status="live"
+display_decimals=4
+name="SXPz"
+fixed_number=25000000000
+desc="SXPz is issued by Eastellar Team."
+conditions="Maximum supply of SXPz is 25B tokens only"
+image="https://eastellar.com/images/SXPz.png"
