@@ -3750,4 +3750,14 @@ desc="ACROPORA is issued by Eastellar Team."
 conditions="Maximum supply of ACROPORA is 25B tokens only"
 image="https://eastellar.com/images/ACROPORA.png"
 
+[[CURRENCIES]]
+code="POLYz"
+issuer="GDT7NECZQAOJ6JGKC3QSAOBMTPIAD7EPQKOIDZZXUZXMW2YAKY3FMIID"
+status="live"
+display_decimals=4
+name="POLYz"
+fixed_number=25000000000
+desc="POLYz is issued by Eastellar Team."
+conditions="Maximum supply of POLYz is 25B tokens only"
+image="https://eastellar.com/images/POLYz.png"
 
