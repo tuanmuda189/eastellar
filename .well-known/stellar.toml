@@ -3739,4 +3739,15 @@ desc="SXPz is issued by Eastellar Team."
 conditions="Maximum supply of SXPz is 25B tokens only"
 image="https://eastellar.com/images/SXPz.png"
 
+[[CURRENCIES]]
+code="ACROPORA"
+issuer="GAV73SE6NDIH54EYIM4FGAQMDPKQL4N3LCG5LM45JYFGPS7XK32M3PER"
+status="live"
+display_decimals=4
+name="ACROPORA"
+fixed_number=25000000000
+desc="ACROPORA is issued by Eastellar Team."
+conditions="Maximum supply of ACROPORA is 25B tokens only"
+image="https://eastellar.com/images/ACROPORA.png"
+
 
