@@ -3761,3 +3761,14 @@ desc="POLYz is issued by Eastellar Team."
 conditions="Maximum supply of POLYz is 25B tokens only"
 image="https://eastellar.com/images/POLYz.png"
 
+[[CURRENCIES]]
+code="LOBOPHYLLIA"
+issuer="GB6E566UCU6WJ6WFKM6MFTUXTCT3OHZALSNAIX3J7TBEIIIBBX6U5ECY"
+status="live"
+display_decimals=4
+name="LOBOPHYLLIA"
+fixed_number=25000000000
+desc="LOBOPHYLLIA is issued by Eastellar Team."
+conditions="Maximum supply of LOBOPHYLLIA is 25B tokens only"
+image="https://eastellar.com/images/LOBOPHYLLIA.png"
+
