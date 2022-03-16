@@ -3793,3 +3793,14 @@ fixed_number=25000000000
 desc="ELEGANTULA is issued by Eastellar Team."
 conditions="Maximum supply of ELEGANTULA is 25B tokens only"
 image="https://eastellar.com/images/ELEGANTULA.png"
+
+[[CURRENCIES]]
+code="FILz"
+issuer="GBZIUUANVTQXO3NN247LOSNEFDNZPOSVUETHRTWNHMEBQA6X3ZNGOSKM"
+status="live"
+display_decimals=4
+name="FILz"
+fixed_number=25000000000
+desc="FILz is issued by Eastellar Team."
+conditions="Maximum supply of FILz is 25B tokens only"
+image="https://eastellar.com/images/FILz.png"
