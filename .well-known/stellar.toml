@@ -3782,3 +3782,14 @@ fixed_number=25000000000
 desc="KLAYz is issued by Eastellar Team."
 conditions="Maximum supply of KLAYz is 25B tokens only"
 image="https://eastellar.com/images/KLAYz.png"
+
+[[CURRENCIES]]
+code="ELEGANTULA"
+issuer="GDIK7SE4CLHUTFGLIHDBGY3FFZLRGN57BOVPXSBK56IQCIESH4NDBXLR"
+status="live"
+display_decimals=4
+name="ELEGANTULA"
+fixed_number=25000000000
+desc="ELEGANTULA is issued by Eastellar Team."
+conditions="Maximum supply of ELEGANTULA is 25B tokens only"
+image="https://eastellar.com/images/ELEGANTULA.png"
