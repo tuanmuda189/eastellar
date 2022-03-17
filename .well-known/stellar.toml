@@ -3804,3 +3804,14 @@ fixed_number=25000000000
 desc="FILz is issued by Eastellar Team."
 conditions="Maximum supply of FILz is 25B tokens only"
 image="https://eastellar.com/images/FILz.png"
+
+[[CURRENCIES]]
+code="GALAXEA"
+issuer="GCJMRE7B3PA2FUIRO6JAMU776MGAZUAGQS6IELIVFOZFRCPBKPCUP3CD"
+status="live"
+display_decimals=4
+name="GALAXEA"
+fixed_number=25000000000
+desc="GALAXEA is issued by Eastellar Team."
+conditions="Maximum supply of GALAXEA is 25B tokens only"
+image="https://eastellar.com/images/GALAXEA.png"
