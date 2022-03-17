@@ -3815,3 +3815,14 @@ fixed_number=25000000000
 desc="GALAXEA is issued by Eastellar Team."
 conditions="Maximum supply of GALAXEA is 25B tokens only"
 image="https://eastellar.com/images/GALAXEA.png"
+
+[[CURRENCIES]]
+code="OKBz"
+issuer="GBGCZJ6VUEEUMOTK3EKBD7GBOTECUH5EWOJYCNHPK3P4KCXALYKA3WIA"
+status="live"
+display_decimals=4
+name="OKBz"
+fixed_number=25000000000
+desc="OKBz is issued by Eastellar Team."
+conditions="Maximum supply of OKBz is 25B tokens only"
+image="https://eastellar.com/images/OKBz.png"
