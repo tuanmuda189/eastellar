@@ -3826,3 +3826,14 @@ fixed_number=25000000000
 desc="OKBz is issued by Eastellar Team."
 conditions="Maximum supply of OKBz is 25B tokens only"
 image="https://eastellar.com/images/OKBz.png"
+
+[[CURRENCIES]]
+code="ACUMINATE"
+issuer="GAAEIXAYEYG66RBRNIFAE37AJCMNSAP3ECLZDYHWZWOOXXVKLBRDNAYA"
+status="live"
+display_decimals=4
+name="ACUMINATE"
+fixed_number=25000000000
+desc="ACUMINATE is issued by Eastellar Team."
+conditions="Maximum supply of ACUMINATE is 25B tokens only"
+image="https://eastellar.com/images/ACUMINATE.png"
