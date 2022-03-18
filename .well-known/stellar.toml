@@ -3837,3 +3837,14 @@ fixed_number=25000000000
 desc="ACUMINATE is issued by Eastellar Team."
 conditions="Maximum supply of ACUMINATE is 25B tokens only"
 image="https://eastellar.com/images/ACUMINATE.png"
+
+[[CURRENCIES]]
+code="IOTXz"
+issuer="GCNUAXF3RHVSFDQEIJLAL4DYEH2GI5WCDZLAJCDEDDDWW6SX33PCSUQY"
+status="live"
+display_decimals=4
+name="IOTXz"
+fixed_number=25000000000
+desc="IOTXz is issued by Eastellar Team."
+conditions="Maximum supply of IOTXz is 25B tokens only"
+image="https://eastellar.com/images/IOTXz.png"
