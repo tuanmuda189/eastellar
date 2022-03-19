@@ -3859,3 +3859,14 @@ fixed_number=25000000000
 desc="CERVICORNIS is issued by Eastellar Team."
 conditions="Maximum supply of CERVICORNIS is 25B tokens only"
 image="https://eastellar.com/images/CERVICORNIS.png"
+
+[[CURRENCIES]]
+code="HOTz"
+issuer="GDKXMQCH7SXSJT5RW7JV74VNLC3RY44RJUA2PL7I3HJCHUTGZPTXE5YZ"
+status="live"
+display_decimals=4
+name="HOTz"
+fixed_number=25000000000
+desc="HOTz is issued by Eastellar Team."
+conditions="Maximum supply of HOTz is 25B tokens only"
+image="https://eastellar.com/images/HOTz.png"
