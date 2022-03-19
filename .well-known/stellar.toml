@@ -3848,3 +3848,14 @@ fixed_number=25000000000
 desc="IOTXz is issued by Eastellar Team."
 conditions="Maximum supply of IOTXz is 25B tokens only"
 image="https://eastellar.com/images/IOTXz.png"
+
+[[CURRENCIES]]
+code="CERVICORNIS"
+issuer="GBB3WKW7Q4BC5AAAGLS5DFXXXGXRL6VY3EEP2IDVZO5SD35ZM4S7VQDU"
+status="live"
+display_decimals=4
+name="CERVICORNIS"
+fixed_number=25000000000
+desc="CERVICORNIS is issued by Eastellar Team."
+conditions="Maximum supply of CERVICORNIS is 25B tokens only"
+image="https://eastellar.com/images/CERVICORNIS.png"
