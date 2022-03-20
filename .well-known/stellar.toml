@@ -3881,3 +3881,14 @@ fixed_number=25000000000
 desc="HEMPRICHII is issued by Eastellar Team."
 conditions="Maximum supply of HEMPRICHII is 25B tokens only"
 image="https://eastellar.com/images/HEMPRICHII.png"
+
+[[CURRENCIES]]
+code="USDNz"
+issuer="GDEDQN52BRGLRK3RUQ5JFWBIJB6KFWCMNHHI4472ASVRBYJZ45LUDKV4"
+status="live"
+display_decimals=4
+name="USDNz"
+fixed_number=25000000000
+desc="USDNz is issued by Eastellar Team."
+conditions="Maximum supply of USDNz is 25B tokens only"
+image="https://eastellar.com/images/USDNz.png"
