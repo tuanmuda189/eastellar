@@ -3870,3 +3870,14 @@ fixed_number=25000000000
 desc="HOTz is issued by Eastellar Team."
 conditions="Maximum supply of HOTz is 25B tokens only"
 image="https://eastellar.com/images/HOTz.png"
+
+[[CURRENCIES]]
+code="HEMPRICHII"
+issuer="GC6QFFV2KM2AB46CGY67ISTRNZURSTAKWN76S6PJJO4V75OVCJHQ3ZL3"
+status="live"
+display_decimals=4
+name="HEMPRICHII"
+fixed_number=25000000000
+desc="HEMPRICHII is issued by Eastellar Team."
+conditions="Maximum supply of HEMPRICHII is 25B tokens only"
+image="https://eastellar.com/images/HEMPRICHII.png"
