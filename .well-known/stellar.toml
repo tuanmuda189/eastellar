@@ -3903,3 +3903,14 @@ fixed_number=25000000000
 desc="MYCEDIUM is issued by Eastellar Team."
 conditions="Maximum supply of MYCEDIUM is 25B tokens only"
 image="https://eastellar.com/images/MYCEDIUM.png"
+
+[[CURRENCIES]]
+code="SCRTz"
+issuer="GAWEZNZMY2FMZZ545XSKIPAW6HUIYZKADSEFX6IIH6N5YWJKN5I4VYXJ"
+status="live"
+display_decimals=4
+name="SCRTz"
+fixed_number=25000000000
+desc="SCRTz is issued by Eastellar Team."
+conditions="Maximum supply of SCRTz is 25B tokens only"
+image="https://eastellar.com/images/SCRTz.png"
