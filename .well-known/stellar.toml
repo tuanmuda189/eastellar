@@ -3892,3 +3892,14 @@ fixed_number=25000000000
 desc="USDNz is issued by Eastellar Team."
 conditions="Maximum supply of USDNz is 25B tokens only"
 image="https://eastellar.com/images/USDNz.png"
+
+[[CURRENCIES]]
+code="MYCEDIUM"
+issuer="GC5N45SZRHYGMZMAT3NA47DW7NOX4LRSDUVOFJOLKXM7CVVPM4XAO6QB"
+status="live"
+display_decimals=4
+name="MYCEDIUM"
+fixed_number=25000000000
+desc="MYCEDIUM is issued by Eastellar Team."
+conditions="Maximum supply of MYCEDIUM is 25B tokens only"
+image="https://eastellar.com/images/MYCEDIUM.png"
