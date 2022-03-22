@@ -3925,3 +3925,14 @@ fixed_number=25000000000
 desc="ELEPHANTOTUS is issued by Eastellar Team."
 conditions="Maximum supply of ELEPHANTOTUS is 25B tokens only"
 image="https://eastellar.com/images/ELEPHANTOTUS.png"
+
+[[CURRENCIES]]
+code="APEz"
+issuer="GDUQJIXOP2WBVDHP5EUMBG5SEAYJU43QBRUXXUTW6MBG54C2QRR7MVQJ"
+status="live"
+display_decimals=4
+name="APEz"
+fixed_number=25000000000
+desc="APEz is issued by Eastellar Team."
+conditions="Maximum supply of APEz is 25B tokens only"
+image="https://eastellar.com/images/APEz.png"
