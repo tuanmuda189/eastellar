@@ -3914,3 +3914,14 @@ fixed_number=25000000000
 desc="SCRTz is issued by Eastellar Team."
 conditions="Maximum supply of SCRTz is 25B tokens only"
 image="https://eastellar.com/images/SCRTz.png"
+
+[[CURRENCIES]]
+code="ELEPHANTOTUS"
+issuer="GC3OKI7VZ7LDFZJR4O754M57G6RZLB6L7Q75FUXSIZEBZPJRXFK5RKXP"
+status="live"
+display_decimals=4
+name="ELEPHANTOTUS"
+fixed_number=25000000000
+desc="ELEPHANTOTUS is issued by Eastellar Team."
+conditions="Maximum supply of ELEPHANTOTUS is 25B tokens only"
+image="https://eastellar.com/images/ELEPHANTOTUS.png"
