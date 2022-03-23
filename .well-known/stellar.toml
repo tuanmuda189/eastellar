@@ -3947,3 +3947,14 @@ fixed_number=25000000000
 desc="OXYPORA is issued by Eastellar Team."
 conditions="Maximum supply of OXYPORA is 25B tokens only"
 image="https://eastellar.com/images/OXYPORA.png"
+
+[[CURRENCIES]]
+code="1INCHz"
+issuer="GDNKRZEQXD2Z7HBJIS6EMICQKYOLPQQ3PCGNYAJU4AC6VGIHFSPS7PNN"
+status="live"
+display_decimals=4
+name="1INCHz"
+fixed_number=25000000000
+desc="1INCHz is issued by Eastellar Team."
+conditions="Maximum supply of 1INCHz is 25B tokens only"
+image="https://eastellar.com/images/1INCHz.png"
