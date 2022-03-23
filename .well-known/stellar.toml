@@ -3936,3 +3936,14 @@ fixed_number=25000000000
 desc="APEz is issued by Eastellar Team."
 conditions="Maximum supply of APEz is 25B tokens only"
 image="https://eastellar.com/images/APEz.png"
+
+[[CURRENCIES]]
+code="OXYPORA"
+issuer="GBQJBPYSD7UTWJJMLAENKYXBBNPAGBMQI4JBGW7BKF25OB3NZZWJARGT"
+status="live"
+display_decimals=4
+name="OXYPORA"
+fixed_number=25000000000
+desc="OXYPORA is issued by Eastellar Team."
+conditions="Maximum supply of OXYPORA is 25B tokens only"
+image="https://eastellar.com/images/OXYPORA.png"
