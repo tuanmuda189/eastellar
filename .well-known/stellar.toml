@@ -3958,3 +3958,14 @@ fixed_number=25000000000
 desc="1INCHz is issued by Eastellar Team."
 conditions="Maximum supply of 1INCHz is 25B tokens only"
 image="https://eastellar.com/images/1INCHz.png"
+
+[[CURRENCIES]]
+code="LARECA"
+issuer="GAXYAUC7BN2WP77D3BAAVBX7U73DGCA5UFPX2RBU26YIGCJ424QOP5MM"
+status="live"
+display_decimals=4
+name="LARECA"
+fixed_number=25000000000
+desc="LARECA is issued by Eastellar Team."
+conditions="Maximum supply of LARECA is 25B tokens only"
+image="https://eastellar.com/images/LARECA.png"
