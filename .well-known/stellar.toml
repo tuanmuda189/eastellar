@@ -3969,3 +3969,14 @@ fixed_number=25000000000
 desc="LARECA is issued by Eastellar Team."
 conditions="Maximum supply of LARECA is 25B tokens only"
 image="https://eastellar.com/images/LARECA.png"
+
+[[CURRENCIES]]
+code="WAXPz"
+issuer="GAHG4SKHYSOHCE3UGR3NAIB7CGT4TTGFZJ6T6M3GZAFGJ4QSTEK2CXRO"
+status="live"
+display_decimals=4
+name="WAXPz"
+fixed_number=25000000000
+desc="WAXPz is issued by Eastellar Team."
+conditions="Maximum supply of WAXPz is 25B tokens only"
+image="https://eastellar.com/images/WAXPz.png"
