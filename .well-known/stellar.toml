@@ -3991,3 +3991,14 @@ fixed_number=25000000000
 desc="PECTINIA is issued by Eastellar Team."
 conditions="Maximum supply of PECTINIA is 25B tokens only"
 image="https://eastellar.com/images/PECTINIA.png"
+
+[[CURRENCIES]]
+code="AUDIOz"
+issuer="GDO2JJCZ4ECY5F4I5EJCFNLQJRXJ3DAZUFCTH7XUOY7DVCFCCJ6OA3IE"
+status="live"
+display_decimals=4
+name="AUDIOz"
+fixed_number=25000000000
+desc="AUDIOz is issued by Eastellar Team."
+conditions="Maximum supply of AUDIOz is 25B tokens only"
+image="https://eastellar.com/images/AUDIOz.png"
