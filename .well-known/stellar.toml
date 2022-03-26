@@ -4013,3 +4013,14 @@ fixed_number=25000000000
 desc="LACTUCA is issued by Eastellar Team."
 conditions="Maximum supply of LACTUCA is 25B tokens only"
 image="https://eastellar.com/images/LACTUCA.png"
+
+[[CURRENCIES]]
+code="BNTz"
+issuer="GDNY7W2IBVYNPB7EVZQQLENLGGUQVRQQOFCBEPYKHBFE2U7UGSZKJ7BT"
+status="live"
+display_decimals=4
+name="BNTz"
+fixed_number=25000000000
+desc="BNTz is issued by Eastellar Team."
+conditions="Maximum supply of BNTz is 25B tokens only"
+image="https://eastellar.com/images/BNTz.png"
