@@ -4002,3 +4002,14 @@ fixed_number=25000000000
 desc="AUDIOz is issued by Eastellar Team."
 conditions="Maximum supply of AUDIOz is 25B tokens only"
 image="https://eastellar.com/images/AUDIOz.png"
+
+[[CURRENCIES]]
+code="LACTUCA"
+issuer="GBHWJ22RNRX5CWHQAP6UTJRM6WE5QZAWECDAWDDKSKAIWJZLGQLNX7TR"
+status="live"
+display_decimals=4
+name="LACTUCA"
+fixed_number=25000000000
+desc="LACTUCA is issued by Eastellar Team."
+conditions="Maximum supply of LACTUCA is 25B tokens only"
+image="https://eastellar.com/images/LACTUCA.png"
