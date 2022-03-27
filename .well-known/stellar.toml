@@ -4024,3 +4024,14 @@ fixed_number=25000000000
 desc="BNTz is issued by Eastellar Team."
 conditions="Maximum supply of BNTz is 25B tokens only"
 image="https://eastellar.com/images/BNTz.png"
+
+[[CURRENCIES]]
+code="CORYMBOSA"
+issuer="GAM7BSFPGTCX5NZFSND2E77VNBFNVJGVHDWYOYWBFG2YHXIHAONV3P26"
+status="live"
+display_decimals=4
+name="CORYMBOSA"
+fixed_number=25000000000
+desc="CORYMBOSA is issued by Eastellar Team."
+conditions="Maximum supply of CORYMBOSA is 25B tokens only"
+image="https://eastellar.com/images/CORYMBOSA.png"
