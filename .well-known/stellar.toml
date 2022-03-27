@@ -4035,3 +4035,14 @@ fixed_number=25000000000
 desc="CORYMBOSA is issued by Eastellar Team."
 conditions="Maximum supply of CORYMBOSA is 25B tokens only"
 image="https://eastellar.com/images/CORYMBOSA.png"
+
+[[CURRENCIES]]
+code="RNDRz"
+issuer="GCH4EUCRWL5IR346X2Q6WYCBP7R7J35OTKL6SDDGHIF6Q6WXYYGQ55UA"
+status="live"
+display_decimals=4
+name="RNDRz"
+fixed_number=25000000000
+desc="RNDRz is issued by Eastellar Team."
+conditions="Maximum supply of RNDRz is 25B tokens only"
+image="https://eastellar.com/images/RNDRz.png"
