@@ -4057,3 +4057,14 @@ fixed_number=25000000000
 desc="MUSHROOM is issued by Eastellar Team."
 conditions="Maximum supply of MUSHROOM is 25B tokens only"
 image="https://eastellar.com/images/MUSHROOM.png"
+
+[[CURRENCIES]]
+code="BTGz"
+issuer="GD3P2K7JNVG6COO7NRBZ7LKVSAD7BILGGGADIU7C26UBITW42OREELSA"
+status="live"
+display_decimals=4
+name="BTGz"
+fixed_number=25000000000
+desc="BTGz is issued by Eastellar Team."
+conditions="Maximum supply of BTGz is 25B tokens only"
+image="https://eastellar.com/images/BTGz.png"
