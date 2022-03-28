@@ -4046,3 +4046,14 @@ fixed_number=25000000000
 desc="RNDRz is issued by Eastellar Team."
 conditions="Maximum supply of RNDRz is 25B tokens only"
 image="https://eastellar.com/images/RNDRz.png"
+
+[[CURRENCIES]]
+code="MUSHROOM"
+issuer="GANTQA5CV7VDV47A27AFCV2BMGLNE3JCIEFCVYSKQAWQXBANIWO4KEKX"
+status="live"
+display_decimals=4
+name="MUSHROOM"
+fixed_number=25000000000
+desc="MUSHROOM is issued by Eastellar Team."
+conditions="Maximum supply of MUSHROOM is 25B tokens only"
+image="https://eastellar.com/images/MUSHROOM.png"
