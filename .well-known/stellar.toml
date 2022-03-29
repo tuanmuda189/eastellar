@@ -4079,3 +4079,14 @@ fixed_number=25000000000
 desc="BRANCHING is issued by Eastellar Team."
 conditions="Maximum supply of BRANCHING is 25B tokens only"
 image="https://eastellar.com/images/BRANCHING.png"
+
+[[CURRENCIES]]
+code="OMGz"
+issuer="GBTS7RXPP7GZJJ4M5Z7YK434O2QY77OCFGPWYHBK6ZS7E6RJXEL7UWAH"
+status="live"
+display_decimals=4
+name="OMGz"
+fixed_number=25000000000
+desc="OMGz is issued by Eastellar Team."
+conditions="Maximum supply of OMGz is 25B tokens only"
+image="https://eastellar.com/images/OMGz.png"
