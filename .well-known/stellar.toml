@@ -4068,3 +4068,14 @@ fixed_number=25000000000
 desc="BTGz is issued by Eastellar Team."
 conditions="Maximum supply of BTGz is 25B tokens only"
 image="https://eastellar.com/images/BTGz.png"
+
+[[CURRENCIES]]
+code="BRANCHING"
+issuer="GAHB6UU3CZF2LHLOYM42A36PTWUI5AHLQTPZ6CFR7O2Q5T2HBSFBZW3C"
+status="live"
+display_decimals=4
+name="BRANCHING"
+fixed_number=25000000000
+desc="BRANCHING is issued by Eastellar Team."
+conditions="Maximum supply of BRANCHING is 25B tokens only"
+image="https://eastellar.com/images/BRANCHING.png"
