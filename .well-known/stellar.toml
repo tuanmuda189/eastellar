@@ -4090,3 +4090,14 @@ fixed_number=25000000000
 desc="OMGz is issued by Eastellar Team."
 conditions="Maximum supply of OMGz is 25B tokens only"
 image="https://eastellar.com/images/OMGz.png"
+
+[[CURRENCIES]]
+code="ACROPORIDAE"
+issuer="GBCKCPPFO5COODMC7R7T2JUEBEB4UC5NVZEUFX5EJBJCSOGXYZB6EZRD"
+status="live"
+display_decimals=4
+name="ACROPORIDAE"
+fixed_number=25000000000
+desc="ACROPORIDAE is issued by Eastellar Team."
+conditions="Maximum supply of ACROPORIDAE is 25B tokens only"
+image="https://eastellar.com/images/ACROPORIDAE.png"
