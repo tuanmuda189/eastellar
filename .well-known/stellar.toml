@@ -4101,3 +4101,14 @@ fixed_number=25000000000
 desc="ACROPORIDAE is issued by Eastellar Team."
 conditions="Maximum supply of ACROPORIDAE is 25B tokens only"
 image="https://eastellar.com/images/ACROPORIDAE.png"
+
+[[CURRENCIES]]
+code="GNOz"
+issuer="GBIWJAKB3DYOOJ6DUUUB3HPOTDQTPGI37XUEJ35NIGIL2H6DZ2BN6XRE"
+status="live"
+display_decimals=4
+name="GNOz"
+fixed_number=25000000000
+desc="GNOz is issued by Eastellar Team."
+conditions="Maximum supply of GNOz is 25B tokens only"
+image="https://eastellar.com/images/GNOz.png"
