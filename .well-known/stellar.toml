@@ -4112,3 +4112,14 @@ fixed_number=25000000000
 desc="GNOz is issued by Eastellar Team."
 conditions="Maximum supply of GNOz is 25B tokens only"
 image="https://eastellar.com/images/GNOz.png"
+
+[[CURRENCIES]]
+code="DASHz"
+issuer="GDVTH7GDCV5MDWNR2KXF4SISZ6DAJGC343VR46HZN6LNI5ELI6KBGL5L"
+status="live"
+display_decimals=4
+name="DASHz"
+fixed_number=25000000000
+desc="DASHz is issued by Eastellar Team."
+conditions="Maximum supply of DASHz is 25B tokens only"
+image="https://Eastellar.com/images/DASHZ.png"
