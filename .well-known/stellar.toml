@@ -16,3 +16,4106 @@ fixed_number=25000000000
 desc="MOBI is issued by Eastellar Team."
 conditions="Maximum supply of MOBI is 25B tokens only"
 image="https://eastellar.com/images/MOBI.png"
+
+[[CURRENCIES]]
+code="ETH"
+issuer="GC6PSOITVG5KWEX65IATGG5YSBVAIWTXBRGFBQYXDXCRYRPBWLATVUAZ"
+status="live"
+display_decimals=4
+name="ETH"
+fixed_number=25000000000
+desc="ETH is issued by Eastellar Team."
+conditions="Maximum supply of ETH is 25B tokens only"
+image="https://eastellar.com/images/ETH.png"
+
+[[CURRENCIES]]
+code="BTC"
+issuer="GAJNJXDW5RLA2A4UXIBKYHL3FVZSFNBIYHEYTL4BGPOOF2HKVMG3BOYE"
+status="live"
+display_decimals=4
+name="BTC"
+fixed_number=25000000000
+desc="BTC is issued by Eastellar Team."
+conditions="Maximum supply of BTC is 25B tokens only"
+image="https://eastellar.com/images/BTC.png"
+
+[[CURRENCIES]]
+code="USDT"
+issuer="GB4KYMYHJZ4JLKBRMD7UFOIFQKGXB67CUE2SV2YUVGUTQ3NE2JCEA5JD"
+status="live"
+display_decimals=4
+name="USDT"
+fixed_number=25000000000
+desc="USDT is issued by Eastellar Team."
+conditions="Maximum supply of USDT is 25B tokens only"
+image="https://eastellar.com/images/USDT.png"
+
+[[CURRENCIES]]
+code="XRP"
+issuer="GAFMMGOZ4WEO36D2RDZLJCBR563YPC4TRBAZAWLN3SAZKMZM2IJO7MP7"
+status="live"
+display_decimals=4
+name="XRP"
+fixed_number=25000000000
+desc="XRP is issued by Eastellar Team."
+conditions="Maximum supply of XRP is 25B tokens only"
+image="https://eastellar.com/images/XRP.png"
+
+[[CURRENCIES]]
+code="USDC"
+issuer="GDIQVO2M33IJUNUOI4QHFKKLAYLNGT5QKPM5ZK77GRI5UT553PSPUPRK"
+status="live"
+display_decimals=4
+name="USDC"
+fixed_number=25000000000
+desc="USDC is issued by Eastellar Team."
+conditions="Maximum supply of USDC is 25B tokens only"
+image="https://eastellar.com/images/USDC.png"
+
+[[CURRENCIES]]
+code="LIGHTHOUSE"
+issuer="GAWYEFUBF2ECZGMU4TP22IQXMGRBJAMRZEBSHBB6O3PP7VQC7DLVKDUU"
+status="live"
+display_decimals=4
+name="LIGHTHOUSE"
+fixed_number=25000000000
+desc="LIGHTHOUSE is issued by Eastellar Team."
+conditions="Maximum supply of LIGHTHOUSE is 25B tokens only"
+image="https://eastellar.com/images/LIGHTHOUSE.png"
+
+[[CURRENCIES]]
+code="HORSE"
+issuer="GBNXX3KZDY6QZTCP5QLN6NE33WMDVZHL4G3S5NUW2OMAD67KION6GEES"
+status="live"
+display_decimals=4
+name="HORSE"
+fixed_number=25000000000
+desc="HORSE is issued by Eastellar Team."
+conditions="Maximum supply of HORSE is 25B tokens only"
+image="https://eastellar.com/images/HORSE.png"
+
+[[CURRENCIES]]
+code="WIFI"
+issuer="GABVF5DRC4VZQQASPZFSJE4MG3WBQPVKVKWUPLHQ4HTK3EOR7FDX7T6F"
+status="live"
+display_decimals=4
+name="WIFI"
+fixed_number=50000000000
+desc="WIFI is issued by Eastellar Team."
+conditions="Maximum supply of WIFI is 50B tokens only"
+image="https://eastellar.com/images/WIFI.png"
+
+[[CURRENCIES]]
+code="COSMIC"
+issuer="GDOGXSYJ4DNQVGINJ5NTDHLRHPZCAABULQABIODOK7KJUEM5Y72TIUEA"
+status="live"
+display_decimals=4
+name="COSMIC"
+fixed_number=50000000000
+desc="COSMIC is issued by Eastellar Team."
+conditions="Maximum supply of COSMIC is 50B tokens only"
+image="https://eastellar.com/images/COSMIC.png"
+
+[[CURRENCIES]]
+code="MAP"
+issuer="GBMD4K6MCHJ7LQDVB4WXXNUAJS5APTKXZE3UNYYWGLQBJAEAE6PAKRHL"
+status="live"
+display_decimals=4
+name="MAP"
+fixed_number=50000000000
+desc="MAP is issued by Eastellar Team."
+conditions="Maximum supply of MAP is 50B tokens only"
+image="https://eastellar.com/images/MAP.png"
+
+[[CURRENCIES]]
+code="CIRCLE"
+issuer="GA52EFKZU5CUZMLRDURUBXYCMXTJLGF2NX32PJY23M47Q6F6SJYZPEE3"
+status="live"
+display_decimals=4
+name="CIRCLE"
+fixed_number=50000000000
+desc="CIRCLE is issued by Eastellar Team."
+conditions="Maximum supply of CIRCLE is 50B tokens only"
+image="https://eastellar.com/images/CIRCLE.png"
+
+[[CURRENCIES]]
+code="PIXEL"
+issuer="GCOHRHDM6M5CCJ46UPQ4XWU3T7ZQ223UNGDSVSUORAIHSI5BYHV5K7MS"
+status="live"
+display_decimals=4
+name="PIXEL"
+fixed_number=25000000000
+desc="PIXEL is issued by Eastellar Team."
+conditions="Maximum supply of PIXEL is 25B tokens only"
+image="https://eastellar.com/images/PIXEL.png"
+
+[[CURRENCIES]]
+code="ONE"
+issuer="GB7ZDXTZXIQSB2CHT4QR4EGJXNOLLOWFPFHAJOH3FWQCT4GIWZ2YXID4"
+status="live"
+display_decimals=4
+name="ONE"
+fixed_number=25000000000
+desc="ONE is issued by Eastellar Team."
+conditions="Maximum supply of ONE is 25B tokens only"
+image="https://eastellar.com/images/ONE.png"
+
+[[CURRENCIES]]
+code="TELESCOPE"
+issuer="GDQ7AA2LCQAFH7S46OD4WPM6WMX5PUXMD533VSQMP2AS6ZPGTRQLWBFX"
+status="live"
+display_decimals=4
+name="TELESCOPE"
+fixed_number=25000000000
+desc="TELESCOPE is issued by Eastellar Team."
+conditions="Maximum supply of TELESCOPE is 25B tokens only"
+image="https://eastellar.com/images/TELESCOPE.png"
+
+[[CURRENCIES]]
+code="TWO"
+issuer="GBQDV6JQOYDZ3CZTRWR4F4V56Z2X64AB54D4WLZ5R56M3ZP5XQ3ABVW2"
+status="live"
+display_decimals=4
+name="TWO"
+fixed_number=25000000000
+desc="TWO is issued by Eastellar Team."
+conditions="Maximum supply of TWO is 25B tokens only"
+image="https://eastellar.com/images/TWO.png"
+
+[[CURRENCIES]]
+code="GROWTH"
+issuer="GA4I6JD2LAAGL7TVCJP744ZGG27NPYEHHSODXX52YYKQBE3KWXVM6XF6"
+status="live"
+display_decimals=4
+name="GROWTH"
+fixed_number=25000000000
+desc="GROWTH is issued by Eastellar Team."
+conditions="Maximum supply of GROWTH is 25B tokens only"
+image="https://eastellar.com/images/GROWTH.png"
+
+[[CURRENCIES]]
+code="THREE"
+issuer="GCIFIT7JB3TSFAP53RNL7G6BPZQGNWU4T4ECGO7XVOWP57LWDFJNXMBM"
+status="live"
+display_decimals=4
+name="THREE"
+fixed_number=25000000000
+desc="THREE is issued by Eastellar Team."
+conditions="Maximum supply of THREE is 25B tokens only"
+image="https://eastellar.com/images/THREE.png"
+
+[[CURRENCIES]]
+code="CROWN"
+issuer="GAVEFSSCCHWQYZZEKLFGBOKVQUGVO26XEAWNDWH53XH24U6576PK3TUG"
+status="live"
+display_decimals=4
+name="CROWN"
+fixed_number=25000000000
+desc="CROWN is issued by Eastellar Team."
+conditions="Maximum supply of CROWN is 25B tokens only"
+image="https://eastellar.com/images/CROWN.png"
+
+[[CURRENCIES]]
+code="FOUR"
+issuer="GCODENLNW6SQREVH3QTVN3EF6RJ5Q6C2RVBXQBATBCUG36YDNFZPNWZN"
+status="live"
+display_decimals=4
+name="FOUR"
+fixed_number=25000000000
+desc="FOUR is issued by Eastellar Team."
+conditions="Maximum supply of FOUR is 25B tokens only"
+image="https://eastellar.com/images/FOUR.png"
+
+[[CURRENCIES]]
+code="CAPTAIN"
+issuer="GCUMCUR6OOWWYC3JJFIWAITYJF3TNEKRENKYRW2VT4X5ST7L7VAKUY3Y"
+status="live"
+display_decimals=4
+name="CAPTAIN"
+fixed_number=25000000000
+desc="CAPTAIN is issued by Eastellar Team."
+conditions="Maximum supply of CAPTAIN is 25B tokens only"
+image="https://eastellar.com/images/CAPTAIN.png"
+
+[[CURRENCIES]]
+code="KOALA"
+issuer="GA54TNIEJTWQN7QH5N7NESV3XSTMXZBUBFUAFJPCZQBXYBGLZKKKFYHC"
+status="live"
+display_decimals=4
+name="KOALA"
+fixed_number=25000000000
+desc="KOALA is issued by Eastellar Team."
+conditions="Maximum supply of KOALA is 25B tokens only"
+image="https://eastellar.com/images/KOALA.png"
+
+[[CURRENCIES]]
+code="FIVE"
+issuer="GB2KAGTNNUYMHEFPVNZIRCM45XTM3GH3LRKYYW5BWQ2E6ZIDW3BS6ZBF"
+status="live"
+display_decimals=4
+name="FIVE"
+fixed_number=25000000000
+desc="FIVE is issued by Eastellar Team."
+conditions="Maximum supply of FIVE is 25B tokens only"
+image="https://eastellar.com/images/FIVE.png"
+
+[[CURRENCIES]]
+code="ARROW"
+issuer="GA6IBKNWVN7KTEIZR2Z3WCUOUQEUUI6B4LCPXO6KOV266LP3Q6SJLJY3"
+status="live"
+display_decimals=4
+name="ARROW"
+fixed_number=25000000000
+desc="ARROW is issued by Eastellar Team."
+conditions="Maximum supply of ARROW is 25B tokens only"
+image="https://eastellar.com/images/ARROW.png"
+
+[[CURRENCIES]]
+code="TULIPEPE"
+issuer="GDLW73H2BLCNKXWSYZKJ5MYCPZYRA7I3PUB64IWWR4PJVXGIJGTDJECK"
+status="live"
+display_decimals=4
+name="TULIPEPE"
+fixed_number=25000000000
+desc="TULIPEPE is issued by Eastellar Team."
+conditions="Maximum supply of TULIPEPE is 25B tokens only"
+image="https://eastellar.com/images/TULIPEPE.png"
+
+[[CURRENCIES]]
+code="SWOT"
+issuer="GDUHHLQZ7HYFLS5ZY7CJIMQYL6TDQ5LLNMAKIJD5TSFFWYOZJZ7MXXF6"
+status="live"
+display_decimals=4
+name="SWOT"
+fixed_number=25000000000
+desc="SWOT is issued by Eastellar Team."
+conditions="Maximum supply of SWOT is 25B tokens only"
+image="https://eastellar.com/images/SWOT.png"
+
+[[CURRENCIES]]
+code="RAPEPE"
+issuer="GAO3TQIBXFZRPVGH2PUX24BQYFIJ466THV6OLC3AEQSNWYFHDPBEBOXM"
+status="live"
+display_decimals=4
+name="RAPEPE"
+fixed_number=25000000000
+desc="RAPEPE is issued by Eastellar Team."
+conditions="Maximum supply of RAPEPE is 25B tokens only"
+image="https://eastellar.com/images/RAPEPE.png"
+
+[[CURRENCIES]]
+code="SIGNAL"
+issuer="GCB4MYKQJL2RIHQAIW52LMIQONJ7AZ44GPDY6UUQLS2GN2GNLW3IIIHH"
+status="live"
+display_decimals=4
+name="SIGNAL"
+fixed_number=25000000000
+desc="SIGNAL is issued by Eastellar Team."
+conditions="Maximum supply of SIGNAL is 25B tokens only"
+image="https://eastellar.com/images/SIGNAL.png"
+
+[[CURRENCIES]]
+code="HAND"
+issuer="GCBKYCR6O4A5BRFM6O6F4D7FJHUNYRKQGVTLQZIVUKJIHHJXM5TJMC2Z"
+status="live"
+display_decimals=4
+name="HAND"
+fixed_number=25000000000
+desc="HAND is issued by Eastellar Team."
+conditions="Maximum supply of HAND is 25B tokens only"
+image="https://eastellar.com/images/HAND.png"
+
+[[CURRENCIES]]
+code="BICEPEPE"
+issuer="GB7XBL4MLFPFLKVESFE4GAN7W2LTEUKKHFIVZ4V3BZDHK4BN4FQYDPOQ"
+status="live"
+display_decimals=4
+name="BICEPEPE"
+fixed_number=25000000000
+desc="BICEPEPE is issued by Eastellar Team."
+conditions="Maximum supply of BICEPEPE is 25B tokens only"
+image="https://eastellar.com/images/BICEPEPE.png"
+
+[[CURRENCIES]]
+code="BLEEPEPE"
+issuer="GDA3EAUYMGS4A67MEMFGHST7D47QAILSEPZLBYCZPWRFWHUZJ55JO5HY"
+status="live"
+display_decimals=4
+name="BLEEPEPE"
+fixed_number=25000000000
+desc="BLEEPEPE is issued by Eastellar Team."
+conditions="Maximum supply of BLEEPEPE is 25B tokens only"
+image="https://eastellar.com/images/BLEEPEPE.png"
+
+[[CURRENCIES]]
+code="COOKIES"
+issuer="GA6VTYQLELCNK5WMT3ENAFD4B7CBFRUOW7UEZ4CZ7GCTGFW353QLC5NH"
+status="live"
+display_decimals=4
+name="COOKIES"
+fixed_number=25000000000
+desc="COOKIES is issued by Eastellar Team."
+conditions="Maximum supply of COOKIES is 25B tokens only"
+image="https://eastellar.com/images/COOKIES.png"
+
+[[CURRENCIES]]
+code="BEEPEPE"
+issuer="GB2TC4OHPHFTKNXSHTZ24OCCROGJLY53K6IMBTWWMSYZRVZKAWFXMDFT"
+status="live"
+display_decimals=4
+name="BEEPEPE"
+fixed_number=25000000000
+desc="BEEPEPE is issued by Eastellar Team."
+conditions="Maximum supply of BEEPEPE is 25B tokens only"
+image="https://eastellar.com/images/BEEPEPE.png"
+
+[[CURRENCIES]]
+code="POSITIVE"
+issuer="GDQWVLD3EE5KU4XSCFBHF6WQ7EB7W67QHOWPBDTCXTEJHPUDEUCLDUKH"
+status="live"
+display_decimals=4
+name="POSITIVE"
+fixed_number=25000000000
+desc="POSITIVE is issued by Eastellar Team."
+conditions="Maximum supply of POSITIVE is 25B tokens only"
+image="https://eastellar.com/images/POSITIVE.png"
+
+[[CURRENCIES]]
+code="zXLM"
+issuer="GABVRXHJTDBMDKSOFBDOKEZFFDMR7K6DQPMRLSNY2GHZH52B7N3LEQCM"
+status="live"
+display_decimals=4
+name="zXLM"
+fixed_number=25000000000
+desc="zXLM is issued by Eastellar Team."
+conditions="Maximum supply of zXLM is 25B tokens only"
+image="https://eastellar.com/images/zXLM.png"
+
+[[CURRENCIES]]
+code="AUTUMN"
+issuer="GC4UIWMGYKUYHSI25NI5OQ2OVNQ6D6S53FKYNELBUPTBHCWIXVQDUBKW"
+status="live"
+display_decimals=4
+name="AUTUMN"
+fixed_number=25000000000
+desc="AUTUMN is issued by Eastellar Team."
+conditions="Maximum supply of AUTUMN is 25B tokens only"
+image="https://eastellar.com/images/AUTUMN.png"
+
+[[CURRENCIES]]
+code="zBTC"
+issuer="GCBAIA7NGAJO5U46P5BTHRHXA45VI3TMZZ225Y44GJRFKZXLZCFHBYJO"
+status="live"
+display_decimals=4
+name="zBTC"
+fixed_number=25000000000
+desc="zBTC is issued by Eastellar Team."
+conditions="Maximum supply of zBTC is 25B tokens only"
+image="https://eastellar.com/images/zBTC.png"
+
+[[CURRENCIES]]
+code="LILAC"
+issuer="GCYOYYYJ4SDJFNNG3PGRLFWVRZADPMWJASGYDG6DAIWVAWT535JQN5Q5"
+status="live"
+display_decimals=4
+name="LILAC"
+fixed_number=25000000000
+desc="LILAC is issued by Eastellar Team."
+conditions="Maximum supply of LILAC is 25B tokens only"
+image="https://eastellar.com/images/LILAC.png"
+
+[[CURRENCIES]]
+code="zXRP"
+issuer="GC3RNJFIFBRGNQEOO3GISX2KLBHQAJ7T74J4JX2IFCQR3JNYSMEGOJK4"
+status="live"
+display_decimals=4
+name="zXRP"
+fixed_number=25000000000
+desc="zXRP is issued by Eastellar Team."
+conditions="Maximum supply of zXRP is 25B tokens only"
+image="https://eastellar.com/images/zXRP.png"
+
+[[CURRENCIES]]
+code="RAIN"
+issuer="GDJ74KLQCYAIQKXHBKZEDCPBVW2BXGU7AAK6DO2WRKRJR3XSBJMKG2LA"
+status="live"
+display_decimals=4
+name="RAIN"
+fixed_number=25000000000
+desc="RAIN is issued by Eastellar Team."
+conditions="Maximum supply of RAIN is 25B tokens only"
+image="https://eastellar.com/images/RAIN.png"
+
+[[CURRENCIES]]
+code="zETH"
+issuer="GCBDAOKZ4QNZOHLH264C5NVWIPVBVVP2X6SSEDKS7X3EUL36Y4DJVS7Z"
+status="live"
+display_decimals=4
+name="zETH"
+fixed_number=25000000000
+desc="zETH is issued by Eastellar Team."
+conditions="Maximum supply of zETH is 25B tokens only"
+image="https://eastellar.com/images/zETH.png"
+
+[[CURRENCIES]]
+code="COOL"
+issuer="GB3QUOKE674BIEEG3SNQCGUZOM7KP3EBTNP4ZRFJ7QIWK5FPSRG2JC44"
+status="live"
+display_decimals=4
+name="COOL"
+fixed_number=25000000000
+desc="COOL is issued by Eastellar Team."
+conditions="Maximum supply of COOL is 25B tokens only"
+image="https://eastellar.com/images/COOL.png"
+
+[[CURRENCIES]]
+code="zUSD"
+issuer="GAQLH5PIARNOCWLKWPDMO3DB7QU6EE23MILWBCDRHXJD2YZ344TYG5NE"
+status="live"
+display_decimals=4
+name="zUSD"
+fixed_number=25000000000
+desc="zUSD is issued by Eastellar Team."
+conditions="Maximum supply of zUSD is 25B tokens only"
+image="https://eastellar.com/images/zUSD.png"
+
+[[CURRENCIES]]
+code="ROCKET"
+issuer="GBSKMLIQD5COX76T6TVDDWYVQE2EXR4DLMWQFYOKIO7NQGRRLR7NRXUB"
+status="live"
+display_decimals=4
+name="ROCKET"
+fixed_number=25000000000
+desc="ROCKET is issued by Eastellar Team."
+conditions="Maximum supply of ROCKET is 25B tokens only"
+image="https://eastellar.com/images/ROCKET.png"
+
+[[CURRENCIES]]
+code="aquaZ"
+issuer="GDX4RMBOVVVSZVQPCRYI37B627XHL6NBAWLSSWORPMKWWRH24E2ZOCW6"
+status="live"
+display_decimals=4
+name="aquaZ"
+fixed_number=25000000000
+desc="aquaZ is issued by Eastellar Team."
+conditions="Maximum supply of aquaZ is 25B tokens only"
+image="https://eastellar.com/images/aquaZ.png"
+
+[[CURRENCIES]]
+code="SHARK"
+issuer="GATAV6OGQRFXDGH6O62NMD3Z4J2AD7ZGCTBZYK6BACBIPZGVAAM5NW46"
+status="live"
+display_decimals=4
+name="SHARK"
+fixed_number=25000000000
+desc="SHARK is issued by Eastellar Team."
+conditions="Maximum supply of SHARK is 25B tokens only"
+image="https://eastellar.com/images/SHARK.png"
+
+[[CURRENCIES]]
+code="USDz"
+issuer="GBAWASYNP7L2P3HBC73RSSUPOALWPJJSIZF3DV27KRZMMGUAO4XD6US2"
+status="live"
+display_decimals=4
+name="USDz"
+fixed_number=25000000000
+desc="USDz is issued by Eastellar Team."
+conditions="Maximum supply of USDz is 25B tokens only"
+image="https://eastellar.com/images/USDz.png"
+
+[[CURRENCIES]]
+code="ANT"
+issuer="GDDYHU7WVC2TK7LKIZJPAOL5C5H2VBKTQP5Y4ZOKQ3A7FIGBKIJD7EDJ"
+status="live"
+display_decimals=4
+name="ANT"
+fixed_number=25000000000
+desc="ANT is issued by Eastellar Team."
+conditions="Maximum supply of ANT is 25B tokens only"
+image="https://eastellar.com/images/ANT.png"
+
+[[CURRENCIES]]
+code="SHXz"
+issuer="GDJEBKV4QUUFZNZ4DE53RZANU5P7XJZVGA6EY5DIU67M37TBXWOEJHMC"
+status="live"
+display_decimals=4
+name="SHXz"
+fixed_number=25000000000
+desc="SHXz is issued by Eastellar Team."
+conditions="Maximum supply of SHXz is 25B tokens only"
+image="https://eastellar.com/images/SHXz.png"
+
+[[CURRENCIES]]
+code="FAIRY"
+issuer="GDU4ALGUCDMZONB7TSIN63UE3ETGV6UX34WSJJFVP4QVOQHRDLWXONK3"
+status="live"
+display_decimals=4
+name="FAIRY"
+fixed_number=25000000000
+desc="FAIRY is issued by Eastellar Team."
+conditions="Maximum supply of FAIRY is 25B tokens only"
+image="https://eastellar.com/images/FAIRY.png"
+
+[[CURRENCIES]]
+code="zADA"
+issuer="GBMSFRYP7ZQI4B5ENJI4AM3OTFSCWAOVTFGW3T2PE4VMVNV4MMAFWLT2"
+status="live"
+display_decimals=4
+name="zADA"
+fixed_number=25000000000
+desc="zADA is issued by Eastellar Team."
+conditions="Maximum supply of zADA is 25B tokens only"
+image="https://eastellar.com/images/zADA.png"
+
+[[CURRENCIES]]
+code="TURTLE"
+issuer="GALQKHMP4OARIMILCCNS5D6GWQRQZVFJB7SYOLFCMBBOSX2MAYEM3O75"
+status="live"
+display_decimals=4
+name="TURTLE"
+fixed_number=25000000000
+desc="TURTLE is issued by Eastellar Team."
+conditions="Maximum supply of TURTLE is 25B tokens only"
+image="https://eastellar.com/images/TURTLE.png"
+
+[[CURRENCIES]]
+code="OREGANO"
+issuer="GBE5DGXKL37G5YTD5LXAN5I4XBBOPIID7LGK5JLI6Q7XY2FFLACCP6G3"
+status="live"
+display_decimals=4
+name="OREGANO"
+fixed_number=25000000000
+desc="OREGANO is issued by Eastellar Team."
+conditions="Maximum supply of OREGANO is 25B tokens only"
+image="https://eastellar.com/images/OREGANO.png"
+
+[[CURRENCIES]]
+code="RESIDENCE"
+issuer="GCVUEL2ROI7NKMQ7FBAHXRFG73MVHSTHPRBGUJQBVICXPUZS7YMJOXI5"
+status="live"
+display_decimals=4
+name="RESIDENCE"
+fixed_number=25000000000
+desc="RESIDENCE is issued by Eastellar Team."
+conditions="Maximum supply of RESIDENCE is 25B tokens only"
+image="https://eastellar.com/images/RESIDENCE.png"
+
+[[CURRENCIES]]
+code="MINT"
+issuer="GCRECF3X3YNUJKLCGZNDU7QWZQEYLNWWWNP2YNECLBC2XXQH23GDO6TT"
+status="live"
+display_decimals=4
+name="MINT"
+fixed_number=25000000000
+desc="MINT is issued by Eastellar Team."
+conditions="Maximum supply of MINT is 25B tokens only"
+image="https://eastellar.com/images/MINT.png"
+
+[[CURRENCIES]]
+code="MAPLE"
+issuer="GDKBXCWYC22TBGB2UU2S2KNHEI3YGNNAAO5XQGYQ7FHPKG2EKN7ASJG4"
+status="live"
+display_decimals=4
+name="MAPLE"
+fixed_number=25000000000
+desc="MAPLE is issued by Eastellar Team."
+conditions="Maximum supply of MAPLE is 25B tokens only"
+image="https://eastellar.com/images/MAPLE.png"
+
+[[CURRENCIES]]
+code="BATz"
+issuer="GC5QRGC3DBDVMQCXJ2XB4FDVXURG6S76536V36LXH6YEGRXEU2PH3XH6"
+status="live"
+display_decimals=4
+name="BATz"
+fixed_number=25000000000
+desc="BATz is issued by Eastellar Team."
+conditions="Maximum supply of BATz is 25B tokens only"
+image="https://eastellar.com/images/BATz.png"
+
+[[CURRENCIES]]
+code="PALM"
+issuer="GAOPVBGJLVQ5CBCXFWMVHHSY4QZS45QSSZ6HMWDGFKMA4ZX3OBGTVRBA"
+status="live"
+display_decimals=4
+name="PALM"
+fixed_number=25000000000
+desc="PALM is issued by Eastellar Team."
+conditions="Maximum supply of PALM is 25B tokens only"
+image="https://eastellar.com/images/PALM.png"
+
+[[CURRENCIES]]
+code="SHIBAz"
+issuer="GDBF5ZNEXKSYQU72PP6AIJY5R4ZU7SLUNZBTD4QI2TJBJJGXWHS56KUK"
+status="live"
+display_decimals=4
+name="SHIBAz"
+fixed_number=25000000000
+desc="SHIBAz is issued by Eastellar Team."
+conditions="Maximum supply of SHIBAz is 25B tokens only"
+image="https://eastellar.com/images/SHIBAz.png"
+
+[[CURRENCIES]]
+code="SPINACH"
+issuer="GAAFCN2WWWEUEPIO4AN3JXWRAPRTRXWMFMIHKWADDMGZ3Y3C6AFJ6CKB"
+status="live"
+display_decimals=4
+name="SPINACH"
+fixed_number=25000000000
+desc="SPINACH is issued by Eastellar Team."
+conditions="Maximum supply of SPINACH is 25B tokens only"
+image="https://eastellar.com/images/SPINACH.png"
+
+[[CURRENCIES]]
+code="TERRAz"
+issuer="GBIVA6FBAJKPDICHQWZK2JPLDLWLL2ZX7ZDYBL4KW2CUHFDADPD5BGJD"
+status="live"
+display_decimals=4
+name="TERRAz"
+fixed_number=25000000000
+desc="TERRAz is issued by Eastellar Team."
+conditions="Maximum supply of TERRAz is 25B tokens only"
+image="https://eastellar.com/images/TERRAz.png"
+
+[[CURRENCIES]]
+code="DAISY"
+issuer="GBQM2SDU4SOOXFRLVB3GPBROZ5GB6UM5OM7GDMAXSTWZRDHZFZ7TBZ57"
+status="live"
+display_decimals=4
+name="DAISY"
+fixed_number=25000000000
+desc="DAISY is issued by Eastellar Team."
+conditions="Maximum supply of DAISY is 25B tokens only"
+image="https://eastellar.com/images/DAISY.png"
+
+[[CURRENCIES]]
+code="SUSHI"
+issuer="GDTKJRRXIYTGWHD6YTRCLHQZDAVFIX5CDVC5HTWPKTM2SZDXRZGWZKRQ"
+status="live"
+display_decimals=4
+name="SUSHI"
+fixed_number=25000000000
+desc="SUSHI is issued by Eastellar Team."
+conditions="Maximum supply of SUSHI is 25B tokens only"
+image="https://eastellar.com/images/SUSHI.png"
+
+[[CURRENCIES]]
+code="CHAMOMILE"
+issuer="GCPQHUX3L6S2Y2GNP4RYCPHLJYN5OFIZBQO2634FGGIQQL5SNCG7YIBW"
+status="live"
+display_decimals=4
+name="CHAMOMILE"
+fixed_number=25000000000
+desc="CHAMOMILE is issued by Eastellar Team."
+conditions="Maximum supply of CHAMOMILE is 25B tokens only"
+image="https://eastellar.com/images/CHAMOMILE.png"
+
+[[CURRENCIES]]
+code="UNIz"
+issuer="GDVN3XIU3HYK462FCQPYYFFA5BLRKJHOBGDQD2BPRY34IP2ZBDCTPXS4"
+status="live"
+display_decimals=4
+name="UNIz"
+fixed_number=25000000000
+desc="UNIz is issued by Eastellar Team."
+conditions="Maximum supply of UNIz is 25B tokens only"
+image="https://eastellar.com/images/UNIz.png"
+
+[[CURRENCIES]]
+code="PINNATELY"
+issuer="GBYLIOP5VWY4ALELU6VAVKV2GXHFGPAZ4TUB2BQDB5PX5QZOZV7GQTWJ"
+status="live"
+display_decimals=4
+name="PINNATELY"
+fixed_number=25000000000
+desc="PINNATELY is issued by Eastellar Team."
+conditions="Maximum supply of PINNATELY is 25B tokens only"
+image="https://eastellar.com/images/PINNATELY.png"
+
+[[CURRENCIES]]
+code="RUNEz"
+issuer="GCKTNXUIHUY24DARJW6AVHWO3PCTZBN2BGSHHD7QPNNRCVAXGZKY6WUH"
+status="live"
+display_decimals=4
+name="RUNEz"
+fixed_number=25000000000
+desc="RUNEz is issued by Eastellar Team."
+conditions="Maximum supply of RUNEz is 25B tokens only"
+image="https://eastellar.com/images/RUNEz.png"
+
+[[CURRENCIES]]
+code="OVATE"
+issuer="GBC2UZ34FWNZWNGQ2F5NO7PPLSQCNYNGMD2QEXDLHGDOAEAPOADKYZM7"
+status="live"
+display_decimals=4
+name="OVATE"
+fixed_number=25000000000
+desc="OVATE is issued by Eastellar Team."
+conditions="Maximum supply of OVATE is 25B tokens only"
+image="https://eastellar.com/images/OVATE.png"
+
+[[CURRENCIES]]
+code="DOTz"
+issuer="GCPAWW26MSCO6NFD7Z6IEFEGA2YBV6D5H547DOUFDSCBHDPTX6MUB6Q7"
+status="live"
+display_decimals=4
+name="DOTz"
+fixed_number=25000000000
+desc="DOTz is issued by Eastellar Team."
+conditions="Maximum supply of DOTz is 25B tokens only"
+image="https://eastellar.com/images/DOTz.png"
+
+[[CURRENCIES]]
+code="ARTICHOKE"
+issuer="GDKHZWXDYSJQWWDUSUR5K2EYOY4YJ6LHTQFYQGCOCOIO5A74PZCDGLRD"
+status="live"
+display_decimals=4
+name="ARTICHOKE"
+fixed_number=25000000000
+desc="ARTICHOKE is issued by Eastellar Team."
+conditions="Maximum supply of ARTICHOKE is 25B tokens only"
+image="https://eastellar.com/images/ARTICHOKE.png"
+
+[[CURRENCIES]]
+code="LUNAz"
+issuer="GBVWXJ6VKVAY2EOELDVSSDUGIU7WBVB7DMWNG5OCAEVWQD7YMPBCA5SL"
+status="live"
+display_decimals=4
+name="LUNAz"
+fixed_number=25000000000
+desc="LUNAz is issued by Eastellar Team."
+conditions="Maximum supply of LUNAz is 25B tokens only"
+image="https://eastellar.com/images/LUNAz.png"
+
+[[CURRENCIES]]
+code="CABBAGE"
+issuer="GBW3LXXHUHXETXDABALDWL7WA7CTXIHI3GCYNY7WTI5B4W4ZGHT2YUDC"
+status="live"
+display_decimals=4
+name="CABBAGE"
+fixed_number=25000000000
+desc="CABBAGE is issued by Eastellar Team."
+conditions="Maximum supply of CABBAGE is 25B tokens only"
+image="https://eastellar.com/images/CABBAGE.png"
+
+[[CURRENCIES]]
+code="SANDz"
+issuer="GBVIIUNXCZ76WKRCLVIGQ6G2U5XAF25GUWKNTAUDGQFNPJZHOWIL7C7P"
+status="live"
+display_decimals=4
+name="SANDz"
+fixed_number=25000000000
+desc="SANDz is issued by Eastellar Team."
+conditions="Maximum supply of SANDz is 25B tokens only"
+image="https://eastellar.com/images/SANDz.png"
+
+[[CURRENCIES]]
+code="ALTERNATE"
+issuer="GDFG2I2QB573ABFM2ADMMJNVW7UIILBA7WWXCHP6VYWELXL2ZBCCML3R"
+status="live"
+display_decimals=4
+name="ALTERNATE"
+fixed_number=25000000000
+desc="ALTERNATE is issued by Eastellar Team."
+conditions="Maximum supply of ALTERNATE is 25B tokens only"
+image="https://eastellar.com/images/ALTERNATE.png"
+
+[[CURRENCIES]]
+code="TRXz"
+issuer="GCRTSJIKOAZDVK4BRQVKC2HLGFBG7WZO7DLW64GLJQQQFRWESRCDQSDL"
+status="live"
+display_decimals=4
+name="TRXz"
+fixed_number=25000000000
+desc="TRXz is issued by Eastellar Team."
+conditions="Maximum supply of TRXz is 25B tokens only"
+image="https://eastellar.com/images/TRXz.png"
+
+[[CURRENCIES]]
+code="OPPOSITE"
+issuer="GAVUZKQ6PD5AT7NIKZZ43LXIYIU4UBKFNFNEA3U2LXJUDKH4Y3FVKOTZ"
+status="live"
+display_decimals=4
+name="OPPOSITE"
+fixed_number=25000000000
+desc="OPPOSITE is issued by Eastellar Team."
+conditions="Maximum supply of OPPOSITE is 25B tokens only"
+image="https://eastellar.com/images/OPPOSITE.png"
+
+[[CURRENCIES]]
+code="CAKEz"
+issuer="GDX47BIEHPKY5GWSN7TRGQZBO54DVVZU4OO6GF3RJHYGUHSWJBPA4RP6"
+status="live"
+display_decimals=4
+name="CAKEz"
+fixed_number=25000000000
+desc="CAKEz is issued by Eastellar Team."
+conditions="Maximum supply of CAKEz is 25B tokens only"
+image="https://eastellar.com/images/CAKEz.png"
+
+[[CURRENCIES]]
+code="WHORLED"
+issuer="GC7JOWE5AURQ7BGGOTYVL4QJZV62MY76D33UWCXHT2GWRJRUAL4FHPTJ"
+status="live"
+display_decimals=4
+name="WHORLED"
+fixed_number=25000000000
+desc="WHORLED is issued by Eastellar Team."
+conditions="Maximum supply of WHORLED is 25B tokens only"
+image="https://eastellar.com/images/WHORLED.png"
+
+[[CURRENCIES]]
+code="DOGEz"
+issuer="GCE6XK3VR3Q2TMZJPJWIIX6277WQIPQXCR2KY5D65JTFVC5VJQYLKTNT"
+status="live"
+display_decimals=4
+name="DOGEz"
+fixed_number=25000000000
+desc="DOGEz is issued by Eastellar Team."
+conditions="Maximum supply of DOGEz is 25B tokens only"
+image="https://eastellar.com/images/DOGEz.png"
+
+[[CURRENCIES]]
+code="BIPARTITE"
+issuer="GB2CFJWXG3BSZQNGRYJV5BEV6RKWWRFYMRSBTWICM4JTCILRYX7ZAAQB"
+status="live"
+display_decimals=4
+name="BIPARTITE"
+fixed_number=25000000000
+desc="BIPARTITE is issued by Eastellar Team."
+conditions="Maximum supply of BIPARTITE is 25B tokens only"
+image="https://eastellar.com/images/BIPARTITE.png"
+
+[[CURRENCIES]]
+code="EVERGREEN"
+issuer="GCM3NHN6UDLBVONWAJWLS44O6BNRGVI7CFQL4TGVV4ZUPPUQM5D7NZRZ"
+status="live"
+display_decimals=4
+name="EVERGREEN"
+fixed_number=25000000000
+desc="EVERGREEN is issued by Eastellar Team."
+conditions="Maximum supply of EVERGREEN is 25B tokens only"
+image="https://eastellar.com/images/EVERGREEN.png"
+
+[[CURRENCIES]]
+code="CACTUS"
+issuer="GB53JCFBVOIDWWRUVBPBWSH6YUZFIIWG5CPCMZZ4TLTZQHFNSASKK4WW"
+status="live"
+display_decimals=4
+name="CACTUS"
+fixed_number=25000000000
+desc="CACTUS is issued by Eastellar Team."
+conditions="Maximum supply of CACTUS is 25B tokens only"
+image="https://eastellar.com/images/CACTUS.png"
+
+[[CURRENCIES]]
+code="JADE"
+issuer="GBJHJZHGRZZYS74NO3GIHCQGTU2LAUAHKVJ2WQ5WFH2TBZBVTAB36ZKN"
+status="live"
+display_decimals=4
+name="JADE"
+fixed_number=25000000000
+desc="JADE is issued by Eastellar Team."
+conditions="Maximum supply of JADE is 25B tokens only"
+image="https://eastellar.com/images/JADE.png"
+
+[[CURRENCIES]]
+code="AGAVE"
+issuer="GAL5LQB23Y3SX5GJ3S4FZ7XN675CM5ABATDRKDEXX65SEKNCXRVUMCP7"
+status="live"
+display_decimals=4
+name="AGAVE"
+fixed_number=25000000000
+desc="AGAVE is issued by Eastellar Team."
+conditions="Maximum supply of AGAVE is 25B tokens only"
+image="https://eastellar.com/images/AGAVE.png"
+
+[[CURRENCIES]]
+code="THIRTEEN"
+issuer="GDTYECENHS3VDFL3J2ZTBTS3DAFHYB6X6GZDMSDR4LLZ765Q5IMCPXEZ"
+status="live"
+display_decimals=4
+name="THIRTEEN"
+fixed_number=25000000000
+desc="THIRTEEN is issued by Eastellar Team."
+conditions="Maximum supply of THIRTEEN is 25B tokens only"
+image="https://eastellar.com/images/THIRTEEN.png"
+
+[[CURRENCIES]]
+code="ALOCASIA"
+issuer="GAMQBMIXVLDGTYOI6NWVU4LQNPSTBXJDKZO6TLQ5PAHJACQWCHPD5GBV"
+status="live"
+display_decimals=4
+name="ALOCASIA"
+fixed_number=25000000000
+desc="ALOCASIA is issued by Eastellar Team."
+conditions="Maximum supply of ALOCASIA is 25B tokens only"
+image="https://eastellar.com/images/ALOCASIA.png"
+
+[[CURRENCIES]]
+code="BNBz"
+issuer="GDGKCWJG2SQ2TKZLUMGCLFZ47AJMOPUXX7EZHJM5WXCOAXWY7FLRD7ME"
+status="live"
+display_decimals=4
+name="BNBz"
+fixed_number=25000000000
+desc="BNBz is issued by Eastellar Team."
+conditions="Maximum supply of BNBz is 25B tokens only"
+image="https://eastellar.com/images/BNBz.png"
+
+[[CURRENCIES]]
+code="CALATHEA"
+issuer="GCILHWHU2ZHGXR4HTRS46LLSKQM2UU5HWLVXDSSCKJFX3JC4FHT4W32Q"
+status="live"
+display_decimals=4
+name="CALATHEA"
+fixed_number=25000000000
+desc="CALATHEA is issued by Eastellar Team."
+conditions="Maximum supply of CALATHEA is 25B tokens only"
+image="https://eastellar.com/images/CALATHEA.png"
+
+[[CURRENCIES]]
+code="FOURTEEN"
+issuer="GBURLIG4KJRC6D32J5XIY27LN4EFYQNB7T4ILRZ2RBZEP6YARBCXWWFR"
+status="live"
+display_decimals=4
+name="FOURTEEN"
+fixed_number=25000000000
+desc="FOURTEEN is issued by Eastellar Team."
+conditions="Maximum supply of FOURTEEN is 25B tokens only"
+image="https://eastellar.com/images/FOURTEEN.png"
+
+[[CURRENCIES]]
+code="SPIDERPLANT"
+issuer="GCJUULYTCWQIOAQ6TG6PVXELR2CBLANF5LM2ZVHKZMQP6QJ6KXFLECEA"
+status="live"
+display_decimals=4
+name="SPIDERPLANT"
+fixed_number=25000000000
+desc="SPIDERPLANT is issued by Eastellar Team."
+conditions="Maximum supply of SPIDERPLANT is 25B tokens only"
+image="https://eastellar.com/images/SPIDERPLANT.png"
+
+[[CURRENCIES]]
+code="METAz"
+issuer="GAITPT3CRFXD2OR3ZACTW7K3D3IVFEHHG2QTZT24ILMQ2Y54PYBNGHAO"
+status="live"
+display_decimals=4
+name="METAz"
+fixed_number=25000000000
+desc="METAz is issued by Eastellar Team."
+conditions="Maximum supply of METAz is 25B tokens only"
+image="https://eastellar.com/images/METAz.png"
+
+[[CURRENCIES]]
+code="ANTHURIUM"
+issuer="GCLE7SCPZ2BIVP72ZT4AREKK6RVTKECZFIHSOCRPPNTKEHKU6YWSIKOJ"
+status="live"
+display_decimals=4
+name="ANTHURIUM"
+fixed_number=25000000000
+desc="ANTHURIUM is issued by Eastellar Team."
+conditions="Maximum supply of ANTHURIUM is 25B tokens only"
+image="https://eastellar.com/images/ANTHURIUM.png"
+
+[[CURRENCIES]]
+code="FIFTEEN"
+issuer="GCFSNO6A3SLXVT72S72CYPBTCIAKVWLXAYS6Z77QER5MD7URYA2SCMY6"
+status="live"
+display_decimals=4
+name="FIFTEEN"
+fixed_number=25000000000
+desc="FIFTEEN is issued by Eastellar Team."
+conditions="Maximum supply of FIFTEEN is 25B tokens only"
+image="https://eastellar.com/images/FIFTEEN.png"
+
+[[CURRENCIES]]
+code="ASPARAGUS"
+issuer="GBSNSTIVYK7H4XHIFXX6T6WMRJZEAU6DV2VZER3NAFZILQFCNA3L2FVZ"
+status="live"
+display_decimals=4
+name="ASPARAGUS"
+fixed_number=25000000000
+desc="ASPARAGUS is issued by Eastellar Team."
+conditions="Maximum supply of ASPARAGUS is 25B tokens only"
+image="https://eastellar.com/images/ASPARAGUS.png"
+
+[[CURRENCIES]]
+code="AVAXz"
+issuer="GCXHANUDY4KDNN55QPMV36LH73EEINKQWIFVHMA4EIJCZZVMMRIFENTQ"
+status="live"
+display_decimals=4
+name="AVAXz"
+fixed_number=25000000000
+desc="AVAXz is issued by Eastellar Team."
+conditions="Maximum supply of AVAXz is 25B tokens only"
+image="https://eastellar.com/images/AVAXz.png"
+
+[[CURRENCIES]]
+code="TADz"
+issuer="GAX4USSCE4RFPJBBR23EOS5M7J74G6KCCM5OIK72J6XXPFJZAYAQAXZL"
+status="live"
+display_decimals=4
+name="TADz"
+fixed_number=25000000000
+desc="TADz is issued by Eastellar Team."
+conditions="Maximum supply of TADz is 25B tokens only"
+image="https://eastellar.com/images/TADz.png"
+
+[[CURRENCIES]]
+code="SIXTEEN"
+issuer="GAM4IIJQP6BE3GRTXXDITH7SYUTA3JLN733JBQ2HRUTOQOKTNJW6JNRB"
+status="live"
+display_decimals=4
+name="SIXTEEN"
+fixed_number=25000000000
+desc="SIXTEEN is issued by Eastellar Team."
+conditions="Maximum supply of SIXTEEN is 25B tokens only"
+image="https://eastellar.com/images/SIXTEEN.png"
+
+[[CURRENCIES]]
+code="LIGUSTRUM"
+issuer="GDJJBBFBFZCODUY3KCZE2SLBHJSZH3Q67BRHUHGYJ53L5R3WAK4VHWOH"
+status="live"
+display_decimals=4
+name="LIGUSTRUM"
+fixed_number=25000000000
+desc="LIGUSTRUM is issued by Eastellar Team."
+conditions="Maximum supply of LIGUSTRUM is 25B tokens only"
+image="https://eastellar.com/images/LIGUSTRUM.png"
+
+[[CURRENCIES]]
+code="BITz"
+issuer="GDAQQGR4DSDT3RYNKB3OWC7S5PYRIJ6UT4OHWETDD6XQZ64K7GXCNZ4A"
+status="live"
+display_decimals=4
+name="BITz"
+fixed_number=25000000000
+desc="BITz is issued by Eastellar Team."
+conditions="Maximum supply of BITz is 25B tokens only"
+image="https://eastellar.com/images/BITz.png"
+
+[[CURRENCIES]]
+code="PEPEROMIA"
+issuer="GASIY223KUGKAAQNDV4PZAY77GC4GMMRK6KWWJ5RWZPV5QXN3QGQNB7J"
+status="live"
+display_decimals=4
+name="PEPEROMIA"
+fixed_number=25000000000
+desc="PEPEROMIA is issued by Eastellar Team."
+conditions="Maximum supply of PEPEROMIA is 25B tokens only"
+image="https://eastellar.com/images/PEPEROMIA.png"
+
+[[CURRENCIES]]
+code="COLEUS"
+issuer="GCM3LTJQE3YKOKOG4G7D2LB2ICHPJ7ISOVHNN7ZVSY23DVR736UJKXYO"
+status="live"
+display_decimals=4
+name="COLEUS"
+fixed_number=25000000000
+desc="COLEUS is issued by Eastellar Team."
+conditions="Maximum supply of COLEUS is 25B tokens only"
+image="https://eastellar.com/images/COLEUS.png"
+
+[[CURRENCIES]]
+code="SEVENTEEN"
+issuer="GBJIK6BX7ILXPHEXMVPI4GSZEPMLLKJHWLGMNQL4LUHFFRBQ5PHIEDVS"
+status="live"
+display_decimals=4
+name="SEVENTEEN"
+fixed_number=25000000000
+desc="SEVENTEEN is issued by Eastellar Team."
+conditions="Maximum supply of SEVENTEEN is 25B tokens only"
+image="https://eastellar.com/images/SEVENTEEN.png"
+
+[[CURRENCIES]]
+code="MANAz"
+issuer="GA4DXBDNA3OZSWSJLGM2OTL7ANJ7WWQRO7O5V45B4OCOCXYO6FMWOGMZ"
+status="live"
+display_decimals=4
+name="MANAz"
+fixed_number=25000000000
+desc="MANAz is issued by Eastellar Team."
+conditions="Maximum supply of MANAz is 25B tokens only"
+image="https://eastellar.com/images/MANAz.png"
+
+[[CURRENCIES]]
+code="PLATYCERIUM"
+issuer="GBFMG2YIXXDFNZ5MBP532KCURJUL45K7O4UL4TK5SMVCJOGIAV3INRSZ"
+status="live"
+display_decimals=4
+name="PLATYCERIUM"
+fixed_number=25000000000
+desc="PLATYCERIUM is issued by Eastellar Team."
+conditions="Maximum supply of PLATYCERIUM is 25B tokens only"
+image="https://eastellar.com/images/PLATYCERIUM.png"
+
+[[CURRENCIES]]
+code="EOSz"
+issuer="GDGNESY52K5MYGPCKOW6UHBFKLE2ZGVSDCGCG7YV542F24HVB5AEPUQ6"
+status="live"
+display_decimals=4
+name="EOSz"
+fixed_number=25000000000
+desc="EOSz is issued by Eastellar Team."
+conditions="Maximum supply of EOSz is 25B tokens only"
+image="https://eastellar.com/images/EOSz.png"
+
+[[CURRENCIES]]
+code="AGLAONEMA"
+issuer="GBUIKBOHIQJDS374RRB32X2JGLWHOD4CFCLMGTWY7WFJWG4XD53XUAAA"
+status="live"
+display_decimals=4
+name="AGLAONEMA"
+fixed_number=25000000000
+desc="AGLAONEMA is issued by Eastellar Team."
+conditions="Maximum supply of AGLAONEMA is 25B tokens only"
+image="https://eastellar.com/images/AGLAONEMA.png"
+
+[[CURRENCIES]]
+code="TWENTYONE"
+issuer="GCHNLSD3YACI2R6Z5DQNVL7Y526ANNMD43NWOJ3ORYRHKTMXDJSHZVWZ"
+status="live"
+display_decimals=4
+name="TWENTYONE"
+fixed_number=25000000000
+desc="TWENTYONE is issued by Eastellar Team."
+conditions="Maximum supply of TWENTYONE is 25B tokens only"
+image="https://eastellar.com/images/TWENTYONE.png"
+
+[[CURRENCIES]]
+code="LETTUCE"
+issuer="GAHRRWIK2P66G4XBJYVRH6P2HZH2F6FECDC64QSUABAUHUPPLOURZBH7"
+status="live"
+display_decimals=4
+name="LETTUCE"
+fixed_number=25000000000
+desc="LETTUCE is issued by Eastellar Team."
+conditions="Maximum supply of LETTUCE is 25B tokens only"
+image="https://eastellar.com/images/LETTUCE.png"
+
+[[CURRENCIES]]
+code="VELOz"
+issuer="GDYWK4PCM23GFDISI6A52I6IGXNLSTPTCTIU3IH7AJP7DXCSXSVROU7U"
+status="live"
+display_decimals=4
+name="VELOz"
+fixed_number=25000000000
+desc="VELOz is issued by Eastellar Team."
+conditions="Maximum supply of VELOz is 25B tokens only"
+image="https://eastellar.com/images/VELOz.png"
+
+[[CURRENCIES]]
+code="ELEPHANTOPUS"
+issuer="GD5OUR4QBBA7R3R7BJXIPERDVOKFPFRVRIGIEHW3AYI4LYJJNS7KVSOZ"
+status="live"
+display_decimals=4
+name="ELEPHANTOPUS"
+fixed_number=25000000000
+desc="ELEPHANTOPUS is issued by Eastellar Team."
+conditions="Maximum supply of ELEPHANTOPUS is 25B tokens only"
+image="https://eastellar.com/images/ELEPHANTOPUS.png"
+
+[[CURRENCIES]]
+code="SCOPz"
+issuer="GCWKIYA3SVW6EINT47NUEOG7ODMX4U5AS7PKB7AJ5PBAMONWPIAK3Y7Y"
+status="live"
+display_decimals=4
+name="SCOPz"
+fixed_number=25000000000
+desc="SCOPz is issued by Eastellar Team."
+conditions="Maximum supply of SCOPz is 25B tokens only"
+image="https://eastellar.com/images/SCOPz.png"
+
+[[CURRENCIES]]
+code="PIPERBETLE"
+issuer="GD4EITG7WQOH3LWIH3KXJHLQ4H7HLJDFVZY6BVE57LRQCP4B4B3VJV5Y"
+status="live"
+display_decimals=4
+name="PIPERBETLE"
+fixed_number=25000000000
+desc="PIPERBETLE is issued by Eastellar Team."
+conditions="Maximum supply of PIPERBETLE is 25B tokens only"
+image="https://eastellar.com/images/PIPERBETLE.png"
+
+[[CURRENCIES]]
+code="YBXz"
+issuer="GBL5YRQQ5TYXTGUUO52K46FMKLSXWQ3NSSC77V5HMKEN257OKF2BJEZT"
+status="live"
+display_decimals=4
+name="YBXz"
+fixed_number=25000000000
+desc="YBXz is issued by Eastellar Team."
+conditions="Maximum supply of YBXz is 25B tokens only"
+image="https://eastellar.com/images/YBXz.png"
+
+[[CURRENCIES]]
+code="MONSTERA"
+issuer="GAV72IKOE2SMUT5FGYOTTAIVWYGSTY6TQ2WWXY7ZT6TNWMYH3RUWM75I"
+status="live"
+display_decimals=4
+name="MONSTERA"
+fixed_number=25000000000
+desc="MONSTERA is issued by Eastellar Team."
+conditions="Maximum supply of MONSTERA is 25B tokens only"
+image="https://eastellar.com/images/MONSTERA.png"
+
+[[CURRENCIES]]
+code="DOGETz"
+issuer="GCJB756AFZXAYTXGEUHOI24WMIX5FDZ3BGZDSDTJSF5H3IN4RSLRGZUT"
+status="live"
+display_decimals=4
+name="DOGETz"
+fixed_number=25000000000
+desc="DOGETz is issued by Eastellar Team."
+conditions="Maximum supply of DOGETz is 25B tokens only"
+image="https://eastellar.com/images/DOGETz.png"
+
+[[CURRENCIES]]
+code="CORAL"
+issuer="GCMQV2HAZKGYUJOUDEXM7P7DY5FMWZBXPWQBNPWDF6K3V3ABFTXLYNO5"
+status="live"
+display_decimals=4
+name="CORAL"
+fixed_number=25000000000
+desc="CORAL is issued by Eastellar Team."
+conditions="Maximum supply of CORAL is 25B tokens only"
+image="https://eastellar.com/images/CORAL.png"
+
+[[CURRENCIES]]
+code="TWENTYFOUR"
+issuer="GBSLTWN5LWHWF6S54HJ365DDRSZO52RBEMQZOIXCI6V3FJAOQM2TL24D"
+status="live"
+display_decimals=4
+name="TWENTYFOUR"
+fixed_number=25000000000
+desc="TWENTYFOUR is issued by Eastellar Team."
+conditions="Maximum supply of TWENTYFOUR is 25B tokens only"
+image="https://eastellar.com/images/TWENTYFOUR.png"
+
+[[CURRENCIES]]
+code="HAWORTHIA"
+issuer="GB4LQORGCIUHRQLKP3JJS7NSCXRZRLQB4VWTWULOPZD6PHCVGGUJHNZH"
+status="live"
+display_decimals=4
+name="HAWORTHIA"
+fixed_number=25000000000
+desc="HAWORTHIA is issued by Eastellar Team."
+conditions="Maximum supply of HAWORTHIA is 25B tokens only"
+image="https://eastellar.com/images/HAWORTHIA.png"
+
+[[CURRENCIES]]
+code="GOLDz"
+issuer="GAMX4SK7XF7NPMZ3YSLCSCGPBIR3FRSLKNIX3U4IXPL6YGGH4PEU64U3"
+status="live"
+display_decimals=4
+name="GOLDz"
+fixed_number=25000000000
+desc="GOLDz is issued by Eastellar Team."
+conditions="Maximum supply of GOLDz is 25B tokens only"
+image="https://eastellar.com/images/GOLDz.png"
+
+[[CURRENCIES]]
+code="BOTXz"
+issuer="GACW3FHGQOMUJBUEPUM7FYHBGNSAVIGKT3ZT5O5GSISFE6KKYHHAQBQX"
+status="live"
+display_decimals=4
+name="BOTXz"
+fixed_number=25000000000
+desc="BOTXz is issued by Eastellar Team."
+conditions="Maximum supply of BOTXz is 25B tokens only"
+image="https://eastellar.com/images/BOTXz.png"
+
+[[CURRENCIES]]
+code="TOPAZ"
+issuer="GADUCC456MDODP34QSWN7WTKO3LYZKIWL4YX7Q72ZUAJIKWTWYDLZ326"
+status="live"
+display_decimals=4
+name="TOPAZ"
+fixed_number=25000000000
+desc="TOPAZ is issued by Eastellar Team."
+conditions="Maximum supply of TOPAZ is 25B tokens only"
+image="https://eastellar.com/images/TOPAZ.png"
+
+[[CURRENCIES]]
+code="PHILODENDRON"
+issuer="GA6AOUXRVDRIBAKST7ZDH5FAVXANYZAAQFDNR5NNTU74XXW4CELBWTNN"
+status="live"
+display_decimals=4
+name="PHILODENDRON"
+fixed_number=25000000000
+desc="PHILODENDRON is issued by Eastellar Team."
+conditions="Maximum supply of PHILODENDRON is 25B tokens only"
+image="https://eastellar.com/images/PHILODENDRON.png"
+
+[[CURRENCIES]]
+code="EMERALD"
+issuer="GDV7AOOPLDZ3ZDBM22UPLHNBMA7GFJY7WWIV2H32HQMZE55MTIJ6QJCH"
+status="live"
+display_decimals=4
+name="EMERALD"
+fixed_number=25000000000
+desc="EMERALD is issued by Eastellar Team."
+conditions="Maximum supply of EMERALD is 25B tokens only"
+image="https://eastellar.com/images/EMERALD.png"
+
+[[CURRENCIES]]
+code="IRIS"
+issuer="GDQSIYPEZT7GRP6K23UFJ4VKIBCDFUZQMOGNNK6JB4PLD2ZEVVGYW47D"
+status="live"
+display_decimals=4
+name="IRIS"
+fixed_number=25000000000
+desc="IRIS is issued by Eastellar Team."
+conditions="Maximum supply of IRIS is 25B tokens only"
+image="https://eastellar.com/images/IRIS.png"
+
+[[CURRENCIES]]
+code="WOOz"
+issuer="GBPU3HJNRLTPUA3FUGLDYDBWFRGQYP2N7WJBMV2MEEDCWD3AU2JG26KS"
+status="live"
+display_decimals=4
+name="WOOz"
+fixed_number=25000000000
+desc="WOOz is issued by Eastellar Team."
+conditions="Maximum supply of WOOz is 25B tokens only"
+image="https://eastellar.com/images/WOOz.png"
+
+[[CURRENCIES]]
+code="BROMELIA"
+issuer="GDUA7PHMFODI6N5HUI4Y7S2NKXNWKNEPJQMCR7F3OBTDSFRKIDALIICU"
+status="live"
+display_decimals=4
+name="BROMELIA"
+fixed_number=25000000000
+desc="BROMELIA is issued by Eastellar Team."
+conditions="Maximum supply of BROMELIA is 25B tokens only"
+image="https://eastellar.com/images/BROMELIA.png"
+
+[[CURRENCIES]]
+code="VETz"
+issuer="GCJV6UKHCOEWYA565MVY5SRDE2HZUB43NPLWH6UPEFCXP52QSPL73FI4"
+status="live"
+display_decimals=4
+name="VETz"
+fixed_number=25000000000
+desc="VETz is issued by Eastellar Team."
+conditions="Maximum supply of VETz is 25B tokens only"
+image="https://eastellar.com/images/VETz.png"
+
+[[CURRENCIES]]
+code="ALOEVERA"
+issuer="GDTSPWXWA5NAO4WIIK6K77EBTG5245DLGY6GPZF3Q666WQ6ZNSK2S3Y6"
+status="live"
+display_decimals=4
+name="ALOEVERA"
+fixed_number=25000000000
+desc="ALOEVERA is issued by Eastellar Team."
+conditions="Maximum supply of ALOEVERA is 25B tokens only"
+image="https://eastellar.com/images/ALOEVERA.png"
+
+[[CURRENCIES]]
+code="PERIDOT"
+issuer="GCDPQX5DQN3POLC773P3CGWGHO42DXXL5W76FUH2TU7YSWBEGL6I3ST3"
+status="live"
+display_decimals=4
+name="PERIDOT"
+fixed_number=25000000000
+desc="PERIDOT is issued by Eastellar Team."
+conditions="Maximum supply of PERIDOT is 25B tokens only"
+image="https://eastellar.com/images/PERIDOT.png"
+
+[[CURRENCIES]]
+code="GRASSJELLY"
+issuer="GAVN5ZAD6YFPL6HCJOV5KU2MLU2CNN7J5FW5QJGU54BJ6L3K6TABMCZM"
+status="live"
+display_decimals=4
+name="GRASSJELLY"
+fixed_number=25000000000
+desc="GRASSJELLY is issued by Eastellar Team."
+conditions="Maximum supply of GRASSJELLY is 25B tokens only"
+image="https://eastellar.com/images/GRASSJELLY.png"
+
+[[CURRENCIES]]
+code="SERPENTINE"
+issuer="GBNEPCQSYLUIZRJ2XZAVIFVS4J2RR4MRF3QBRIX44RV2EVHICE7F6KPA"
+status="live"
+display_decimals=4
+name="SERPENTINE"
+fixed_number=25000000000
+desc="SERPENTINE is issued by Eastellar Team."
+conditions="Maximum supply of SERPENTINE is 25B tokens only"
+image="https://eastellar.com/images/SERPENTINE.png"
+
+[[CURRENCIES]]
+code="BLUEBELL"
+issuer="GDVIWEHEY3QWGHDNXWRBWKXFEPO6D33WRHLXVGPPTBXDDG2RJWY663SC"
+status="live"
+display_decimals=4
+name="BLUEBELL"
+fixed_number=25000000000
+desc="BLUEBELL is issued by Eastellar Team."
+conditions="Maximum supply of BLUEBELL is 25B tokens only"
+image="https://eastellar.com/images/BLUEBELL.png"
+
+[[CURRENCIES]]
+code="GALAz"
+issuer="GBD7V2QHSQMUABFPJ7BOMBXFZ2MOZRLLS7ZVZF2K647QT7SV6F325OEU"
+status="live"
+display_decimals=4
+name="GALAz"
+fixed_number=25000000000
+desc="GALAz is issued by Eastellar Team."
+conditions="Maximum supply of GALAz is 25B tokens only"
+image="https://eastellar.com/images/GALAz.png"
+
+[[CURRENCIES]]
+code="AGAPANTHUS"
+issuer="GDUWOU2NMOVM6GKIIJ4DANXTB5NQ3ZB32MNO5M45D2OJVCBW253A6XKW"
+status="live"
+display_decimals=4
+name="AGAPANTHUS"
+fixed_number=25000000000
+desc="AGAPANTHUS is issued by Eastellar Team."
+conditions="Maximum supply of AGAPANTHUS is 25B tokens only"
+image="https://eastellar.com/images/AGAPANTHUS.png"
+
+[[CURRENCIES]]
+code="ALEXANDRITE"
+issuer="GCE4DGZ3Q3GFMXRDECXP34XQKSOZ77YD5YCSRC4C26HJEO3MNCTL65Y4"
+status="live"
+display_decimals=4
+name="ALEXANDRITE"
+fixed_number=25000000000
+desc="ALEXANDRITE is issued by Eastellar Team."
+conditions="Maximum supply of ALEXANDRITE is 25B tokens only"
+image="https://eastellar.com/images/ALEXANDRITE.jpg"
+
+[[CURRENCIES]]
+code="HABISCUS"
+issuer="GCXLDVSWTX67GA6ZHPDC6FB7ALTJCV4XXYIRIUJMYOUQESNF7FIXI4W2"
+status="live"
+display_decimals=4
+name="HABISCUS"
+fixed_number=25000000000
+desc="HABISCUS is issued by Eastellar Team."
+conditions="Maximum supply of HABISCUS is 25B tokens only"
+image="https://eastellar.com/images/HABISCUS.png"
+
+[[CURRENCIES]]
+code="CURVEz"
+issuer="GDKGKDNGDHQSLWMXWCDFHA5UIJGIVLT4QZNHJLSLYWWS7APMZG7YOLQX"
+status="live"
+display_decimals=4
+name="CURVEz"
+fixed_number=25000000000
+desc="CURVEz is issued by Eastellar Team."
+conditions="Maximum supply of CURVEz is 25B tokens only"
+image="https://eastellar.com/images/CURVEz.png"
+
+[[CURRENCIES]]
+code="ANEMONE"
+issuer="GDTLE6FVM7QGD73QHGABVZCWXJSKLGGXYJTUZZZBQCWPS3BTT6VAI7I6"
+status="live"
+display_decimals=4
+name="ANEMONE"
+fixed_number=25000000000
+desc="ANEMONE is issued by Eastellar Team."
+conditions="Maximum supply of ANEMONE is 25B tokens only"
+image="https://eastellar.com/images/ANEMONE.png"
+
+[[CURRENCIES]]
+code="BICOz"
+issuer="GB5WKZHBNMRS5EMSW6BGH2L32WUAYSCZY7XGVYZBYR4IJ4MQVNGHY75J"
+status="live"
+display_decimals=4
+name="BICOz"
+fixed_number=25000000000
+desc="BICOz is issued by Eastellar Team."
+conditions="Maximum supply of BICOz is 25B tokens only"
+image="https://eastellar.com/images/BICOz.png"
+
+[[CURRENCIES]]
+code="SUNFLOWER"
+issuer="GA4NVJ2KAAETYNTSPZQ4IELYDYU37UXCGIWA3CKEJUNAL2GUGD45N3UT"
+status="live"
+display_decimals=4
+name="SUNFLOWER"
+fixed_number=25000000000
+desc="SUNFLOWER is issued by Eastellar Team."
+conditions="Maximum supply of SUNFLOWER is 25B tokens only"
+image="https://eastellar.com/images/SUNFLOWER.png"
+
+[[CURRENCIES]]
+code="TRAAFEITE"
+issuer="GAM5GICGGZB2VJUSYK2U6U36U7S6NW3S6UFGPF2MRIMPK2IHEVBNSPRL"
+status="live"
+display_decimals=4
+name="TRAAFEITE"
+fixed_number=25000000000
+desc="TRAAFEITE is issued by Eastellar Team."
+conditions="Maximum supply of TRAAFEITE is 25B tokens only"
+image="https://eastellar.com/images/TRAAFEITE.png"
+
+[[CURRENCIES]]
+code="CELOSIA"
+issuer="GCM3BUYC62OU6SMQB6NURJJLJIVXJSLFBDOECAHCWLPUWTMPUOAYTLP2"
+status="live"
+display_decimals=4
+name="CELOSIA"
+fixed_number=25000000000
+desc="CELOSIA is issued by Eastellar Team."
+conditions="Maximum supply of CELOSIA is 25B tokens only"
+image="https://eastellar.com/images/CELOSIA.png"
+
+[[CURRENCIES]]
+code="MATICz"
+issuer="GAVYHEZPDIQLKWXB4O77BRZGT2QT7UZN2LVLMPTEI4GGMG5RLLDXAWTX"
+status="live"
+display_decimals=4
+name="MATICz"
+fixed_number=25000000000
+desc="MATICz is issued by Eastellar Team."
+conditions="Maximum supply of MATICz is 25B tokens only"
+image="https://eastellar.com/images/MATICz.png"
+
+[[CURRENCIES]]
+code="BOUGAINVILLE"
+issuer="GC5C6QVOLGOS65UVDC2UYILNDGS6TARKZFEYFSSAMHZBZQWDZJU4SBFB"
+status="live"
+display_decimals=4
+name="BOUGAINVILLE"
+fixed_number=25000000000
+desc="BOUGAINVILLE is issued by Eastellar Team."
+conditions="Maximum supply of BOUGAINVILLE is 25B tokens only"
+image="https://eastellar.com/images/BOUGAINVILLE.png"
+
+[[CURRENCIES]]
+code="FOURTY"
+issuer="GCV3CIYZ7KANEFWPVVQLIF5IFOFUVJBKIG7U7BQRMTH2KEG434Z4A4M6"
+status="live"
+display_decimals=4
+name="FOURTY"
+fixed_number=25000000000
+desc="FOURTY is issued by Eastellar Team."
+conditions="Maximum supply of FOURTY is 25B tokens only"
+image="https://eastellar.com/images/FOURTY.png"
+
+[[CURRENCIES]]
+code="CARNATION"
+issuer="GDZP4ECQ3QHAIEQOMTMF3AW5NHBYCXYDQXEMHJMK4YO5OKYS7AWRTBJ4"
+status="live"
+display_decimals=4
+name="CARNATION"
+fixed_number=25000000000
+desc="CARNATION is issued by Eastellar Team."
+conditions="Maximum supply of CARNATION is 25B tokens only"
+image="https://eastellar.com/images/CARNATION.png"
+
+[[CURRENCIES]]
+code="CNYz"
+issuer="GA745GJ4DMIHRANTDM4SOAY3JQYFOP3NQ32XOL7NUOESP3MAXOTBZ56S"
+status="live"
+display_decimals=4
+name="CNYz"
+fixed_number=25000000000
+desc="CNYz is issued by Eastellar Team."
+conditions="Maximum supply of CNYz is 25B tokens only"
+image="https://eastellar.com/images/CNYz.png"
+
+[[CURRENCIES]]
+code="HAWAIIAN"
+issuer="GCEVVQR3WJQNAQOMCDG2U4QWVRQ6W4R7BLCANZMZFDWYU7KLFSJW6PG6"
+status="live"
+display_decimals=4
+name="HAWAIIAN"
+fixed_number=25000000000
+desc="HAWAIIAN is issued by Eastellar Team."
+conditions="Maximum supply of HAWAIIAN is 25B tokens only"
+image="https://eastellar.com/images/HAWAIIAN.png"
+
+[[CURRENCIES]]
+code="MORINGA"
+issuer="GDS2ELGHOF7HNAWGAINYWUUPAZ6WAGMYSO2HH56MNS2M46MXGD2SISMB"
+status="live"
+display_decimals=4
+name="MORINGA"
+fixed_number=25000000000
+desc="MORINGA is issued by Eastellar Team."
+conditions="Maximum supply of MORINGA is 25B tokens only"
+image="https://eastellar.com/images/MORINGA.png"
+
+[[CURRENCIES]]
+code="CAMELLIA"
+issuer="GDDD3MSSENNJF2HVQEXGLGVVXBRC3DZXC5MPICGR4WEOHYLL3TIAM2RE"
+status="live"
+display_decimals=4
+name="CAMELLIA"
+fixed_number=25000000000
+desc="CAMELLIA is issued by Eastellar Team."
+conditions="Maximum supply of CAMELLIA is 25B tokens only"
+image="https://eastellar.com/images/CAMELLIA.png"
+
+[[CURRENCIES]]
+code="AXSz"
+issuer="GAAAA3EVSEUUTNAUNQKB5PDSPW7KEQCRNLJ5JB5YLZKRUO6HZWDLJ5HJ"
+status="live"
+display_decimals=4
+name="AXSz"
+fixed_number=25000000000
+desc="AXSz is issued by Eastellar Team."
+conditions="Maximum supply of AXSz is 25B tokens only"
+image="https://eastellar.com/images/AXSz.png"
+
+[[CURRENCIES]]
+code="TUBERUSE"
+issuer="GABSRHHYR5NPN5T4DHHS3JK6KZWLQBNB43FKNKI4TMM6OVJPHDRH5LYU"
+status="live"
+display_decimals=4
+name="TUBERUSE"
+fixed_number=25000000000
+desc="TUBERUSE is issued by Eastellar Team."
+conditions="Maximum supply of TUBERUSE is 25B tokens only"
+image="https://eastellar.com/images/TUBERUSE.png"
+
+[[CURRENCIES]]
+code="NEARz"
+issuer="GBYA2P6JYZM6UOAC3YD7SBPVZZMPRQRHSV4IX6HMLU5YQ7VEYXGSJURT"
+status="live"
+display_decimals=4
+name="NEARz"
+fixed_number=25000000000
+desc="NEARz is issued by Eastellar Team."
+conditions="Maximum supply of NEARz is 25B tokens only"
+image="https://eastellar.com/images/NEARz.png"
+
+[[CURRENCIES]]
+code="HELICONIA"
+issuer="GDOW6NCUDXJ4EE4NVVNBIIIF7DAJIXKC4VYTYT3JLYTGL4MKST3QV4XB"
+status="live"
+display_decimals=4
+name="HELICONIA"
+fixed_number=25000000000
+desc="HELICONIA is issued by Eastellar Team."
+conditions="Maximum supply of HELICONIA is 25B tokens only"
+image="https://eastellar.com/images/HELICONIA.png"
+
+[[CURRENCIES]]
+code="PYBCz"
+issuer="GC7RE6ZK7MFRGJTE3NW3GNMSQTYVRYPWZULLVCVVEA5VZWKU5HSEODA3"
+status="live"
+display_decimals=4
+name="PYBCz"
+fixed_number=25000000000
+desc="PYBCz is issued by Eastellar Team."
+conditions="Maximum supply of PYBCz is 25B tokens only"
+image="https://eastellar.com/images/PYBCz.png"
+
+[[CURRENCIES]]
+code="CARCASS"
+issuer="GAR54J4QJTH4V6VNJMACPIATYH3BLLZGKIAHOWQMWNX2T5V2245CKSIU"
+status="live"
+display_decimals=4
+name="CARCASS"
+fixed_number=25000000000
+desc="CARCASS is issued by Eastellar Team."
+conditions="Maximum supply of CARCASS is 25B tokens only"
+image="https://eastellar.com/images/CARCASS.png"
+
+[[CURRENCIES]]
+code="TEN"
+issuer="GBJIKKNB7ZU7FIXZKLJNQD4S4UBD4EYGNB25PLEDM5XSHP6OTSHNYHU5"
+status="live"
+display_decimals=4
+name="TEN"
+fixed_number=25000000000
+desc="TEN is issued by Eastellar Team."
+conditions="Maximum supply of TEN is 25B tokens only"
+image="https://eastellar.com/images/TEN.png"
+
+[[CURRENCIES]]
+code="ORCHID"
+issuer="GD3ZQS2V2RQ7RCI2RC2UV4HJE3F2LDN2T2OG6SKF5CDW6DPTGF3D7O35"
+status="live"
+display_decimals=4
+name="ORCHID"
+fixed_number=25000000000
+desc="ORCHID is issued by Eastellar Team."
+conditions="Maximum supply of ORCHID is 25B tokens only"
+image="https://eastellar.com/images/ORCHID.png"
+
+[[CURRENCIES]]
+code="VADz"
+issuer="GA2K7XNRLRIOD7FHBCVGDY5GZRPEPJCW67Z2LUJV4U57FT4WL3UJ4GM4"
+status="live"
+display_decimals=4
+name="VADz"
+fixed_number=25000000000
+desc="VADz is issued by Eastellar Team."
+conditions="Maximum supply of VADz is 25B tokens only"
+image="https://eastellar.com/images/VADz.png"
+
+[[CURRENCIES]]
+code="JASMINE"
+issuer="GBIVXTPMSR5KSZ46VZHGCXGKNVUKHKUGMIQ4X4M2RN7FDQB4X2EENNSS"
+status="live"
+display_decimals=4
+name="JASMINE"
+fixed_number=25000000000
+desc="JASMINE is issued by Eastellar Team."
+conditions="Maximum supply of JASMINE is 25B tokens only"
+image="https://eastellar.com/images/JASMINE.png"
+
+[[CURRENCIES]]
+code="ATOMz"
+issuer="GB5RT7RA3DGGTAZYNEELMTRI542MLQYDIOJHID643NVWTQAFXHESCUSS"
+status="live"
+display_decimals=4
+name="ATOMz"
+fixed_number=25000000000
+desc="ATOMz is issued by Eastellar Team."
+conditions="Maximum supply of ATOMz is 25B tokens only"
+image="https://eastellar.com/images/ATOMz.png"
+
+[[CURRENCIES]]
+code="DELPHINIUM"
+issuer="GDCWAU6FVLZRRXGEVEQQU3TNTK6YZ4OWKGK76E6WZNAUAIX6WYUPPGLC"
+status="live"
+display_decimals=4
+name="DELPHINIUM"
+fixed_number=25000000000
+desc="DELPHINIUM is issued by Eastellar Team."
+conditions="Maximum supply of DELPHINIUM is 25B tokens only"
+image="https://eastellar.com/images/DELPHINIUM.png"
+
+[[CURRENCIES]]
+code="XMRz"
+issuer="GATAVMAU34X2MHDSBYZ7ITSRCMLERUSROH6CLWYEF3337DGCBYWWS6RU"
+status="live"
+display_decimals=4
+name="XMRz"
+fixed_number=25000000000
+desc="XMRz is issued by Eastellar Team."
+conditions="Maximum supply of XMRz is 25B tokens only"
+image="https://eastellar.com/images/XMRz.png"
+
+[[CURRENCIES]]
+code="LAVENDER"
+issuer="GD52ZNT4P6B5CUTNZD4RIXA463HGZMLWJY77R5C5H6CL5JC6LFNVRIPG"
+status="live"
+display_decimals=4
+name="LAVENDER"
+fixed_number=25000000000
+desc="LAVENDER is issued by Eastellar Team."
+conditions="Maximum supply of LAVENDER is 25B tokens only"
+image="https://eastellar.com/images/LAVENDER.png"
+
+[[CURRENCIES]]
+code="FIFTY"
+issuer="GCDQYBGZWB35TI7BYHQBXD4GVKTKO6EESBT5UVTRITFLMBVBFQRFO62S"
+status="live"
+display_decimals=4
+name="FIFTY"
+fixed_number=25000000000
+desc="FIFTY is issued by Eastellar Team."
+conditions="Maximum supply of FIFTY is 25B tokens only"
+image="https://eastellar.com/images/FIFTY.png"
+
+[[CURRENCIES]]
+code="MAGNOLIA"
+issuer="GCDSEFHLYU7QXUGXSJME6NMRXHACKAK6KX52Q363CPKVG46YEEU2XA2V"
+status="live"
+display_decimals=4
+name="MAGNOLIA"
+fixed_number=25000000000
+desc="MAGNOLIA is issued by Eastellar Team."
+conditions="Maximum supply of MAGNOLIA is 25B tokens only"
+image="https://eastellar.com/images/MAGNOLIA.png"
+
+[[CURRENCIES]]
+code="HNTz"
+issuer="GAB3PYCXJ6U3BMLWS3ZJEDNTT3JQEPMMQU33HJADS2YPPUX4BSSSFRVA"
+status="live"
+display_decimals=4
+name="HNTz"
+fixed_number=25000000000
+desc="HNTz is issued by Eastellar Team."
+conditions="Maximum supply of HNTz is 25B tokens only"
+image="https://eastellar.com/images/HNTz.png"
+
+[[CURRENCIES]]
+code="LOTUS"
+issuer="GD5DIUSZAHSYJN2P3DQS6YGSBDS2F2CQPBARHEONHBPBCSIFUOWT5GTT"
+status="live"
+display_decimals=4
+name="LOTUS"
+fixed_number=25000000000
+desc="LOTUS is issued by Eastellar Team."
+conditions="Maximum supply of LOTUS is 25B tokens only"
+image="https://eastellar.com/images/LOTUS.png"
+
+[[CURRENCIES]]
+code="AFRz"
+issuer="GDB26CAHNFKLVUNDXKNIQVNAN5PQRGXSJGAHXGS2TYHRVD2KECOO6HNW"
+status="live"
+display_decimals=4
+name="AFRz"
+fixed_number=25000000000
+desc="AFRz is issued by Eastellar Team."
+conditions="Maximum supply of AFRz is 25B tokens only"
+image="https://eastellar.com/images/AFRz.png"
+
+[[CURRENCIES]]
+code="ORNAMENT"
+issuer="GBNKBWDSBKIFS5A5LRBNLWNFTPCUPXYVY6EXAOPLTIVFBTTXM6RS63YU"
+status="live"
+display_decimals=4
+name="ORNAMENT"
+fixed_number=25000000000
+desc="ORNAMENT is issued by Eastellar Team."
+conditions="Maximum supply of ORNAMENT is 25B tokens only"
+image="https://eastellar.com/images/ORNAMENT.png"
+
+[[CURRENCIES]]
+code="LINKz"
+issuer="GCBP544SEI2RQYKHFYD2AZBEABLQGXEF5O6JV5OJANLRIBQXHLCNBQ2U"
+status="live"
+display_decimals=4
+name="LINKz"
+fixed_number=25000000000
+desc="LINKz is issued by Eastellar Team."
+conditions="Maximum supply of LINKz is 25B tokens only"
+image="https://eastellar.com/images/LINKz.png"
+
+[[CURRENCIES]]
+code="CLOVER"
+issuer="GBJPUF2PKIUELDXSJNWEGXBBJCPZ2FCB6YPGJTMAWROUQ23HDCRU2DEJ"
+status="live"
+display_decimals=4
+name="CLOVER"
+fixed_number=25000000000
+desc="CLOVER is issued by Eastellar Team."
+conditions="Maximum supply of CLOVER is 25B tokens only"
+image="https://eastellar.com/images/CLOVER.png"
+
+[[CURRENCIES]]
+code="DIAMOND"
+issuer="GBSBVQ7WQYAURL7XZMB5PE7KDPOH74TGE64DKG7MGSVW6GXZVZSMS4SO"
+status="live"
+display_decimals=4
+name="DIAMOND"
+fixed_number=25000000000
+desc="DIAMOND is issued by Eastellar Team."
+conditions="Maximum supply of DIAMOND is 25B tokens only"
+image="https://eastellar.com/images/DIAMOND.png"
+
+[[CURRENCIES]]
+code="DAFFODIL"
+issuer="GA25XDEH6LHC5DUTVCGG3GOFCLLJ5MZNGHP5EZ5IQLNKXTMW7D3USNXX"
+status="live"
+display_decimals=4
+name="DAFFODIL"
+fixed_number=25000000000
+desc="DAFFODIL is issued by Eastellar Team."
+conditions="Maximum supply of DAFFODIL is 25B tokens only"
+image="https://eastellar.com/images/DAFFODIL.png"
+
+[[CURRENCIES]]
+code="RIOz"
+issuer="GDYOOLTKA7M5EXA2RTYGSZ62RV4XKDUIFXULOJCRXGH42H7N45H5QDUQ"
+status="live"
+display_decimals=4
+name="RIOz"
+fixed_number=25000000000
+desc="RIOz is issued by Eastellar Team."
+conditions="Maximum supply of RIOz is 25B tokens only"
+image="https://eastellar.com/images/RIOz.png"
+
+[[CURRENCIES]]
+code="EUPHORBIA"
+issuer="GBWXFWIHTMXQESGWHO4LJ6M7TXPYFIBIF6IW7Z452IQBLSQD5NIFWUUU"
+status="live"
+display_decimals=4
+name="EUPHORBIA"
+fixed_number=25000000000
+desc="EUPHORBIA is issued by Eastellar Team."
+conditions="Maximum supply of EUPHORBIA is 25B tokens only"
+image="https://eastellar.com/images/EUPHORBIA.png"
+
+[[CURRENCIES]]
+code="MXNz"
+issuer="GCHOGSOPVIIK6ZYVTVB5PGT7QQ42GVCACX5ESFQIUU25QNFYY5ZWIJLO"
+status="live"
+display_decimals=4
+name="MXNz"
+fixed_number=25000000000
+desc="MXNz is issued by Eastellar Team."
+conditions="Maximum supply of MXNz is 25B tokens only"
+image="https://eastellar.com/images/MXNz.png"
+
+[[CURRENCIES]]
+code="CROCUS"
+issuer="GANWDWN4BXIUVGN6BULXI4SEWF5JYSTFG5R5HLGR4TSUNKZBJBSCUT35"
+status="live"
+display_decimals=4
+name="CROCUS"
+fixed_number=25000000000
+desc="CROCUS is issued by Eastellar Team."
+conditions="Maximum supply of CROCUS is 25B tokens only"
+image="https://eastellar.com/images/CROCUS.png"
+
+[[CURRENCIES]]
+code="XIMz"
+issuer="GAPZACRXWEXHWKUMI7KDKD26SXY5ZUXNYLQOZFPPRRCVIKPGCMIICCK7"
+status="live"
+display_decimals=4
+name="XIMz"
+fixed_number=25000000000
+desc="XIMz is issued by Eastellar Team."
+conditions="Maximum supply of XIMz is 25B tokens only"
+image="https://eastellar.com/images/XIMz.png"
+
+[[CURRENCIES]]
+code="CHICORY"
+issuer="GAPCGHPTA4346HQNDA2LHOXMPLS5R4DLZN7LGWP4T3YGY5TI4GMPARQD"
+status="live"
+display_decimals=4
+name="CHICORY"
+fixed_number=25000000000
+desc="CHICORY is issued by Eastellar Team."
+conditions="Maximum supply of CHICORY is 25B tokens only"
+image="https://eastellar.com/images/CHICORY.png"
+
+[[CURRENCIES]]
+code="ANSRz"
+issuer="GDMEAFJF4RO7ENJG2RVVSJRQM5BCAZUXFRTLEG7YG7CRA3QRNTPA3FZO"
+status="live"
+display_decimals=4
+name="ANSRz"
+fixed_number=25000000000
+desc="ANSRz is issued by Eastellar Team."
+conditions="Maximum supply of ANSRz is 25B tokens only"
+image="https://eastellar.com/images/ANSRz.png"
+
+[[CURRENCIES]]
+code="DANDELION"
+issuer="GAST2RFSXTACLZFQIEALURCPRD7BRNE5OJ2ZNEWWYZS2UWBCYIZCHT5D"
+status="live"
+display_decimals=4
+name="DANDELION"
+fixed_number=25000000000
+desc="DANDELION is issued by Eastellar Team."
+conditions="Maximum supply of DANDELION is 25B tokens only"
+image="https://eastellar.com/images/DANDELION.png"
+
+[[CURRENCIES]]
+code="GTNz"
+issuer="GARYPDMCRZFW6DZHUFZHKSOYYXUQNVRZASDVWJBRK3AEBYBK3XRBCFGP"
+status="live"
+display_decimals=4
+name="GTNz"
+fixed_number=25000000000
+desc="GTNz is issued by Eastellar Team."
+conditions="Maximum supply of GTNz is 25B tokens only"
+image="https://eastellar.com/images/GTNz.png"
+
+[[CURRENCIES]]
+code="ASTER"
+issuer="GDB7G5HWMX74HFKUK6DNPJNBWOKLQITVZVQGYOG5ZYR3QYTC44G3KXNM"
+status="live"
+display_decimals=4
+name="ASTER"
+fixed_number=25000000000
+desc="ASTER is issued by Eastellar Team."
+conditions="Maximum supply of ASTER is 25B tokens only"
+image="https://eastellar.com/images/ASTER.png"
+
+[[CURRENCIES]]
+code="NGNz"
+issuer="GAPHEBA7FOURIIZII5BAQ4ADA67UHI2U7XJGFDQRIQH7KHROYGDAWHFE"
+status="live"
+display_decimals=4
+name="NGNz"
+fixed_number=25000000000
+desc="NGNz is issued by Eastellar Team."
+conditions="Maximum supply of NGNz is 25B tokens only"
+image="https://eastellar.com/images/NGNz.png"
+
+[[CURRENCIES]]
+code="EDELWEISS"
+issuer="GAH5VEBFTWBVYK4YHP4YQKC7S4WG3J4U2NV73T3SZCOF75I6PWLAJZY5"
+status="live"
+display_decimals=4
+name="EDELWEISS"
+fixed_number=25000000000
+desc="EDELWEISS is issued by Eastellar Team."
+conditions="Maximum supply of EDELWEISS is 25B tokens only"
+image="https://eastellar.com/images/EDELWEISS.png"
+
+[[CURRENCIES]]
+code="TWENTYFIVE"
+issuer="GDAUWGJWA7HFRTJ3IG7IZALG77KDLG4SHFH26BSPSGITE2R6IOW6ZGBH"
+status="live"
+display_decimals=4
+name="TWENTYFIVE"
+fixed_number=25000000000
+desc="TWENTYFIVE is issued by Eastellar Team."
+conditions="Maximum supply of TWENTYFIVE is 25B tokens only"
+image="https://eastellar.com/images/TWENTYFIVE.png"
+
+[[CURRENCIES]]
+code="FRESSIA"
+issuer="GBE3OXDDMZFZ74OUKUSKE34KGIBAHZTQHCRGS2DZNONFATVF36XLLZZV"
+status="live"
+display_decimals=4
+name="FRESSIA"
+fixed_number=25000000000
+desc="FRESSIA is issued by Eastellar Team."
+conditions="Maximum supply of FRESSIA is 25B tokens only"
+image="https://eastellar.com/images/FRESSIA.png"
+
+[[CURRENCIES]]
+code="XEMz"
+issuer="GCFGTSAR5RPORYOURPULZMTZYRSQI2LKSZIJ3EBXW7SL57RTX6NDWXIX"
+status="live"
+display_decimals=4
+name="XEMz"
+fixed_number=25000000000
+desc="XEMz is issued by Eastellar Team."
+conditions="Maximum supply of XEMz is 25B tokens only"
+image="https://eastellar.com/images/XEMz.png"
+
+[[CURRENCIES]]
+code="HAWTHORN"
+issuer="GCP4EUT7MJ75FV7FE6PFS6RCRBQUGUQI2PJXLWTVKHDON67SSWXIV42Y"
+status="live"
+display_decimals=4
+name="HAWTHORN"
+fixed_number=25000000000
+desc="HAWTHORN is issued by Eastellar Team."
+conditions="Maximum supply of HAWTHORN is 25B tokens only"
+image="https://eastellar.com/images/HAWTHORN.png"
+
+[[CURRENCIES]]
+code="NEXOz"
+issuer="GC25H2DTSMCEYQQOJVLLDNGH6YH4Z6XEERZVRICZQ4GI4NHQOCOPVY4V"
+status="live"
+display_decimals=4
+name="NEXOz"
+fixed_number=25000000000
+desc="NEXOz is issued by Eastellar Team."
+conditions="Maximum supply of NEXOz is 25B tokens only"
+image="https://eastellar.com/images/NEXOz.png"
+
+[[CURRENCIES]]
+code="GOLDENROD"
+issuer="GC62Z45RVWS5W2KXTIFPBSBXRP4WMQ5R2U5HDGCMMDHOLYNZUASKU2XY"
+status="live"
+display_decimals=4
+name="GOLDENROD"
+fixed_number=25000000000
+desc="GOLDENROD is issued by Eastellar Team."
+conditions="Maximum supply of GOLDENROD is 25B tokens only"
+image="https://eastellar.com/images/GOLDENROD.png"
+
+[[CURRENCIES]]
+code="STACKSz"
+issuer="GB2MR5GG2USL5YHRC47GKUBGYRVVNJ6OK7VZIR5RKQPH5OCSUI6XUPEL"
+status="live"
+display_decimals=4
+name="STACKSz"
+fixed_number=25000000000
+desc="STACKSz is issued by Eastellar Team."
+conditions="Maximum supply of STACKSz is 25B tokens only"
+image="https://eastellar.com/images/STACKSz.png"
+
+[[CURRENCIES]]
+code="HEATER"
+issuer="GAKVPHBUMCDRCI25XCHK3GZ6ZPM4CF3VZMEQBUAR6NPMQHWAZXXVZ3VG"
+status="live"
+display_decimals=4
+name="HEATER"
+fixed_number=25000000000
+desc="HEATER is issued by Eastellar Team."
+conditions="Maximum supply of HEATER is 25B tokens only"
+image="https://eastellar.com/images/HEATER.png"
+
+[[CURRENCIES]]
+code="ARKz"
+issuer="GBDKNCOWCS6ARK56NQTPRGZGADFZIQFZOP2NVIOWZDYIRKJSHEZO3RAE"
+status="live"
+display_decimals=4
+name="ARKz"
+fixed_number=25000000000
+desc="ARKz is issued by Eastellar Team."
+conditions="Maximum supply of ARKz is 25B tokens only"
+image="https://eastellar.com/images/ARKz.png"
+
+[[CURRENCIES]]
+code="HONEYSUCKLE"
+issuer="GA4KWWYKN3OGTITNANKYN3NX3TN5MS6LNKSHKSDNQS5KW4OCYEDHHN5N"
+status="live"
+display_decimals=4
+name="HONEYSUCKLE"
+fixed_number=25000000000
+desc="HONEYSUCKLE is issued by Eastellar Team."
+conditions="Maximum supply of HONEYSUCKLE is 25B tokens only"
+image="https://eastellar.com/images/HONEYSUCKLE.png"
+
+[[CURRENCIES]]
+code="LRCz"
+issuer="GCYNR4XOB6EMEUPCOOHHAGIYF7UU5RRPDAROK7MLG72Q7HVPYXQZZMCI"
+status="live"
+display_decimals=4
+name="LRCz"
+fixed_number=25000000000
+desc="LRCz is issued by Eastellar Team."
+conditions="Maximum supply of LRCz is 25B tokens only"
+image="https://eastellar.com/images/LRCz.png"
+
+[[CURRENCIES]]
+code="GLADIOLUS"
+issuer="GCQXE4T4XDKUQPGQTATZFI5LLJHCLKKPBCNGZZIJ2QUDGXEXN7EPKF7A"
+status="live"
+display_decimals=4
+name="GLADIOLUS"
+fixed_number=25000000000
+desc="GLADIOLUS is issued by Eastellar Team."
+conditions="Maximum supply of GLADIOLUS is 25B tokens only"
+image="https://eastellar.com/images/GLADIOLUS.png"
+
+[[CURRENCIES]]
+code="TETHERz"
+issuer="GBT4HWODSZVXPBWKHRZY7D5UHF3QZ6JNPJPD5KP6HPDS5WXWNDLEN4G7"
+status="live"
+display_decimals=4
+name="TETHERz"
+fixed_number=25000000000
+desc="TETHERz is issued by Eastellar Team."
+conditions="Maximum supply of TETHERz is 25B tokens only"
+image="https://eastellar.com/images/TETHERz.png"
+
+[[CURRENCIES]]
+code="HYACINTH"
+issuer="GBZDAAS2AGOOKTG7TP5ISBHN2GHMR57IDQESE5MXH4A7ZTZKBKKFBODY"
+status="live"
+display_decimals=4
+name="HYACINTH"
+fixed_number=25000000000
+desc="HYACINTH is issued by Eastellar Team."
+conditions="Maximum supply of HYACINTH is 25B tokens only"
+image="https://eastellar.com/images/HYACINTH.png"
+
+[[CURRENCIES]]
+code="AMPz"
+issuer="GBFWNKINQ5YVFVZOURGHVH3PATAKPHVI7DOHBCRIPWVDH4OSW372M23D"
+status="live"
+display_decimals=4
+name="AMPz"
+fixed_number=25000000000
+desc="AMPz is issued by Eastellar Team."
+conditions="Maximum supply of AMPz is 25B tokens only"
+image="https://eastellar.com/images/AMPz.png"
+
+[[CURRENCIES]]
+code="LANTANA"
+issuer="GAOQWGG2XSEA3UCKJS7H5ACIKBJAMEQMYHGY7C62I5HIEKGEBWROWKVO"
+status="live"
+display_decimals=4
+name="LANTANA"
+fixed_number=25000000000
+desc="LANTANA is issued by Eastellar Team."
+conditions="Maximum supply of LANTANA is 25B tokens only"
+image="https://eastellar.com/images/LANTANA.png"
+
+[[CURRENCIES]]
+code="QUANTz"
+issuer="GBBF7VFAQZXMVEYKV7UTGURSYIGN6GNP42H2NZONYPAN773B3GIDNLSE"
+status="live"
+display_decimals=4
+name="QUANTz"
+fixed_number=25000000000
+desc="QUANTz is issued by Eastellar Team."
+conditions="Maximum supply of QUANTz is 25B tokens only"
+image="https://eastellar.com/images/QUANTz.png"
+
+[[CURRENCIES]]
+code="POPPY"
+issuer="GCPE5GULT2IIDW5DFZGXDQLSKEO42OJSOVH7EVN67U4SNAIEOV4R2VB5"
+status="live"
+display_decimals=4
+name="POPPY"
+fixed_number=25000000000
+desc="POPPY is issued by Eastellar Team."
+conditions="Maximum supply of POPPY is 25B tokens only"
+image="https://eastellar.com/images/POPPY.png"
+
+[[CURRENCIES]]
+code="BSVz"
+issuer="GDT7SICOLIN6XZEWDTOBNYLHZ5UEQ3UKBG5HAUD4F2V4VH4TQQUA3YFY"
+status="live"
+display_decimals=4
+name="BSVz"
+fixed_number=25000000000
+desc="BSVz is issued by Eastellar Team."
+conditions="Maximum supply of BSVz is 25B tokens only"
+image="https://eastellar.com/images/BSVz.png"
+
+[[CURRENCIES]]
+code="GARDENIA"
+issuer="GBBOWHX752AAZX2SRMAU426JRCHKLYBVKK63W5H5VYC72QWFQYGV3QFQ"
+status="live"
+display_decimals=4
+name="GARDENIA"
+fixed_number=25000000000
+desc="GARDENIA is issued by Eastellar Team."
+conditions="Maximum supply of GARDENIA is 25B tokens only"
+image="https://eastellar.com/images/GARDENIA.png"
+
+[[CURRENCIES]]
+code="OHMz"
+issuer="GB2GHWKFZIYTFXCVOQDBIKAO6YHU6CJAHVX62EM3TBR7T65AZYOPBMOK"
+status="live"
+display_decimals=4
+name="OHMz"
+fixed_number=25000000000
+desc="OHMz is issued by Eastellar Team."
+conditions="Maximum supply of OHMz is 25B tokens only"
+image="https://eastellar.com/images/OHMz.png"
+
+[[CURRENCIES]]
+code="JONQUIL"
+issuer="GDBAEJLQR3YKC54A52K4ZG4ZHNF5RECHRZ6JQBHZ3CJS5P5WNGIUXWNB"
+status="live"
+display_decimals=4
+name="JONQUIL"
+fixed_number=25000000000
+desc="JONQUIL is issued by Eastellar Team."
+conditions="Maximum supply of JONQUIL is 25B tokens only"
+image="https://eastellar.com/images/JONQUIL.png"
+
+[[CURRENCIES]]
+code="CELOz"
+issuer="GBOSLHAGDJFPZPW27SZOXMVKSUYVGB6Q2FXOFDPAZCI7BVKHDXUNKRLQ"
+status="live"
+display_decimals=4
+name="CELOz"
+fixed_number=25000000000
+desc="CELOz is issued by Eastellar Team."
+conditions="Maximum supply of CELOz is 25B tokens only"
+image="https://eastellar.com/images/CELOz.png"
+
+[[CURRENCIES]]
+code="GERBERA"
+issuer="GBC7TDREL47PQKQYCKE5FW5UKAJS7XNCPD6PSOJM4MPDAMI6KLXRJQTU"
+status="live"
+display_decimals=4
+name="GERBERA"
+fixed_number=25000000000
+desc="GERBERA is issued by Eastellar Team."
+conditions="Maximum supply of GERBERA is 25B tokens only"
+image="https://eastellar.com/images/GERBERA.png"
+
+[[CURRENCIES]]
+code="SPELLz"
+issuer="GAAHEOD5W6W2L4SIXIAAVDJZG5SBYWKMCN5JQA5MK3XWUTU2IP3GZSWT"
+status="live"
+display_decimals=4
+name="SPELLz"
+fixed_number=25000000000
+desc="SPELLz is issued by Eastellar Team."
+conditions="Maximum supply of SPELLz is 25B tokens only"
+image="https://eastellar.com/images/SPELLz.png"
+
+[[CURRENCIES]]
+code="MALLOW"
+issuer="GDOZ5YALBNQEFVEZ2L7YTI4VALGYYG7H3NGZ6AKH6IVZOAYJCFVLL376"
+status="live"
+display_decimals=4
+name="MALLOW"
+fixed_number=25000000000
+desc="MALLOW is issued by Eastellar Team."
+conditions="Maximum supply of MALLOW is 25B tokens only"
+image="https://eastellar.com/images/MALLOW.png"
+
+[[CURRENCIES]]
+code="ZECz"
+issuer="GBJDCA2MXSZBDER36BOKWI4BQLQZKD7AGO2YU6EOZEFYJCKDVPQDIWXP"
+status="live"
+display_decimals=4
+name="ZECz"
+fixed_number=25000000000
+desc="ZECz is issued by Eastellar Team."
+conditions="Maximum supply of ZECz is 25B tokens only"
+image="https://eastellar.com/images/ZECz.png"
+
+[[CURRENCIES]]
+code="SAKURA"
+issuer="GCUVAQQYNNVGAOLDNAQETNLNGHL44MG6HQRVUOOSSCP7W5UCDNSTWESH"
+status="live"
+display_decimals=4
+name="SAKURA"
+fixed_number=25000000000
+desc="SAKURA is issued by Eastellar Team."
+conditions="Maximum supply of SAKURA is 25B tokens only"
+image="https://eastellar.com/images/SAKURA.png"
+
+[[CURRENCIES]]
+code="OSMOz"
+issuer="GATPZZ5C5HFU6B7WGYIEA2GXDJVT3FGDMSYLTR7Q55XXADCYLFIW3PUW"
+status="live"
+display_decimals=4
+name="OSMOz"
+fixed_number=25000000000
+desc="OSMOz is issued by Eastellar Team."
+conditions="Maximum supply of OSMOz is 25B tokens only"
+image="https://eastellar.com/images/OSMOz.png"
+
+[[CURRENCIES]]
+code="MARIGOLD"
+issuer="GCHPNGY4P2WYZJMTOA6XEBUJMMDMJYE6HXXRWFHPB2RDELL2JLQXDENE"
+status="live"
+display_decimals=4
+name="MARIGOLD"
+fixed_number=25000000000
+desc="MARIGOLD is issued by Eastellar Team."
+conditions="Maximum supply of MARIGOLD is 25B tokens only"
+image="https://eastellar.com/images/MARIGOLD.png"
+
+[[CURRENCIES]]
+code="CHZz"
+issuer="GAD3QJHXC2G4N4PNUPC42CAMX4QOHZ3B435PFXRCCKDPPO7OA6MK4VWW"
+status="live"
+display_decimals=4
+name="CHZz"
+fixed_number=25000000000
+desc="CHZz is issued by Eastellar Team."
+conditions="Maximum supply of CHZz is 25B tokens only"
+image="https://eastellar.com/images/CHZz.png"
+
+[[CURRENCIES]]
+code="ROSE"
+issuer="GCWVYCGTEFXIQVB6YHRU4V736MZBA5FMDQQH5VYDUPS2K5P2T5TATL6R"
+status="live"
+display_decimals=4
+name="ROSE"
+fixed_number=25000000000
+desc="ROSE is issued by Eastellar Team."
+conditions="Maximum supply of ROSE is 25B tokens only"
+image="https://eastellar.com/images/ROSE.png"
+
+[[CURRENCIES]]
+code="TUSDz"
+issuer="GCIY3ZENPE33KO74YGZUI56HR5QZIDF5TVWCEMZWPKL54QED33CK7JKM"
+status="live"
+display_decimals=4
+name="TUSDz"
+fixed_number=25000000000
+desc="TUSDz is issued by Eastellar Team."
+conditions="Maximum supply of TUSDz is 25B tokens only"
+image="https://eastellar.com/images/TUSDz.png"
+
+[[CURRENCIES]]
+code="PRIMROSE"
+issuer="GBMXUKIMN7MVVQNVSADXA6FNZLXUF33HFLPDE6AMLXOQW6CYQP7VJ64J"
+status="live"
+display_decimals=4
+name="PRIMROSE"
+fixed_number=25000000000
+desc="PRIMROSE is issued by Eastellar Team."
+conditions="Maximum supply of PRIMROSE is 25B tokens only"
+image="https://eastellar.com/images/PRIMROSE.png"
+
+[[CURRENCIES]]
+code="USDCz"
+issuer="GDTBOHIKAQK34GHB3KOJ3CQJ6PR7O7PFXLX2VJFHYCXTEKZ5SO4BNT2Q"
+status="live"
+display_decimals=4
+name="USDCz"
+fixed_number=25000000000
+desc="USDCz is issued by Eastellar Team."
+conditions="Maximum supply of USDCz is 25B tokens only"
+image="https://eastellar.com/images/USDCz.png"
+
+[[CURRENCIES]]
+code="NASTURTIUM"
+issuer="GD2WXR5C5TS5HHUJOOJ3O7RCSXZLLOH5L65MAK7ZJUHKCUPBBJMPCDJ5"
+status="live"
+display_decimals=4
+name="NASTURTIUM"
+fixed_number=25000000000
+desc="NASTURTIUM is issued by Eastellar Team."
+conditions="Maximum supply of NASTURTIUM is 25B tokens only"
+image="https://eastellar.com/images/NASTURTIUM.png"
+
+[[CURRENCIES]]
+code="BUSDz"
+issuer="GAG6CBT5HJNO35PHITBUIJC7UCA3FDZ6BH3UFBP6PWD2GWH7UNQMXIO2"
+status="live"
+display_decimals=4
+name="BUSDz"
+fixed_number=25000000000
+desc="BUSDz is issued by Eastellar Team."
+conditions="Maximum supply of BUSDz is 25B tokens only"
+image="https://eastellar.com/images/BUSDz.png"
+
+[[CURRENCIES]]
+code="OLEANDER"
+issuer="GB3DAR6SHLP32MBRBXABGI3IU53722BK367DAZT2Y7PQX4W4OFOLAOQO"
+status="live"
+display_decimals=4
+name="OLEANDER"
+fixed_number=25000000000
+desc="OLEANDER is issued by Eastellar Team."
+conditions="Maximum supply of OLEANDER is 25B tokens only"
+image="https://eastellar.com/images/OLEANDER.png"
+
+[[CURRENCIES]]
+code="WBNBz"
+issuer="GB2NZGTKNTEYRITYULOTNI26LL6KJAW7IBOZAOUPFNBKD2OICSHORZQI"
+status="live"
+display_decimals=4
+name="WBNBz"
+fixed_number=25000000000
+desc="WBNBz is issued by Eastellar Team."
+conditions="Maximum supply of WBNBz is 25B tokens only"
+image="https://eastellar.com/images/WBNBz.png"
+
+[[CURRENCIES]]
+code="PANSY"
+issuer="GBHJ5ZYQLB4HC3GLZGOER4MPSZJZ4QD6QK7VOCNZRL4O4MLK2LJ6RZIS"
+status="live"
+display_decimals=4
+name="PANSY"
+fixed_number=25000000000
+desc="PANSY is issued by Eastellar Team."
+conditions="Maximum supply of PANSY is 25B tokens only"
+image="https://eastellar.com/images/PANSY.png"
+
+[[CURRENCIES]]
+code="DCRz"
+issuer="GAXJUKMRYR2L3FPCWYRDLZUN545AGH4LQXZXE5BZFYAQVFG64MRNXKDR"
+status="live"
+display_decimals=4
+name="DCRz"
+fixed_number=25000000000
+desc="DCRz is issued by Eastellar Team."
+conditions="Maximum supply of DCRz is 25B tokens only"
+image="https://eastellar.com/images/DCRz.png"
+
+[[CURRENCIES]]
+code="PASQUE"
+issuer="GCIUPP6VVZJHOSHC7UD3UKOGZI5CV55VRGYSDBZIAAMFRNH3C5YEH2QF"
+status="live"
+display_decimals=4
+name="PASQUE"
+fixed_number=25000000000
+desc="PASQUE is issued by Eastellar Team."
+conditions="Maximum supply of PASQUE is 25B tokens only"
+image="https://eastellar.com/images/PASQUE.png"
+
+[[CURRENCIES]]
+code="CROz"
+issuer="GD536U3OG35XZGFUOKME2KT263FXYVSPTH6WKYKO3TD4BZ3IDAGPO7P2"
+status="live"
+display_decimals=4
+name="CROz"
+fixed_number=25000000000
+desc="CROz is issued by Eastellar Team."
+conditions="Maximum supply of CROz is 25B tokens only"
+image="https://eastellar.com/images/CROz.png"
+
+[[CURRENCIES]]
+code="BLOSSOM"
+issuer="GBHGRO2RYCMMLB25OIRVY6JRETEMV76JWEBTAJLNWF7U2THF6674D7ZV"
+status="live"
+display_decimals=4
+name="BLOSSOM"
+fixed_number=25000000000
+desc="BLOSSOM is issued by Eastellar Team."
+conditions="Maximum supply of BLOSSOM is 25B tokens only"
+image="https://eastellar.com/images/BLOSSOM.png"
+
+[[CURRENCIES]]
+code="XRPz"
+issuer="GBTY5KU5NPESCX2HQVOLB3WCK76UERGBYB7XSQWI6PD7VCIJ4Y4ACDNX"
+status="live"
+display_decimals=4
+name="XRPz"
+fixed_number=25000000000
+desc="XRPz is issued by Eastellar Team."
+conditions="Maximum supply of XRPz is 25B tokens only"
+image="https://eastellar.com/images/XRPz.png"
+
+[[CURRENCIES]]
+code="PEONY"
+issuer="GDEVVUWOPYBTWDTEIT746QXSGSFN5AE6PW5CM5AQJOX35TE6PTC53NHZ"
+status="live"
+display_decimals=4
+name="PEONY"
+fixed_number=25000000000
+desc="PEONY is issued by Eastellar Team."
+conditions="Maximum supply of PEONY is 25B tokens only"
+image="https://eastellar.com/images/PEONY.png"
+
+[[CURRENCIES]]
+code="ETCz"
+issuer="GBZOOR6WQACR4E4AWNTIIXWPYDOFG2T6V4OAOH3LRXXR5JN7Q7DHVLOL"
+status="live"
+display_decimals=4
+name="ETCz"
+fixed_number=25000000000
+desc="ETCz is issued by Eastellar Team."
+conditions="Maximum supply of ETCz is 25B tokens only"
+image="https://eastellar.com/images/ETCz.png"
+
+[[CURRENCIES]]
+code="LAUREL"
+issuer="GDCPJV3CADOMJJCPIVLKOAKUV2ZDZINVFRY6H4OSNF5MKBOQD5TMQXQR"
+status="live"
+display_decimals=4
+name="LAUREL"
+fixed_number=25000000000
+desc="LAUREL is issued by Eastellar Team."
+conditions="Maximum supply of LAUREL is 25B tokens only"
+image="https://eastellar.com/images/LAUREL.png"
+
+[[CURRENCIES]]
+code="DAIz"
+issuer="GAH6WIT5NAPWPQPY7HYDQLCCXZX2IR3ZA6373WMZJKRUOBQBMJQ62ZZU"
+status="live"
+display_decimals=4
+name="DAIz"
+fixed_number=25000000000
+desc="DAIz is issued by Eastellar Team."
+conditions="Maximum supply of DAIz is 25B tokens only"
+image="https://eastellar.com/images/DAIz.png"
+
+[[CURRENCIES]]
+code="POINSETTIA"
+issuer="GAA3TEA7XGFAYUWSUXTKCUOAPDYCLVX2D42P4GMWBAZ7EZ3YSCOZVF7C"
+status="live"
+display_decimals=4
+name="POINSETTIA"
+fixed_number=25000000000
+desc="POINSETTIA is issued by Eastellar Team."
+conditions="Maximum supply of POINSETTIA is 25B tokens only"
+image="https://eastellar.com/images/POINSETTIA.png"
+
+[[CURRENCIES]]
+code="FREDz"
+issuer="GDYJHUSQP7FSO4ZBSKQLG4HZRMRESQQADMTTN5PYYVYBDG5GGPOMBIKC"
+status="live"
+display_decimals=4
+name="FREDz"
+fixed_number=25000000000
+desc="FREDz is issued by Eastellar Team."
+conditions="Maximum supply of FREDz is 25B tokens only"
+image="https://eastellar.com/images/FREDz.png"
+
+[[CURRENCIES]]
+code="PROTEA"
+issuer="GDPS745I6ACDJX5U7IR2WZ7IZNABSRDZS6EYNXVVOQRUACIFET7I7A6D"
+status="live"
+display_decimals=4
+name="PROTEA"
+fixed_number=25000000000
+desc="PROTEA is issued by Eastellar Team."
+conditions="Maximum supply of PROTEA is 25B tokens only"
+image="https://eastellar.com/images/PROTEA.png"
+
+[[CURRENCIES]]
+code="KESz"
+issuer="GC7QT7RJIPWURKX4ZVOTBSDPWCTAXFFTWVUBTUEZLVNFWZKVKW3YJOA2"
+status="live"
+display_decimals=4
+name="KESz"
+fixed_number=25000000000
+desc="KESz is issued by Eastellar Team."
+conditions="Maximum supply of KESz is 25B tokens only"
+image="https://eastellar.com/images/KESz.png"
+
+[[CURRENCIES]]
+code="MIMOSA"
+issuer="GDESQK32QTALLSMRUY7JGCUWYNCA4ET37UAPLZOP56VLJFGW4ZZOUQIA"
+status="live"
+display_decimals=4
+name="MIMOSA"
+fixed_number=25000000000
+desc="MIMOSA is issued by Eastellar Team."
+conditions="Maximum supply of MIMOSA is 25B tokens only"
+image="https://eastellar.com/images/MIMOSA.png"
+
+[[CURRENCIES]]
+code="TZSz"
+issuer="GA3MNWIVE2YCQYWHGQNEYY52H5N4OIBAVYAZBQSPDDEIS7Z2NCFOZKLK"
+status="live"
+display_decimals=4
+name="TZSz"
+fixed_number=25000000000
+desc="TZSz is issued by Eastellar Team."
+conditions="Maximum supply of TZSz is 25B tokens only"
+image="https://eastellar.com/images/TZSz.png"
+
+[[CURRENCIES]]
+code="REDROSE"
+issuer="GCGI5D732USESHHZTU6NNKTZZIYFKNP2ZLXDJ5ZKFAPOLASLNGKVGVOH"
+status="live"
+display_decimals=4
+name="REDROSE"
+fixed_number=25000000000
+desc="REDROSE is issued by Eastellar Team."
+conditions="Maximum supply of REDROSE is 25B tokens only"
+image="https://eastellar.com/images/REDROSE.png"
+
+[[CURRENCIES]]
+code="CLPXz"
+issuer="GDYCFFYCSEU5BMVFENMEF6MSRNX4YNW2MT2NUO6UY4QKJ5XJEL35XU46"
+status="live"
+display_decimals=4
+name="CLPXz"
+fixed_number=25000000000
+desc="CLPXz is issued by Eastellar Team."
+conditions="Maximum supply of CLPXz is 25B tokens only"
+image="https://eastellar.com/images/CLPXz.png"
+
+[[CURRENCIES]]
+code="QUINCE"
+issuer="GDTPS2KF3QH4ZKWCHHPRK5HHIBG3DYTFNUCKXGEXIY6MDAHJPYHE3LZA"
+status="live"
+display_decimals=4
+name="QUINCE"
+fixed_number=25000000000
+desc="QUINCE is issued by Eastellar Team."
+conditions="Maximum supply of QUINCE is 25B tokens only"
+image="https://eastellar.com/images/QUINCE.png"
+
+[[CURRENCIES]]
+code="BTCLNz"
+issuer="GAD737FBX5ABIPOG2WJUZDUGT3AI7GKBNYETJ3ZUR5CB2UOVNX25UERE"
+status="live"
+display_decimals=4
+name="BTCLNz"
+fixed_number=25000000000
+desc="BTCLNz is issued by Eastellar Team."
+conditions="Maximum supply of BTCLNz is 25B tokens only"
+image="https://eastellar.com/images/BTCLNz.png"
+
+[[CURRENCIES]]
+code="RANUNCULUS"
+issuer="GAU7UGMBN7IDJLWIYQAV4KVRA4IVSPEYXE3ADGIXZM3NYHLQDOIYRMJW"
+status="live"
+display_decimals=4
+name="RANUNCULUS"
+fixed_number=25000000000
+desc="RANUNCULUS is issued by Eastellar Team."
+conditions="Maximum supply of RANUNCULUS is 25B tokens only"
+image="https://eastellar.com/images/RANUNCULUS.png"
+
+[[CURRENCIES]]
+code="WXTz"
+issuer="GAM42FC3C5U7EU7XCR2FDFHF2TZEN7VSDUSGBEMMGIPY7N7L7FZQYRR4"
+status="live"
+display_decimals=4
+name="WXTz"
+fixed_number=25000000000
+desc="WXTz is issued by Eastellar Team."
+conditions="Maximum supply of WXTz is 25B tokens only"
+image="https://eastellar.com/images/WXTz.png"
+
+[[CURRENCIES]]
+code="SOLIDASTER"
+issuer="GAJQORGZZDU6KOQELIR4FUUZERYE3SL2TLDN5AJEX6DJBVKRYPLBWK5P"
+status="live"
+display_decimals=4
+name="SOLIDASTER"
+fixed_number=25000000000
+desc="SOLIDASTER is issued by Eastellar Team."
+conditions="Maximum supply of SOLIDASTER is 25B tokens only"
+image="https://eastellar.com/images/SOLIDASTER.png"
+
+[[CURRENCIES]]
+code="XXAz"
+issuer="GAL2CE2CC6LOLMND4QV7XUXMCLIIKKGDJTVPY5N3M7XWSFL64QKXW54W"
+status="live"
+display_decimals=4
+name="XXAz"
+fixed_number=25000000000
+desc="XXAz is issued by Eastellar Team."
+conditions="Maximum supply of XXAz is 25B tokens only"
+image="https://eastellar.com/images/XXAz.png"
+
+[[CURRENCIES]]
+code="VENUSFLYTRAP"
+issuer="GBF2PI36X3OLDVDVHZBO46OFUYCT64YIMXWCYU7CPFGFTPR7E3EXZBDB"
+status="live"
+display_decimals=4
+name="VENUSFLYTRAP"
+fixed_number=25000000000
+desc="VENUSFLYTRAP is issued by Eastellar Team."
+conditions="Maximum supply of VENUSFLYTRAP is 25B tokens only"
+image="https://eastellar.com/images/VENUSFLYTRAP.png"
+
+[[CURRENCIES]]
+code="SLTz"
+issuer="GDYKWUS7MKNH3MB3FZDDUUTF53WIIPRV3HV65UENEJHRJFJUGELK7WM7"
+status="live"
+display_decimals=4
+name="SLTz"
+fixed_number=25000000000
+desc="SLTz is issued by Eastellar Team."
+conditions="Maximum supply of SLTz is 25B tokens only"
+image="https://eastellar.com/images/SLTz.png"
+
+[[CURRENCIES]]
+code="MYRTLE"
+issuer="GDDDD7H6MWCR2N5TPARL23XDB5R4RJGH72XN5PW4JDKR24C67BW7FSPS"
+status="live"
+display_decimals=4
+name="MYRTLE"
+fixed_number=25000000000
+desc="MYRTLE is issued by Eastellar Team."
+conditions="Maximum supply of MYRTLE is 25B tokens only"
+image="https://eastellar.com/images/MYRTLE.png"
+
+[[CURRENCIES]]
+code="XCHFz"
+issuer="GDXZWW237ZXHMPQEFBGFGETK75XXZBMEODTD76WXUVSEGVDIFTWNUE5D"
+status="live"
+display_decimals=4
+name="XCHFz"
+fixed_number=25000000000
+desc="XCHFz is issued by Eastellar Team."
+conditions="Maximum supply of XCHFz is 25B tokens only"
+image="https://eastellar.com/images/XCHFz.png"
+
+[[CURRENCIES]]
+code="WOLFSBANE"
+issuer="GD2O7PRR5DEO3OLFC43LFQ63ZIMPSNNBG54MGYRUOZWL2XCAU5H6P2F7"
+status="live"
+display_decimals=4
+name="WOLFSBANE"
+fixed_number=25000000000
+desc="WOLFSBANE is issued by Eastellar Team."
+conditions="Maximum supply of WOLFSBANE is 25B tokens only"
+image="https://eastellar.com/images/WOLFSBANE.png"
+
+[[CURRENCIES]]
+code="XLMz"
+issuer="GDF7MYOTQ3PSVXQWNNZKJ3VPAWDGWO67IXFAS7SFTI3QYR5TFIIZXZ7M"
+status="live"
+display_decimals=4
+name="XLMz"
+fixed_number=25000000000
+desc="XLMz is issued by Eastellar Team."
+conditions="Maximum supply of XLMz is 25B tokens only"
+image="https://eastellar.com/images/XLMz.png"
+
+[[CURRENCIES]]
+code="KANGAROOPAW"
+issuer="GCAR5XS2M2RVONVJIDQBOQLOHVRBM2OQYWIMB5MYNJZQWPXE2PWAKJON"
+status="live"
+display_decimals=4
+name="KANGAROOPAW"
+fixed_number=25000000000
+desc="KANGAROOPAW is issued by Eastellar Team."
+conditions="Maximum supply of KANGAROOPAW is 25B tokens only"
+image="https://eastellar.com/images/KANGAROOPAW.png"
+
+[[CURRENCIES]]
+code="LSPz"
+issuer="GCTRWHXIZPNUGZAZEN2HGYOYFCR35ORS3RROX3DFEOTAJVGXVO4ZOJ7V"
+status="live"
+display_decimals=4
+name="LSPz"
+fixed_number=25000000000
+desc="LSPz is issued by Eastellar Team."
+conditions="Maximum supply of LSPz is 25B tokens only"
+image="https://eastellar.com/images/LSPz.png"
+
+[[CURRENCIES]]
+code="PINKROSE"
+issuer="GCGVQRYLV2SGIGRUCNIITXTOXGXPAENDGF7XPN3YTWIPCYRZDE4YCPHV"
+status="live"
+display_decimals=4
+name="PINKROSE"
+fixed_number=25000000000
+desc="PINKROSE is issued by Eastellar Team."
+conditions="Maximum supply of PINKROSE is 25B tokens only"
+image="https://eastellar.com/images/PINKROSE.png"
+
+[[CURRENCIES]]
+code="IOTAz"
+issuer="GA7EHPQYMMALT3KNO36XMU5XCEOYOPBA7VKN6N7C7N4P5S6P4K4J6LHX"
+status="live"
+display_decimals=4
+name="IOTAz"
+fixed_number=25000000000
+desc="IOTAz is issued by Eastellar Team."
+conditions="Maximum supply of IOTAz is 25B tokens only"
+image="https://eastellar.com/images/IOTAz.gif"
+
+[[CURRENCIES]]
+code="WHITEROSE"
+issuer="GACTH6TZKFGR72AMMKLR3BZ2IJ3UFR5L5TTHGZ7CICRBDHTWNDEKD5VF"
+status="live"
+display_decimals=4
+name="WHITEROSE"
+fixed_number=25000000000
+desc="WHITEROSE is issued by Eastellar Team."
+conditions="Maximum supply of WHITEROSE is 25B tokens only"
+image="https://eastellar.com/images/WHITEROSE.png"
+
+[[CURRENCIES]]
+code="EIGHT"
+issuer="GBTVTKTJFLS64L3HDVQVBVOW6MS2QXQ6TWBQXFZAWA2UZLYKWNLBJMRK"
+status="live"
+display_decimals=4
+name="EIGHT"
+fixed_number=25000000000
+desc="EIGHT is issued by Eastellar Team."
+conditions="Maximum supply of EIGHT is 25B tokens only"
+image="https://eastellar.com/images/EIGHT.png"
+
+[[CURRENCIES]]
+code="SNAPDRAGON"
+issuer="GCICFL3RVPWKUB4YFPUXBQA6TAQTKIOAJACWYGGDESLRO45MBGOCK445"
+status="live"
+display_decimals=4
+name="SNAPDRAGON"
+fixed_number=25000000000
+desc="SNAPDRAGON is issued by Eastellar Team."
+conditions="Maximum supply of SNAPDRAGON is 25B tokens only"
+image="https://eastellar.com/images/SNAPDRAGON.png"
+
+[[CURRENCIES]]
+code="WAVESz"
+issuer="GDBSJBW4HNRLG2IIZKQP7AARJWFICCY2KBXGB24ECGHL63JNXHS2I6P6"
+status="live"
+display_decimals=4
+name="WAVESz"
+fixed_number=25000000000
+desc="WAVESz is issued by Eastellar Team."
+conditions="Maximum supply of WAVESz is 25B tokens only"
+image="https://eastellar.com/images/WAVESz.png"
+
+[[CURRENCIES]]
+code="TICKSEED"
+issuer="GDPWCO3H277TFHVJQFJJ2LNNEA5XJW4W4LD5GIBQUVY32KG3WQIXCTQR"
+status="live"
+display_decimals=4
+name="TICKSEED"
+fixed_number=25000000000
+desc="TICKSEED is issued by Eastellar Team."
+conditions="Maximum supply of TICKSEED is 25B tokens only"
+image="https://eastellar.com/images/TICKSEED.png"
+
+[[CURRENCIES]]
+code="MINAz"
+issuer="GDMK4O5PNVV5JN5M5O6M2W4Z2QNH2KWQKE5VSA3E72HLFVSO4PCWNLO4"
+status="live"
+display_decimals=4
+name="MINAz"
+fixed_number=25000000000
+desc="MINAz is issued by Eastellar Team."
+conditions="Maximum supply of MINAz is 25B tokens only"
+image="https://eastellar.com/images/MINAz.png"
+
+[[CURRENCIES]]
+code="TRUMPET"
+issuer="GB5MVSVA7AARMSO3KDFZPYMPIMW6ZSPYAHFQ2CYHUDGCBYWC7WNJK7S6"
+status="live"
+display_decimals=4
+name="TRUMPET"
+fixed_number=25000000000
+desc="TRUMPET is issued by Eastellar Team."
+conditions="Maximum supply of TRUMPET is 25B tokens only"
+image="https://eastellar.com/images/TRUMPET.png"
+
+[[CURRENCIES]]
+code="USDPz"
+issuer="GABNYJXC5MJKKODYXXYJX6ID2GKB2L5472KEHP5HN6ZNRLQOHCI6TA2P"
+status="live"
+display_decimals=4
+name="USDPz"
+fixed_number=25000000000
+desc="USDPz is issued by Eastellar Team."
+conditions="Maximum supply of USDPz is 25B tokens only"
+image="https://eastellar.com/images/USDPz.png"
+
+[[CURRENCIES]]
+code="TULIP"
+issuer="GCZYABKXTDHP2YVTCKAEQHRUHANFLAWM2SVG6ZVVHXIW3WGRKVJIO4CD"
+status="live"
+display_decimals=4
+name="TULIP"
+fixed_number=25000000000
+desc="TULIP is issued by Eastellar Team."
+conditions="Maximum supply of TULIP is 25B tokens only"
+image="https://eastellar.com/images/TULIP.png"
+
+[[CURRENCIES]]
+code="BORAz"
+issuer="GCHQWT66TRRWK5JNIPO6RQUULDJ76J7QFRESYNEXHCF3KXHJKSJ6M4CB"
+status="live"
+display_decimals=4
+name="BORAz"
+fixed_number=25000000000
+desc="BORAz is issued by Eastellar Team."
+conditions="Maximum supply of BORAz is 25B tokens only"
+image="https://eastellar.com/images/BORAz.png"
+
+[[CURRENCIES]]
+code="AFRICANTULIP"
+issuer="GC74XJD7BWRGKTRT4TB3CALTFAHWTMI5FYYWEJ4ZHJMTKORLUVACEZE7"
+status="live"
+display_decimals=4
+name="AFRICANTULIP"
+fixed_number=25000000000
+desc="AFRICANTULIP is issued by Eastellar Team."
+conditions="Maximum supply of AFRICANTULIP is 25B tokens only"
+image="https://eastellar.com/images/AFRICANTULIP.png"
+
+[[CURRENCIES]]
+code="YFIz"
+issuer="GAQL2YGWOR2Z6MNB3MFTICYPF7OFMZVEM6PCDA5T5P2JGBNVWERTVHZE"
+status="live"
+display_decimals=4
+name="YFIz"
+fixed_number=25000000000
+desc="YFIz is issued by Eastellar Team."
+conditions="Maximum supply of YFIz is 25B tokens only"
+image="https://eastellar.com/images/YFIz.png"
+
+[[CURRENCIES]]
+code="VERONICA"
+issuer="GAR2QXOCLWXFDFNEGV6C52LZS7Z6FAZ2FEN53HKX6N3NY2GXCCGT633R"
+status="live"
+display_decimals=4
+name="VERONICA"
+fixed_number=25000000000
+desc="VERONICA is issued by Eastellar Team."
+conditions="Maximum supply of VERONICA is 25B tokens only"
+image="https://eastellar.com/images/VERONICA.png"
+
+[[CURRENCIES]]
+code="GRTz"
+issuer="GAJLYFC52HCPXNBLYNMW5ZVGMCXGJHVWOQCLXS7ERVZUZTODX6KBUMQT"
+status="live"
+display_decimals=4
+name="GRTz"
+fixed_number=25000000000
+desc="GRTz is issued by Eastellar Team."
+conditions="Maximum supply of GRTz is 25B tokens only"
+image="https://eastellar.com/images/GRTz.png"
+
+[[CURRENCIES]]
+code="VINCA"
+issuer="GCJUYQZH72PKZBFDJE33BY2IAXDVXNDUVUSED74DTJNCHDQJT2NU6XU3"
+status="live"
+display_decimals=4
+name="VINCA"
+fixed_number=25000000000
+desc="VINCA is issued by Eastellar Team."
+conditions="Maximum supply of VINCA is 25B tokens only"
+image="https://eastellar.com/images/VINCA.png"
+
+[[CURRENCIES]]
+code="RVNz"
+issuer="GD6LLE7WBH2YLUUBI76GHBBRYB3RGGLXKVVC5KUQW7W2W7I2AZAIHAYR"
+status="live"
+display_decimals=4
+name="RVNz"
+fixed_number=25000000000
+desc="RVNz is issued by Eastellar Team."
+conditions="Maximum supply of RVNz is 25B tokens only"
+image="https://eastellar.com/images/RVNz.png"
+
+[[CURRENCIES]]
+code="VIOLET"
+issuer="GCNEBJG3ONXLXX654LGRJD5KBG47SBAP6LFDZ6UXYTHJHKFIBHM7END6"
+status="live"
+display_decimals=4
+name="VIOLET"
+fixed_number=25000000000
+desc="VIOLET is issued by Eastellar Team."
+conditions="Maximum supply of VIOLET is 25B tokens only"
+image="https://eastellar.com/images/VIOLET.png"
+
+[[CURRENCIES]]
+code="SNXz"
+issuer="GBMP5OJRJAJU6GE7MUKMPIANUVNHRD3SZUBYW7GTNKN3CUEWK3KZS6G6"
+status="live"
+display_decimals=4
+name="SNXz"
+fixed_number=25000000000
+desc="SNXz is issued by Eastellar Team."
+conditions="Maximum supply of SNXz is 25B tokens only"
+image="https://eastellar.com/images/SNXz.png"
+
+[[CURRENCIES]]
+code="WALL"
+issuer="GCXQM7RNI2Q4N6LDQN7I6X335X6WJLWEUF62O4L65ARKM4Y56B6X65CV"
+status="live"
+display_decimals=4
+name="WALL"
+fixed_number=25000000000
+desc="WALL is issued by Eastellar Team."
+conditions="Maximum supply of WALL is 25B tokens only"
+image="https://eastellar.com/images/WALL.png"
+
+[[CURRENCIES]]
+code="XDCz"
+issuer="GBL62F6RBSQKYITWRXTOQZ6BZ4ZFZHSHYUNG6O4TFHF7E6TE23LL2HEK"
+status="live"
+display_decimals=4
+name="XDCz"
+fixed_number=25000000000
+desc="XDCz is issued by Eastellar Team."
+conditions="Maximum supply of XDCz is 25B tokens only"
+image="https://eastellar.com/images/XDCz.png"
+
+[[CURRENCIES]]
+code="THISTLE"
+issuer="GCQ5OEH234CUEHYI4KHYWVYKNMXT3PJ6NTY2SIGX5T6ZI57O2QAZLTMT"
+status="live"
+display_decimals=4
+name="THISTLE"
+fixed_number=25000000000
+desc="THISTLE is issued by Eastellar Team."
+conditions="Maximum supply of THISTLE is 25B tokens only"
+image="https://eastellar.com/images/THISTLE.png"
+
+[[CURRENCIES]]
+code="ROSEz"
+issuer="GBGYORWAEMEUMDJTUGDUKDBNKBMURB6X2BIOV64RPTY5KQKDV6URZLPW"
+status="live"
+display_decimals=4
+name="ROSEz"
+fixed_number=25000000000
+desc="ROSEz is issued by Eastellar Team."
+conditions="Maximum supply of ROSEz is 25B tokens only"
+image="https://eastellar.com/images/ROSEz.png"
+
+[[CURRENCIES]]
+code="WISTERIA"
+issuer="GCELIWN3QOQD462Q3KOGDFUBKQ5DPKFOOQN2TMKNGKXS7BQKCBBZGT56"
+status="live"
+display_decimals=4
+name="WISTERIA"
+fixed_number=25000000000
+desc="WISTERIA is issued by Eastellar Team."
+conditions="Maximum supply of WISTERIA is 25B tokens only"
+image="https://eastellar.com/images/WISTERIA.png"
+
+[[CURRENCIES]]
+code="STETHz"
+issuer="GASIA5A7XOCTKMNLMDY7VQ5BKKSTVTFLFEXVCJ5OVWA6WPY2PIO646AR"
+status="live"
+display_decimals=4
+name="STETHz"
+fixed_number=25000000000
+desc="STETHz is issued by Eastellar Team."
+conditions="Maximum supply of STETHz is 25B tokens only"
+image="https://eastellar.com/images/STETHz.png"
+
+[[CURRENCIES]]
+code="YARROW"
+issuer="GAX6JZH7DHH3E24RQKQCUO72G526KAEOT2P5F3COZPHW4V36NMJE22JX"
+status="live"
+display_decimals=4
+name="YARROW"
+fixed_number=25000000000
+desc="YARROW is issued by Eastellar Team."
+conditions="Maximum supply of YARROW is 25B tokens only"
+image="https://eastellar.com/images/YARROW.png"
+
+[[CURRENCIES]]
+code="NEOz"
+issuer="GBXK765RRWHSB7JJY6ROB455FCZCFYJIN6FDRHJIWUCDOWB6SCN743UQ"
+status="live"
+display_decimals=4
+name="NEOz"
+fixed_number=25000000000
+desc="NEOz is issued by Eastellar Team."
+conditions="Maximum supply of NEOz is 25B tokens only"
+image="https://eastellar.com/images/NEOz.png"
+
+[[CURRENCIES]]
+code="ZINNIA"
+issuer="GBRM2PY3XXXDWSZFLX5SQNUBTN4SYVM4DVRLBFBFI256PEZKTNW2BGFJ"
+status="live"
+display_decimals=4
+name="ZINNIA"
+fixed_number=25000000000
+desc="ZINNIA is issued by Eastellar Team."
+conditions="Maximum supply of ZINNIA is 25B tokens only"
+image="https://eastellar.com/images/ZINNIA.png"
+
+[[CURRENCIES]]
+code="KCSz"
+issuer="GAECYMI723VFAXYTUJWDQ6RFIHXN3HSRULK3EP2QDRVQIQJRDXU236FR"
+status="live"
+display_decimals=4
+name="KCSz"
+fixed_number=25000000000
+desc="KCSz is issued by Eastellar Team."
+conditions="Maximum supply of KCSz is 25B tokens only"
+image="https://eastellar.com/images/KCSz.png"
+
+[[CURRENCIES]]
+code="CAMBODIA"
+issuer="GBXEKSQ5OYHZJIU7F5SOH2FWF3CZOKATU2HUKHPGWBQQNG7AZZRZZOSK"
+status="live"
+display_decimals=4
+name="CAMBODIA"
+fixed_number=25000000000
+desc="CAMBODIA is issued by Eastellar Team."
+conditions="Maximum supply of CAMBODIA is 25B tokens only"
+image="https://eastellar.com/images/CAMBODIA.png"
+
+[[CURRENCIES]]
+code="CUSDCz"
+issuer="GCM2DDBLUW3GWLLC3LK3Z4CGSFBKGT2AW2N5C5MES4PWIE6KNLZONSMG"
+status="live"
+display_decimals=4
+name="CUSDCz"
+fixed_number=25000000000
+desc="CUSDCz is issued by Eastellar Team."
+conditions="Maximum supply of CUSDCz is 25B tokens only"
+image="https://eastellar.com/images/CUSDCz.png"
+
+[[CURRENCIES]]
+code="RUMDUOL"
+issuer="GDJI2C3GWEEDEFDWN7NRRFDEQRB4MFW2DD6XANLPHFCEBRUS6YHLWP3G"
+status="live"
+display_decimals=4
+name="RUMDUOL"
+fixed_number=25000000000
+desc="RUMDUOL is issued by Eastellar Team."
+conditions="Maximum supply of RUMDUOL is 25B tokens only"
+image="https://eastellar.com/images/RUMDUOL.png"
+
+[[CURRENCIES]]
+code="LEOz"
+issuer="GBDZLRNQY77R2KO3FMLTURI3PEJOC5YBM3MU2YSD2A5DLUSOITGTGKV5"
+status="live"
+display_decimals=4
+name="LEOz"
+fixed_number=25000000000
+desc="LEOz is issued by Eastellar Team."
+conditions="Maximum supply of LEOz is 25B tokens only"
+image="https://eastellar.com/images/LEOz.png"
+
+[[CURRENCIES]]
+code="PLUMERIA"
+issuer="GAVNCHCMKMDK6C546JO4HMYFQD2E2ZTRAF4ZANGMN4UTEVOTUPDI5GBF"
+status="live"
+display_decimals=4
+name="PLUMERIA"
+fixed_number=25000000000
+desc="PLUMERIA is issued by Eastellar Team."
+conditions="Maximum supply of PLUMERIA is 25B tokens only"
+image="https://eastellar.com/images/PLUMERIA.png"
+
+[[CURRENCIES]]
+code="HBARz"
+issuer="GAI3YPB52L2XAHNT3CAZLO5AMFERE6NCMCVKM6WRGPQ3WMV5ZVEVWLW2"
+status="live"
+display_decimals=4
+name="HBARz"
+fixed_number=25000000000
+desc="HBARz is issued by Eastellar Team."
+conditions="Maximum supply of HBARz is 25B tokens only"
+image="https://eastellar.com/images/HBARz.png"
+
+[[CURRENCIES]]
+code="MELODORUM"
+issuer="GCKOATFVJNU5LVC2D62M447LQN6XTMWUM2VZQKO2GGUVJZLRPPUEWW7O"
+status="live"
+display_decimals=4
+name="MELODORUM"
+fixed_number=25000000000
+desc="MELODORUM is issued by Eastellar Team."
+conditions="Maximum supply of MELODORUM is 25B tokens only"
+image="https://eastellar.com/images/MELODORUM.png"
+
+[[CURRENCIES]]
+code="XRDz"
+issuer="GCX2WKK3VTQKILQ3BDJM6CMFGT5UDA26FZNE2BMKPXF5DTZC6NUFO73P"
+status="live"
+display_decimals=4
+name="XRDz"
+fixed_number=25000000000
+desc="XRDz is issued by Eastellar Team."
+conditions="Maximum supply of XRDz is 25B tokens only"
+image="https://eastellar.com/images/XRDz.png"
+
+[[CURRENCIES]]
+code="APPLEBLOSSOM"
+issuer="GC7I4BWSQLGYRTOBDQR4YGCPGSVF5QKICBD4UUC4CVOGUNZRNXQEWM26"
+status="live"
+display_decimals=4
+name="APPLEBLOSSOM"
+fixed_number=25000000000
+desc="APPLEBLOSSOM is issued by Eastellar Team."
+conditions="Maximum supply of APPLEBLOSSOM is 25B tokens only"
+image="https://eastellar.com/images/APPLEBLOSSOM.png"
+
+[[CURRENCIES]]
+code="ICPz"
+issuer="GARMBMDOHC35HOKUV3GQV4UKCBOML4BEMAZG7OCYFITJFNCWRVBZL4DT"
+status="live"
+display_decimals=4
+name="ICPz"
+fixed_number=25000000000
+desc="ICPz is issued by Eastellar Team."
+conditions="Maximum supply of ICPz is 25B tokens only"
+image="https://eastellar.com/images/ICPz.png"
+
+[[CURRENCIES]]
+code="ASOKA"
+issuer="GBY7ME2HS56TDTC46EBJKVAFAYV6M6JRYHUG2HQNXLXP2ZEW7HWEAJUC"
+status="live"
+display_decimals=4
+name="ASOKA"
+fixed_number=25000000000
+desc="ASOKA is issued by Eastellar Team."
+conditions="Maximum supply of ASOKA is 25B tokens only"
+image="https://eastellar.com/images/ASOKA.png"
+
+[[CURRENCIES]]
+code="JUNOz"
+issuer="GAJ3PSCYJ67DEKUWADKA5LGB4BD2SUUFLWWIN244CO2YSC7I6VTK4C4P"
+status="live"
+display_decimals=4
+name="JUNOz"
+fixed_number=25000000000
+desc="JUNOz is issued by Eastellar Team."
+conditions="Maximum supply of JUNOz is 25B tokens only"
+image="https://eastellar.com/images/JUNOz.png"
+
+[[CURRENCIES]]
+code="BUTTERCUP"
+issuer="GAPNHFJDVX4NO4WQIQZZX7FVLIXH5ZL4KTBSPVOM5IU3YPIM5XPDP6QG"
+status="live"
+display_decimals=4
+name="BUTTERCUP"
+fixed_number=25000000000
+desc="BUTTERCUP is issued by Eastellar Team."
+conditions="Maximum supply of BUTTERCUP is 25B tokens only"
+image="https://eastellar.com/images/BUTTERCUP.png"
+
+[[CURRENCIES]]
+code="MNFTz"
+issuer="GDCC7KQYMJXZ3RYR7BS4EJRYHQZA4VDBKSXXVYBJZVVYAMMOKT3BKX5Z"
+status="live"
+display_decimals=4
+name="MNFTz"
+fixed_number=25000000000
+desc="MNFTz is issued by Eastellar Team."
+conditions="Maximum supply of MNFTz is 25B tokens only"
+image="https://eastellar.com/images/MNFTz.png"
+
+[[CURRENCIES]]
+code="BEGONIA"
+issuer="GDVDXU55THRK2TWWVV3UCBPVX6GYSYO2GVREMM4YUPKWWVRXZY3KMWUF"
+status="live"
+display_decimals=4
+name="BEGONIA"
+fixed_number=25000000000
+desc="BEGONIA is issued by Eastellar Team."
+conditions="Maximum supply of BEGONIA is 25B tokens only"
+image="https://eastellar.com/images/BEGONIA.png"
+
+[[CURRENCIES]]
+code="GTz"
+issuer="GBPVBDT2MOANAKGNULGQ6TVXVKYRBBGZRHSYNZ4LVJO6W5TUBW7YOERR"
+status="live"
+display_decimals=4
+name="GTz"
+fixed_number=25000000000
+desc="GTz is issued by Eastellar Team."
+conditions="Maximum supply of GTz is 25B tokens only"
+image="https://eastellar.com/images/GTz.png"
+
+[[CURRENCIES]]
+code="CORPSE"
+issuer="GANUSY2ZZW3C3XDUW5S5J3TNJ3MC7UZRKOHSGHZDTA6OC2CVLJA6DUXW"
+status="live"
+display_decimals=4
+name="CORPSE"
+fixed_number=25000000000
+desc="CORPSE is issued by Eastellar Team."
+conditions="Maximum supply of CORPSE is 25B tokens only"
+image="https://eastellar.com/images/CORPSE.png"
+
+[[CURRENCIES]]
+code="CVXz"
+issuer="GAMWMQPZ6W2VHEIXL3HGQ7AON36YBIHSJPI3N7XOXSRS5TA5HDIJBW2F"
+status="live"
+display_decimals=4
+name="CVXz"
+fixed_number=25000000000
+desc="CVXz is issued by Eastellar Team."
+conditions="Maximum supply of CVXz is 25B tokens only"
+image="https://eastellar.com/images/CVXz.png"
+
+[[CURRENCIES]]
+code="CELENDULA"
+issuer="GA7QW4R6YTGOFE6KMHTIGT4GX4DU2JCACDWE26EH7DSY7BXBEDOOMS4B"
+status="live"
+display_decimals=4
+name="CELENDULA"
+fixed_number=25000000000
+desc="CELENDULA is issued by Eastellar Team."
+conditions="Maximum supply of CELENDULA is 25B tokens only"
+image="https://eastellar.com/images/CELENDULA.png"
+
+[[CURRENCIES]]
+code="FIDRz"
+issuer="GD6T6AYTAEAJDVXOGAMXGVQOCK2S6R5NQFIQJ6MVUXDB3AKWAGJD35YQ"
+status="live"
+display_decimals=4
+name="FIDRz"
+fixed_number=25000000000
+desc="FIDRz is issued by Eastellar Team."
+conditions="Maximum supply of FIDRz is 25B tokens only"
+image="https://eastellar.com/images/FIDRz.png"
+
+[[CURRENCIES]]
+code="CANDYTUFT"
+issuer="GCIVW3Y2EXZABBU3AFYIROJMMD26EYDQYORMQRFRNK6ZJPDYNISOWA5Y"
+status="live"
+display_decimals=4
+name="CANDYTUFT"
+fixed_number=25000000000
+desc="CANDYTUFT is issued by Eastellar Team."
+conditions="Maximum supply of CANDYTUFT is 25B tokens only"
+image="https://eastellar.com/images/CANDYTUFT.png"
+
+[[CURRENCIES]]
+code="HEART"
+issuer="GDI5FH6LMUDPSGZO7VYPWSCDS754GXGIDMLDSK63AWSFPIZDG2WFR67I"
+status="live"
+display_decimals=4
+name="HEART"
+fixed_number=25000000000
+desc="HEART is issued by Eastellar Team."
+conditions="Maximum supply of HEART is 25B tokens only"
+image="https://eastellar.com/images/HEART.png"
+
+[[CURRENCIES]]
+code="EREMURUS"
+issuer="GCQRRPHXHSJ5JCPMRQV2BS2KP2OQ2HZOU3HMNQRPGMGO6NHQJVPI3DC2"
+status="live"
+display_decimals=4
+name="EREMURUS"
+fixed_number=25000000000
+desc="EREMURUS is issued by Eastellar Team."
+conditions="Maximum supply of EREMURUS is 25B tokens only"
+image="https://eastellar.com/images/EREMURUS.png"
+
+[[CURRENCIES]]
+code="HTz"
+issuer="GBLDS6EIXV2IXU6UYQDT5BJNCX2M4UUXF56NK4G2MAUF77KCEIICZZLN"
+status="live"
+display_decimals=4
+name="HTz"
+fixed_number=25000000000
+desc="HTz is issued by Eastellar Team."
+conditions="Maximum supply of HTz is 25B tokens only"
+image="https://eastellar.com/images/HTz.png"
+
+[[CURRENCIES]]
+code="HERBRAS"
+issuer="GDVMFMKDX727VLSJFSFGEGIVT5PGMWGXWUXQHB2C5IS2YZ6SXZBNPSHY"
+status="live"
+display_decimals=4
+name="HERBRAS"
+fixed_number=25000000000
+desc="HERBRAS is issued by Eastellar Team."
+conditions="Maximum supply of HERBRAS is 25B tokens only"
+image="https://eastellar.com/images/HERBRAS.png"
+
+[[CURRENCIES]]
+code="FXSz"
+issuer="GC5TF4LTNHHSPO7T446IWHQGTVD5XUWUWP6SGF4SD2ENQVB5SDHHZSXB"
+status="live"
+display_decimals=4
+name="FXSz"
+fixed_number=25000000000
+desc="FXSz is issued by Eastellar Team."
+conditions="Maximum supply of FXSz is 25B tokens only"
+image="https://eastellar.com/images/FXSz.png"
+
+[[CURRENCIES]]
+code="HOLLYHOCK"
+issuer="GDLBCNS3477UTEXAPK4XSJLASUQUMSEJDBJJQ4XJG5ZG3VGBBCPZRWRQ"
+status="live"
+display_decimals=4
+name="HOLLYHOCK"
+fixed_number=25000000000
+desc="HOLLYHOCK is issued by Eastellar Team."
+conditions="Maximum supply of HOLLYHOCK is 25B tokens only"
+image="https://eastellar.com/images/HOLLYHOCK.png"
+
+[[CURRENCIES]]
+code="ENJz"
+issuer="GAJSTSYOTJI2TTZVS4PAKT3FJFOF4QJTBWLED2PBE4XG4WI5OC734INX"
+status="live"
+display_decimals=4
+name="ENJz"
+fixed_number=25000000000
+desc="ENJz is issued by Eastellar Team."
+conditions="Maximum supply of ENJz is 25B tokens only"
+image="https://eastellar.com/images/ENJz.png"
+
+[[CURRENCIES]]
+code="HYDRANGEA"
+issuer="GACY2XJUUM7HJFEM3YLDVPAADHTHUJJ6Z2ZB5DQOCFGYB2RZ64QMQ3GO"
+status="live"
+display_decimals=4
+name="HYDRANGEA"
+fixed_number=25000000000
+desc="HYDRANGEA is issued by Eastellar Team."
+conditions="Maximum supply of HYDRANGEA is 25B tokens only"
+image="https://eastellar.com/images/HYDRANGEA.png"
+
+[[CURRENCIES]]
+code="BTTz"
+issuer="GD3YGIZNB7AWSQ3X2RPLMOW3XYBTITDPFVIRWCADFWEGYMQRLW2YXZ55"
+status="live"
+display_decimals=4
+name="BTTz"
+fixed_number=25000000000
+desc="BTTz is issued by Eastellar Team."
+conditions="Maximum supply of BTTz is 25B tokens only"
+image="https://eastellar.com/images/BTTz.png"
+
+[[CURRENCIES]]
+code="LILY"
+issuer="GB2AB7I5HNSEGSVEG2P6N6IETSDKWFDVTMZYMFF2LGHEKEI5OJIYNKK6"
+status="live"
+display_decimals=4
+name="LILY"
+fixed_number=25000000000
+desc="LILY is issued by Eastellar Team."
+conditions="Maximum supply of LILY is 25B tokens only"
+image="https://eastellar.com/images/LILY.png"
+
+[[CURRENCIES]]
+code="AAVEz"
+issuer="GDYTQRZK6SBVIQ6K4KHAXXMGM6EXFIBRT5ABWU6RMKLPYXSTTHKPVCIU"
+status="live"
+display_decimals=4
+name="AAVEz"
+fixed_number=25000000000
+desc="AAVEz is issued by Eastellar Team."
+conditions="Maximum supply of AAVEz is 25B tokens only"
+image="https://eastellar.com/images/AAVEz.png"
+
+[[CURRENCIES]]
+code="WALLFLOWER"
+issuer="GBEVHTJTGXSIYHO43PYR7LL24HJONZ2WENXP54RVE2MC2NJ36Z7GEMWX"
+status="live"
+display_decimals=4
+name="WALLFLOWER"
+fixed_number=25000000000
+desc="WALLFLOWER is issued by Eastellar Team."
+conditions="Maximum supply of WALLFLOWER is 25B tokens only"
+image="https://eastellar.com/images/WALLFLOWER.png"
+
+[[CURRENCIES]]
+code="KDAz"
+issuer="GCRECLJ6CAEMFOLPIJNP3YENNFVJNPFTFB2PMTLCLVOEI2HG6HGYKCQQ"
+status="live"
+display_decimals=4
+name="KDAz"
+fixed_number=25000000000
+desc="KDAz is issued by Eastellar Team."
+conditions="Maximum supply of KDAz is 25B tokens only"
+image="https://eastellar.com/images/KDAz.png"
+
+[[CURRENCIES]]
+code="LIMONIUM"
+issuer="GC2GDVI5QGMRFLOC6VL7W35RSOSZCAZNZFY43HV2E2VPMDKIL2NJNIEK"
+status="live"
+display_decimals=4
+name="LIMONIUM"
+fixed_number=25000000000
+desc="LIMONIUM is issued by Eastellar Team."
+conditions="Maximum supply of LIMONIUM is 25B tokens only"
+image="https://eastellar.com/images/LIMONIUM.png"
+
+[[CURRENCIES]]
+code="ARz"
+issuer="GATSAV7O3ERAKR4RAN6OA2TXIUJ3HY5KQYD26TXP6LDMZH44Q22CDU4H"
+status="live"
+display_decimals=4
+name="ARz"
+fixed_number=25000000000
+desc="ARz is issued by Eastellar Team."
+conditions="Maximum supply of ARz is 25B tokens only"
+image="https://eastellar.com/images/ARz.png"
+
+[[CURRENCIES]]
+code="NARCISSUS"
+issuer="GD3PQODSFZPUZJGDA46Y5NZVJVEHNJD7NO7OMIF7QX7QB4AUFHOHLAHE"
+status="live"
+display_decimals=4
+name="NARCISSUS"
+fixed_number=25000000000
+desc="NARCISSUS is issued by Eastellar Team."
+conditions="Maximum supply of NARCISSUS is 25B tokens only"
+image="https://eastellar.com/images/NARCISSUS.png"
+
+[[CURRENCIES]]
+code="XECz"
+issuer="GAETEMGFCGA4ZL2SORV6U66ACQDP6BMVYGSFCCXIBUMRV6XH57UPZ2IM"
+status="live"
+display_decimals=4
+name="XECz"
+fixed_number=25000000000
+desc="XECz is issued by Eastellar Team."
+conditions="Maximum supply of XECz is 25B tokens only"
+image="https://eastellar.com/images/XECz.png"
+
+[[CURRENCIES]]
+code="ORNITHOGALUM"
+issuer="GATP6CWMZJ4Y5AX7RU4VFT3BQMI66G52STOOOLA4H4SCKENVTXYR7SUT"
+status="live"
+display_decimals=4
+name="ORNITHOGALUM"
+fixed_number=25000000000
+desc="ORNITHOGALUM is issued by Eastellar Team."
+conditions="Maximum supply of ORNITHOGALUM is 25B tokens only"
+image="https://eastellar.com/images/ORNITHOGALUM.png"
+
+[[CURRENCIES]]
+code="ANCz"
+issuer="GBRIMV5KCSF5SL4PL4DRCOTVQA5GX27D243KTPI4Z4KOT3J2WFEP73MM"
+status="live"
+display_decimals=4
+name="ANCz"
+fixed_number=25000000000
+desc="ANCz is issued by Eastellar Team."
+conditions="Maximum supply of ANCz is 25B tokens only"
+image="https://eastellar.com/images/ANCz.png"
+
+[[CURRENCIES]]
+code="TIGERLILY"
+issuer="GBXM6LDMEJAMYW22EKUUXLYS5CWQCPJHDMDGIJZOEJ3LZHYA4QYJ3CJ2"
+status="live"
+display_decimals=4
+name="TIGERLILY"
+fixed_number=25000000000
+desc="TIGERLILY is issued by Eastellar Team."
+conditions="Maximum supply of TIGERLILY is 25B tokens only"
+image="https://eastellar.com/images/TIGERLILY.gif"
+
+[[CURRENCIES]]
+code="USTz"
+issuer="GC5MLJLZVOSAFPQEDNATZWUM7IEJLDP2JDZBS4AW3AENJ3H7BJCYQVOF"
+status="live"
+display_decimals=4
+name="USTz"
+fixed_number=25000000000
+desc="USTz is issued by Eastellar Team."
+conditions="Maximum supply of USTz is 25B tokens only"
+image="https://eastellar.com/images/USTz.png"
+
+[[CURRENCIES]]
+code="PEARL"
+issuer="GCGHPKQX4NGBWFGAF35IH7U2MIY5WOFXSDRM4G23ZW5F5Z25XEIVOEAT"
+status="live"
+display_decimals=4
+name="PEARL"
+fixed_number=25000000000
+desc="PEARL is issued by Eastellar Team."
+conditions="Maximum supply of PEARL is 25B tokens only"
+image="https://eastellar.com/images/PEARL.png"
+
+[[CURRENCIES]]
+code="LTCz"
+issuer="GAZJROPWWZEOJFMLNPKZFHYYJTTYHO65XGD4KZK3UKFUQ377RHIABEKA"
+status="live"
+display_decimals=4
+name="LTCz"
+fixed_number=25000000000
+desc="LTCz is issued by Eastellar Team."
+conditions="Maximum supply of LTCz is 25B tokens only"
+image="https://eastellar.com/images/LTCz.png"
+
+[[CURRENCIES]]
+code="ANNESLACE"
+issuer="GCI3XPREU2FN6XLXPEXAOIWYOCA2JL6ERYQ3ZLEAYU3KFGDGA5MKO3IW"
+status="live"
+display_decimals=4
+name="ANNESLACE"
+fixed_number=25000000000
+desc="ANNESLACE is issued by Eastellar Team."
+conditions="Maximum supply of ANNESLACE is 25B tokens only"
+image="https://eastellar.com/images/ANNESLACE.png"
+
+[[CURRENCIES]]
+code="FTTz"
+issuer="GDCQBQUPIYAHBEE7STGYPN3LQEEHMHQ4VEVNX2HT4XZAYTCF4C6Y43GA"
+status="live"
+display_decimals=4
+name="FTTz"
+fixed_number=25000000000
+desc="FTTz is issued by Eastellar Team."
+conditions="Maximum supply of FTTz is 25B tokens only"
+image="https://eastellar.com/images/FTTz.png"
+
+[[CURRENCIES]]
+code="RHODODENDRON"
+issuer="GCDKAXEVSGBSHMC3TUMPCVXR5ZNZSA2SI6YVVLG75LAQVKUZMDX7AFRV"
+status="live"
+display_decimals=4
+name="RHODODENDRON"
+fixed_number=25000000000
+desc="RHODODENDRON is issued by Eastellar Team."
+conditions="Maximum supply of RHODODENDRON is 25B tokens only"
+image="https://eastellar.com/images/RHODODENDRON.png"   
+
+[[CURRENCIES]]
+code="BCHz"
+issuer="GDQJLDSZROF6F4NLZXBJFWO6BTXAQMXBRJ4BGKMKOZVRFKRASKJZFWJA"
+status="live"
+display_decimals=4
+name="BCHz"
+fixed_number=25000000000
+desc="BCHz is issued by Eastellar Team."
+conditions="Maximum supply of BCHz is 25B tokens only"
+image="https://eastellar.com/images/BCHz.png"  
+
+[[CURRENCIES]]
+code="WILDCARROT"
+issuer="GDUQTWWQ6T43HEWDP62P76VYWW7TOMTEFOQVYN25ZISWV5BFYCJ4SHFW"
+status="live"
+display_decimals=4
+name="WILDCARROT"
+fixed_number=25000000000
+desc="WILDCARROT is issued by Eastellar Team."
+conditions="Maximum supply of WILDCARROT is 25B tokens only"
+image="https://eastellar.com/images/WILDCARROT.png"  
+
+[[CURRENCIES]]
+code="XTZz"
+issuer="GAURU3CM4335LIUKRPLEA5C5KDWHDLYNJGQPADKC2DJ5KQI437IRSRMN"
+status="live"
+display_decimals=4
+name="XTZz"
+fixed_number=25000000000
+desc="XTZz is issued by Eastellar Team."
+conditions="Maximum supply of XTZz is 25B tokens only"
+image="https://eastellar.com/images/XTZz.png"  
+
+[[CURRENCIES]]
+code="PAEONIA"
+issuer="GCGI5U2FJUIKIYLXXJYFWY5AYLDX5I4FOIEVRG36MA3CT3KMTYP5NKDY"
+status="live"
+display_decimals=4
+name="PAEONIA"
+fixed_number=25000000000
+desc="PAEONIA is issued by Eastellar Team."
+conditions="Maximum supply of PAEONIA is 25B tokens only"
+image="https://eastellar.com/images/PAEONIA.png"  
+
+[[CURRENCIES]]
+code="SXPz"
+issuer="GBB4H3UDGNL2IPITX2T33RWQXD4AIUO7U7YNITDAF7P5DJOLM5ULMG6F"
+status="live"
+display_decimals=4
+name="SXPz"
+fixed_number=25000000000
+desc="SXPz is issued by Eastellar Team."
+conditions="Maximum supply of SXPz is 25B tokens only"
+image="https://eastellar.com/images/SXPz.png"
+
+[[CURRENCIES]]
+code="ACROPORA"
+issuer="GAV73SE6NDIH54EYIM4FGAQMDPKQL4N3LCG5LM45JYFGPS7XK32M3PER"
+status="live"
+display_decimals=4
+name="ACROPORA"
+fixed_number=25000000000
+desc="ACROPORA is issued by Eastellar Team."
+conditions="Maximum supply of ACROPORA is 25B tokens only"
+image="https://eastellar.com/images/ACROPORA.png"
+
+[[CURRENCIES]]
+code="POLYz"
+issuer="GDT7NECZQAOJ6JGKC3QSAOBMTPIAD7EPQKOIDZZXUZXMW2YAKY3FMIID"
+status="live"
+display_decimals=4
+name="POLYz"
+fixed_number=25000000000
+desc="POLYz is issued by Eastellar Team."
+conditions="Maximum supply of POLYz is 25B tokens only"
+image="https://eastellar.com/images/POLYz.png"
+
+[[CURRENCIES]]
+code="LOBOPHYLLIA"
+issuer="GB6E566UCU6WJ6WFKM6MFTUXTCT3OHZALSNAIX3J7TBEIIIBBX6U5ECY"
+status="live"
+display_decimals=4
+name="LOBOPHYLLIA"
+fixed_number=25000000000
+desc="LOBOPHYLLIA is issued by Eastellar Team."
+conditions="Maximum supply of LOBOPHYLLIA is 25B tokens only"
+image="https://eastellar.com/images/LOBOPHYLLIA.png"
+
+[[CURRENCIES]]
+code="KLAYz"
+issuer="GDQYFGVX3BHV23HGTGQQMGZDKYARSK5TIT4G76WNTLNBTBXICJWFUASC"
+status="live"
+display_decimals=4
+name="KLAYz"
+fixed_number=25000000000
+desc="KLAYz is issued by Eastellar Team."
+conditions="Maximum supply of KLAYz is 25B tokens only"
+image="https://eastellar.com/images/KLAYz.png"
+
+[[CURRENCIES]]
+code="ELEGANTULA"
+issuer="GDIK7SE4CLHUTFGLIHDBGY3FFZLRGN57BOVPXSBK56IQCIESH4NDBXLR"
+status="live"
+display_decimals=4
+name="ELEGANTULA"
+fixed_number=25000000000
+desc="ELEGANTULA is issued by Eastellar Team."
+conditions="Maximum supply of ELEGANTULA is 25B tokens only"
+image="https://eastellar.com/images/ELEGANTULA.png"
+
+[[CURRENCIES]]
+code="FILz"
+issuer="GBZIUUANVTQXO3NN247LOSNEFDNZPOSVUETHRTWNHMEBQA6X3ZNGOSKM"
+status="live"
+display_decimals=4
+name="FILz"
+fixed_number=25000000000
+desc="FILz is issued by Eastellar Team."
+conditions="Maximum supply of FILz is 25B tokens only"
+image="https://eastellar.com/images/FILz.png"
+
+[[CURRENCIES]]
+code="GALAXEA"
+issuer="GCJMRE7B3PA2FUIRO6JAMU776MGAZUAGQS6IELIVFOZFRCPBKPCUP3CD"
+status="live"
+display_decimals=4
+name="GALAXEA"
+fixed_number=25000000000
+desc="GALAXEA is issued by Eastellar Team."
+conditions="Maximum supply of GALAXEA is 25B tokens only"
+image="https://eastellar.com/images/GALAXEA.png"
+
+[[CURRENCIES]]
+code="OKBz"
+issuer="GBGCZJ6VUEEUMOTK3EKBD7GBOTECUH5EWOJYCNHPK3P4KCXALYKA3WIA"
+status="live"
+display_decimals=4
+name="OKBz"
+fixed_number=25000000000
+desc="OKBz is issued by Eastellar Team."
+conditions="Maximum supply of OKBz is 25B tokens only"
+image="https://eastellar.com/images/OKBz.png"
+
+[[CURRENCIES]]
+code="ACUMINATE"
+issuer="GAAEIXAYEYG66RBRNIFAE37AJCMNSAP3ECLZDYHWZWOOXXVKLBRDNAYA"
+status="live"
+display_decimals=4
+name="ACUMINATE"
+fixed_number=25000000000
+desc="ACUMINATE is issued by Eastellar Team."
+conditions="Maximum supply of ACUMINATE is 25B tokens only"
+image="https://eastellar.com/images/ACUMINATE.png"
+
+[[CURRENCIES]]
+code="IOTXz"
+issuer="GCNUAXF3RHVSFDQEIJLAL4DYEH2GI5WCDZLAJCDEDDDWW6SX33PCSUQY"
+status="live"
+display_decimals=4
+name="IOTXz"
+fixed_number=25000000000
+desc="IOTXz is issued by Eastellar Team."
+conditions="Maximum supply of IOTXz is 25B tokens only"
+image="https://eastellar.com/images/IOTXz.png"
+
+[[CURRENCIES]]
+code="CERVICORNIS"
+issuer="GBB3WKW7Q4BC5AAAGLS5DFXXXGXRL6VY3EEP2IDVZO5SD35ZM4S7VQDU"
+status="live"
+display_decimals=4
+name="CERVICORNIS"
+fixed_number=25000000000
+desc="CERVICORNIS is issued by Eastellar Team."
+conditions="Maximum supply of CERVICORNIS is 25B tokens only"
+image="https://eastellar.com/images/CERVICORNIS.png"
+
+[[CURRENCIES]]
+code="HOTz"
+issuer="GDKXMQCH7SXSJT5RW7JV74VNLC3RY44RJUA2PL7I3HJCHUTGZPTXE5YZ"
+status="live"
+display_decimals=4
+name="HOTz"
+fixed_number=25000000000
+desc="HOTz is issued by Eastellar Team."
+conditions="Maximum supply of HOTz is 25B tokens only"
+image="https://eastellar.com/images/HOTz.png"
+
+[[CURRENCIES]]
+code="HEMPRICHII"
+issuer="GC6QFFV2KM2AB46CGY67ISTRNZURSTAKWN76S6PJJO4V75OVCJHQ3ZL3"
+status="live"
+display_decimals=4
+name="HEMPRICHII"
+fixed_number=25000000000
+desc="HEMPRICHII is issued by Eastellar Team."
+conditions="Maximum supply of HEMPRICHII is 25B tokens only"
+image="https://eastellar.com/images/HEMPRICHII.png"
+
+[[CURRENCIES]]
+code="USDNz"
+issuer="GDEDQN52BRGLRK3RUQ5JFWBIJB6KFWCMNHHI4472ASVRBYJZ45LUDKV4"
+status="live"
+display_decimals=4
+name="USDNz"
+fixed_number=25000000000
+desc="USDNz is issued by Eastellar Team."
+conditions="Maximum supply of USDNz is 25B tokens only"
+image="https://eastellar.com/images/USDNz.png"
+
+[[CURRENCIES]]
+code="MYCEDIUM"
+issuer="GC5N45SZRHYGMZMAT3NA47DW7NOX4LRSDUVOFJOLKXM7CVVPM4XAO6QB"
+status="live"
+display_decimals=4
+name="MYCEDIUM"
+fixed_number=25000000000
+desc="MYCEDIUM is issued by Eastellar Team."
+conditions="Maximum supply of MYCEDIUM is 25B tokens only"
+image="https://eastellar.com/images/MYCEDIUM.png"
+
+[[CURRENCIES]]
+code="SCRTz"
+issuer="GAWEZNZMY2FMZZ545XSKIPAW6HUIYZKADSEFX6IIH6N5YWJKN5I4VYXJ"
+status="live"
+display_decimals=4
+name="SCRTz"
+fixed_number=25000000000
+desc="SCRTz is issued by Eastellar Team."
+conditions="Maximum supply of SCRTz is 25B tokens only"
+image="https://eastellar.com/images/SCRTz.png"
+
+[[CURRENCIES]]
+code="ELEPHANTOTUS"
+issuer="GC3OKI7VZ7LDFZJR4O754M57G6RZLB6L7Q75FUXSIZEBZPJRXFK5RKXP"
+status="live"
+display_decimals=4
+name="ELEPHANTOTUS"
+fixed_number=25000000000
+desc="ELEPHANTOTUS is issued by Eastellar Team."
+conditions="Maximum supply of ELEPHANTOTUS is 25B tokens only"
+image="https://eastellar.com/images/ELEPHANTOTUS.png"
+
+[[CURRENCIES]]
+code="APEz"
+issuer="GDUQJIXOP2WBVDHP5EUMBG5SEAYJU43QBRUXXUTW6MBG54C2QRR7MVQJ"
+status="live"
+display_decimals=4
+name="APEz"
+fixed_number=25000000000
+desc="APEz is issued by Eastellar Team."
+conditions="Maximum supply of APEz is 25B tokens only"
+image="https://eastellar.com/images/APEz.png"
+
+[[CURRENCIES]]
+code="OXYPORA"
+issuer="GBQJBPYSD7UTWJJMLAENKYXBBNPAGBMQI4JBGW7BKF25OB3NZZWJARGT"
+status="live"
+display_decimals=4
+name="OXYPORA"
+fixed_number=25000000000
+desc="OXYPORA is issued by Eastellar Team."
+conditions="Maximum supply of OXYPORA is 25B tokens only"
+image="https://eastellar.com/images/OXYPORA.png"
+
+[[CURRENCIES]]
+code="1INCHz"
+issuer="GDNKRZEQXD2Z7HBJIS6EMICQKYOLPQQ3PCGNYAJU4AC6VGIHFSPS7PNN"
+status="live"
+display_decimals=4
+name="1INCHz"
+fixed_number=25000000000
+desc="1INCHz is issued by Eastellar Team."
+conditions="Maximum supply of 1INCHz is 25B tokens only"
+image="https://eastellar.com/images/1INCHz.png"
+
+[[CURRENCIES]]
+code="LARECA"
+issuer="GAXYAUC7BN2WP77D3BAAVBX7U73DGCA5UFPX2RBU26YIGCJ424QOP5MM"
+status="live"
+display_decimals=4
+name="LARECA"
+fixed_number=25000000000
+desc="LARECA is issued by Eastellar Team."
+conditions="Maximum supply of LARECA is 25B tokens only"
+image="https://eastellar.com/images/LARECA.png"
+
+[[CURRENCIES]]
+code="WAXPz"
+issuer="GAHG4SKHYSOHCE3UGR3NAIB7CGT4TTGFZJ6T6M3GZAFGJ4QSTEK2CXRO"
+status="live"
+display_decimals=4
+name="WAXPz"
+fixed_number=25000000000
+desc="WAXPz is issued by Eastellar Team."
+conditions="Maximum supply of WAXPz is 25B tokens only"
+image="https://eastellar.com/images/WAXPz.png"
+
+[[CURRENCIES]]
+code="PECTINIA"
+issuer="GC7FPKSZJIFJNQ7SYZWEZKJCB32JW7AST6SMEGVCBILQRT2TZT4W6ZHB"
+status="live"
+display_decimals=4
+name="PECTINIA"
+fixed_number=25000000000
+desc="PECTINIA is issued by Eastellar Team."
+conditions="Maximum supply of PECTINIA is 25B tokens only"
+image="https://eastellar.com/images/PECTINIA.png"
+
+[[CURRENCIES]]
+code="AUDIOz"
+issuer="GDO2JJCZ4ECY5F4I5EJCFNLQJRXJ3DAZUFCTH7XUOY7DVCFCCJ6OA3IE"
+status="live"
+display_decimals=4
+name="AUDIOz"
+fixed_number=25000000000
+desc="AUDIOz is issued by Eastellar Team."
+conditions="Maximum supply of AUDIOz is 25B tokens only"
+image="https://eastellar.com/images/AUDIOz.png"
+
+[[CURRENCIES]]
+code="LACTUCA"
+issuer="GBHWJ22RNRX5CWHQAP6UTJRM6WE5QZAWECDAWDDKSKAIWJZLGQLNX7TR"
+status="live"
+display_decimals=4
+name="LACTUCA"
+fixed_number=25000000000
+desc="LACTUCA is issued by Eastellar Team."
+conditions="Maximum supply of LACTUCA is 25B tokens only"
+image="https://eastellar.com/images/LACTUCA.png"
+
+[[CURRENCIES]]
+code="BNTz"
+issuer="GDNY7W2IBVYNPB7EVZQQLENLGGUQVRQQOFCBEPYKHBFE2U7UGSZKJ7BT"
+status="live"
+display_decimals=4
+name="BNTz"
+fixed_number=25000000000
+desc="BNTz is issued by Eastellar Team."
+conditions="Maximum supply of BNTz is 25B tokens only"
+image="https://eastellar.com/images/BNTz.png"
+
+[[CURRENCIES]]
+code="CORYMBOSA"
+issuer="GAM7BSFPGTCX5NZFSND2E77VNBFNVJGVHDWYOYWBFG2YHXIHAONV3P26"
+status="live"
+display_decimals=4
+name="CORYMBOSA"
+fixed_number=25000000000
+desc="CORYMBOSA is issued by Eastellar Team."
+conditions="Maximum supply of CORYMBOSA is 25B tokens only"
+image="https://eastellar.com/images/CORYMBOSA.png"
+
+[[CURRENCIES]]
+code="RNDRz"
+issuer="GCH4EUCRWL5IR346X2Q6WYCBP7R7J35OTKL6SDDGHIF6Q6WXYYGQ55UA"
+status="live"
+display_decimals=4
+name="RNDRz"
+fixed_number=25000000000
+desc="RNDRz is issued by Eastellar Team."
+conditions="Maximum supply of RNDRz is 25B tokens only"
+image="https://eastellar.com/images/RNDRz.png"
+
+[[CURRENCIES]]
+code="MUSHROOM"
+issuer="GANTQA5CV7VDV47A27AFCV2BMGLNE3JCIEFCVYSKQAWQXBANIWO4KEKX"
+status="live"
+display_decimals=4
+name="MUSHROOM"
+fixed_number=25000000000
+desc="MUSHROOM is issued by Eastellar Team."
+conditions="Maximum supply of MUSHROOM is 25B tokens only"
+image="https://eastellar.com/images/MUSHROOM.png"
+
+[[CURRENCIES]]
+code="BTGz"
+issuer="GD3P2K7JNVG6COO7NRBZ7LKVSAD7BILGGGADIU7C26UBITW42OREELSA"
+status="live"
+display_decimals=4
+name="BTGz"
+fixed_number=25000000000
+desc="BTGz is issued by Eastellar Team."
+conditions="Maximum supply of BTGz is 25B tokens only"
+image="https://eastellar.com/images/BTGz.png"
+
+[[CURRENCIES]]
+code="BRANCHING"
+issuer="GAHB6UU3CZF2LHLOYM42A36PTWUI5AHLQTPZ6CFR7O2Q5T2HBSFBZW3C"
+status="live"
+display_decimals=4
+name="BRANCHING"
+fixed_number=25000000000
+desc="BRANCHING is issued by Eastellar Team."
+conditions="Maximum supply of BRANCHING is 25B tokens only"
+image="https://eastellar.com/images/BRANCHING.png"
+
+[[CURRENCIES]]
+code="OMGz"
+issuer="GBTS7RXPP7GZJJ4M5Z7YK434O2QY77OCFGPWYHBK6ZS7E6RJXEL7UWAH"
+status="live"
+display_decimals=4
+name="OMGz"
+fixed_number=25000000000
+desc="OMGz is issued by Eastellar Team."
+conditions="Maximum supply of OMGz is 25B tokens only"
+image="https://eastellar.com/images/OMGz.png"
+
+[[CURRENCIES]]
+code="ACROPORIDAE"
+issuer="GBCKCPPFO5COODMC7R7T2JUEBEB4UC5NVZEUFX5EJBJCSOGXYZB6EZRD"
+status="live"
+display_decimals=4
+name="ACROPORIDAE"
+fixed_number=25000000000
+desc="ACROPORIDAE is issued by Eastellar Team."
+conditions="Maximum supply of ACROPORIDAE is 25B tokens only"
+image="https://eastellar.com/images/ACROPORIDAE.png"
+
+[[CURRENCIES]]
+code="GNOz"
+issuer="GBIWJAKB3DYOOJ6DUUUB3HPOTDQTPGI37XUEJ35NIGIL2H6DZ2BN6XRE"
+status="live"
+display_decimals=4
+name="GNOz"
+fixed_number=25000000000
+desc="GNOz is issued by Eastellar Team."
+conditions="Maximum supply of GNOz is 25B tokens only"
+image="https://eastellar.com/images/GNOz.png"
+
+[[CURRENCIES]]
+code="DASHz"
+issuer="GDVTH7GDCV5MDWNR2KXF4SISZ6DAJGC343VR46HZN6LNI5ELI6KBGL5L"
+status="live"
+display_decimals=4
+name="DASHz"
+fixed_number=25000000000
+desc="DASHz is issued by Eastellar Team."
+conditions="Maximum supply of DASHz is 25B tokens only"
+image="https://Eastellar.com/images/DASHZ.png"
