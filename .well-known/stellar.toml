@@ -4119,3 +4119,14 @@ fixed_number=25000000000
 desc="DASHz is issued by Eastellar Team."
 conditions="Maximum supply of DASHz is 25B tokens only"
 image="https://Eastellar.com/images/DASHZ.png"
+
+[[CURRENCIES]]
+code="TRUMPz"
+issuer="GCAISZJ5I73V5ZGEH5MDOB3XFD54344ZQ5X7OGVKUK5JL2LB3MB47COG"
+status="live"
+display_decimals=4
+name="TRUMPz"
+fixed_number=25000000000
+desc="TRUMPz is issued by Eastellar Team."
+conditions="Maximum supply of TRUMPz is 25B tokens only"
+image="https://Eastellar.com/images/TRUMPz.png"
